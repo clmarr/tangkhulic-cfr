@@ -30,12 +30,18 @@ $loss of length
 $Cr-, Cl- and remaining Cw- lose their sonorant element. Explains all 11 cases except rwok > ok, but that word alone is too little to go on.
 [+son,-syl] > ∅ / [-syl] __
 
-$TODO somewhere around here, ɐ seems to lower to a between stridents (v, ts, s, ʃ) and stops ... 
-
-
 
 $ w > j after o, dissimilation
 w > j / o __
 
 $ o raises to u before j 
 o > u / __ j
+
+$pʷ (< pʷ or bʷ) and w become v prevocalically. 
+[+round,-syl] > v / __ [+syl]
+
+$... but then v, of any source, goes back to w before o. 
+v > w / __ o 
+
+
+$TODO somewhere around here, ɐ seems to lower to a between stridents (v, ts, s, ʃ) and stops ... 

@@ -9,3 +9,5 @@ a > ɐ / __ [+cons,-lat]
 [+son,-syl] > ∅ / [-syl] __ 
 w > j / o __ 
 o > u / __ j
+[+round,-syl] > v / __ [+syl]
+v > w / __ o

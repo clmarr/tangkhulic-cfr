@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :42:
-#bʷu# >>> #pʷu# ( GOLD : #wo#) :
+#bʷu# >>> #vu# ( GOLD : #wo#) :
 bʷ u 
 #pʷu# | 2 : [-cont] > [-voi] 
-Final form : #pʷu#
+#vu# | 11 : [+round,-syl] > v / __ [+syl]
+Final form : #vu#
