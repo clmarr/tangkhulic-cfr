@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :356:
-#hlip# >>> #hlip# ( GOLD : #rip#) :
+#hlip# >>> #hip# ( GOLD : #rip#) :
 h l i p 
-Final form : #hlip#
+#hip# | 8 : [+son,-syl] > ∅ / [-syl] __ 
+Final form : #hip#

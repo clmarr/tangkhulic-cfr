@@ -6,6 +6,6 @@ l > j / [+syl] __
 {a a;u u;u w;w u;i j} > {aː;uː;uː;uː;iː} 
 a > ɐ / __ [+cons,-lat]
 [+syl] > [-long,-splng] 
-[+son,-syl] > ∅ / [+cons] __ 
+[+son,-syl] > ∅ / [-syl] __ 
 w > j / o __ 
 o > u / __ j

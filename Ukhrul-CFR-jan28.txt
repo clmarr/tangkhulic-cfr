@@ -28,7 +28,7 @@ $loss of length
 
 
 $Cr-, Cl- and remaining Cw- lose their sonorant element. Explains all 11 cases except rwok > ok, but that word alone is too little to go on.
-[+son,-syl] > ∅ / [+cons] __
+[+son,-syl] > ∅ / [-syl] __
 
 $TODO somewhere around here, ɐ seems to lower to a between stridents (v, ts, s, ʃ) and stops ... 
 

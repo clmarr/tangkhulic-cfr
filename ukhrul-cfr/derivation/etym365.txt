@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :365:
-#hwɨ# >>> #hwɨ# ( GOLD : #fu#) :
+#hwɨ# >>> #hɨ# ( GOLD : #fu#) :
 h w ɨ 
-Final form : #hwɨ#
+#hɨ# | 8 : [+son,-syl] > ∅ / [-syl] __ 
+Final form : #hɨ#
