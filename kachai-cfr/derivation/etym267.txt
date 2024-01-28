@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :267:
-#pʰaaŋ# >>> #pʰaaŋ# ( GOLD : #pʰo#) :
+#pʰaaŋ# >>> #pʰaːŋ# ( GOLD : #pʰo#) :
 pʰ a a ŋ 
-Final form : #pʰaaŋ#
+#pʰaːŋ# | 7 : {a a;u u} > {aː;uː} 
+Final form : #pʰaːŋ#

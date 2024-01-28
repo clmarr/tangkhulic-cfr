@@ -1,5 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :186:
-#jwor# >>> #jor# ( GOLD : #wor#) :
+#jwor# >>> #jwor# ( GOLD : #wor#) :
 j w o r 
-#jor# | 6 : [+son,-syl] > ∅ / [-syl] __ 
-Final form : #jor#
+Final form : #jwor#

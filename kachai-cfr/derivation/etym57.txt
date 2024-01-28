@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :57:
-#baan# >>> #paan# ( GOLD : #pon#) :
+#baan# >>> #paːn# ( GOLD : #pon#) :
 b a a n 
 #paan# | 5 : [-cont] > [-voi] 
-Final form : #paan#
+#paːn# | 7 : {a a;u u} > {aː;uː} 
+Final form : #paːn#

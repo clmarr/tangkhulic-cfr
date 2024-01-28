@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :211:
-#saar# >>> #saar# ( GOLD : #sor#) :
+#saar# >>> #saːr# ( GOLD : #sor#) :
 s a a r 
-Final form : #saar#
+#saːr# | 7 : {a a;u u} > {aː;uː} 
+Final form : #saːr#

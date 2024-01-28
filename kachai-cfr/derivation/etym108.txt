@@ -1,7 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :108:
 #tli# >>> #t͡si# ( GOLD : #t͡sɐ#) :
 t l i 
-#ti# | 6 : [+son,-syl] > ∅ / [-syl] __ 
-#ci# | 8 : [+cor,-cont] > c / __ i #
-#t͡si# | 11 : c > t͡s / __ [+front,-lo]
+#ti# | 6 : [+son,+cor,-syl] > ∅ / [-syl] __ 
+#ci# | 11 : [+cor,-cont] > c / __ i #
+#t͡si# | 14 : c > t͡s / __ [+front,-lo]
 Final form : #t͡si#

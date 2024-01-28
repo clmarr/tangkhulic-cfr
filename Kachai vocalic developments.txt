@@ -1,0 +1,197 @@
+Kachai vocalic developments
+
+
+Vowels by offset
+
+i1 = i that can feed palatalization and then become ɐ (in that order)
+i2 = i that does not feed i1 > ɐ stuff but is early enough to triggre palatalization. Later merges into i3. 
+i3 = i after loss of i1 and too late to feed palatalization
+
+e2 = secondary e after coda stuff happened to it. 
+
+
+ɐ2 = secondary ɐ that is too late to be affected by the shifts that happen to ɐ itself, e.g. becoming u word finally, and perhaps going to o before n, i or a before t. Unclear before velars as ɐ can retian its quality before those. But passage from i to this is before palatalizatoin thus bleeding it. 
+ɐ3 = too late for the above and also late enough that passage if to ɐ is after palatalizatoin 
+
+a1 = merge into a early enough to be affected by the earliest vowel mutations that happen to a, such as coda > u2
+	(aŋ > a2 not a1, ŋ must drop after a1 effects resovle)
+a2 = too late for coda a position effects, 
+
+u2 = u2 after non-post-labial > ɐ at coda, but before h > f before round vowels
+u3 = u2 after u-distortions and also after h > f
+
+o1 = merged in and sharing o's developments
+o2 = o after o's own effects and before ŋ > ∅
+o3 = merged after o > ɐ and after ŋ > ∅
+
+aj1 = sharing aj's development
+
+Vowel	#	m	p	n	t	r 	l	ŋ	k
+i¹ 	ɐ2	i3	i3	ɐ2	ɐ2	?	ɐ1/2/3	ɐ1/2	ɐ1/2
+	(ʔi tho)(j,ʃ,n,h,p) 	(no palatals att'd)
+		(may be secondary -- no coronal onsets)
+	(all examples for i# are coronal onsets or m-)
+
+ɨ	i3
+	but pʷi>we	
+
+il	ɐ2
+
+ej	i3	n/a for rest. 
+	(m,pʰ,l,k,d,tʰ,kʰ)
+
+ew	i2 or i3
+
+e	i2 or i3 ?	?	i1?ɐ	i1?ɐ, o	i1/2	?	e 	e
+				(pʰɐ)	(mɐ,po)			(r,th,bʷ)(t,l)
+
+ɐ 		a1/2	?	ko#?n	wa#?t	tʰa2r	?	ɐ2	ɐ2
+	(>u2?,				ʃi2/3t
+	only case is post lab.
+	so can't tell
+	u1 or u2/3
+	its not m, its pɐ
+
+a	Na > Nɐ2  a2	a2	o2/ɐ2	ɐ2	a2	ki3.#	a2	a2
+	else u2
+	incl.
+	many
+	non postlab
+	ma#- not att'd
+	FEEDS labialization.
+
+al	> ... > i3
+	(sharing outcome of oj, NOT aːl, ol and aj)
+
+aː	o2	o2	o2	o2	o2	o2	aj1	o3	o2
+		ʃa2m 							(after 
+									ŋ > ∅)
+
+aːl	> ... > we
+
+
+aw	o2
+
+aj	> ... > we 
+	(shared with aːl and ol, not ow or oj or al)
+
+o	ɐ2	?	i3	o2	ɐ2	o2	we	o2	ɐ2,a2
+	(no								(NOT aː2)
+	labials)						because ŋ 
+	k,h,l,s-	
+								still there.
+ol	> ... > we
+
+ow 	e2
+
+oj	i2/3
+	(pʷoj unatt.)
+	(but mi and pi)
+
+u	ɐ2	u	u	u	u	u	ul > wi	u	u
+	exc.	1 ʃi2/3m					ðɐŋ
+	lab __ 							juŋ>lɐŋ?
+	but							both weird
+	these							hom.splits
+	seem							ʃu cu lu tu too
+	restored.
+	wu > hɐ 
+	suggests this
+	is a 
+	u2/3 of sorts
+
+ul 	> ... > wi
+
+uː	?					u
+
+
+PKU ɨ > e / (< *pʷ( __ 
+PKU ɨ > i 
+	counterfeeds i > ɐ
+	counterfeeds patalization before i 
+	bled by PKU ɨ > ... > e / (< *pʷ) __ 
+
+
+
+$ Proto-Kachai-Ukhrul *ɨ > i, but too late to feed i > ɐ. After w, ɨ instead becomes e. 
+
+$ Proto-Kachai-Ukhrul *e > i ...
+	$ ... in ej, but this appears to be separate (tser > cir but tsej > ði, thej > thi etc...) 
+	$ ... in ew (phrew > phi, pew > pi, rew > ri) 
+	$ ... word finally (se > si, re > ri)
+	$ ... in __ r # : tsir > cir 
+
+ $ PKU e does not go to i in labial __ consonantal  (> e, ɐ, o)
+	$ bet > pot, bʷeŋ > veŋ , pʰen > pʰɐn, met > mɐt
+$ ... or post-velar: tʰeŋ > tʰeŋ, lek > lek, tek > tek, reŋ > reŋ (all of these are post-coronal) 
+
+   $ PKU *u actually usually stays as *u.
+	$ but prepausal > ɐ (one case to i)
+		$ kʰu > kʰɐ, nu > nɐ, du > dɐ, wu > hɐ
+		$ su > si ,
+		$ still u after labials: pu > fu, bʷu > vu
+		$ note evidence of ɐ > u after labials though (bɐ > pu )
+	$ and one before ŋ ː duŋ > ðɐŋ
+		$ but more exceptions : luŋ , ʃuŋ, cuŋ
+
+  $ PKU *ɐ ... sparse data issue. But...
+	$ seems to share outcome of o before t and k ... that being a or ɐ. (exception ʃɐt > ʃit)
+	$ one case of ɐ reflex before ŋ 
+	$ seems to merge with a (> u) in open syll : pɐ > pu , and before m (kʰɐm > kʰam )
+	$
+  $ PKU *ow -- all to e. After things happen to original e 
+  $ PKU *oj -- all to i. After things happen to original i. $Thus merge with most ɨ. Does happen after labials too (pi, mi).
+  $ recall PKU *ej > i too, also after ts > c. 
+  $ and PKU *ew > i, with less data
+  $ o# to ɐ (ko, ho, lo, so)
+  $ oC# -- seems complicated
+	$ kol > kwe  (given aː > l, consider also paːl > pwe) 
+	$ to ɐ ː kʰot > kʰɐ, bʷon > von > vɐn , hwot > .. > fɐt , rok > rɐk x2
+	$ to a : hwok > ... > fak 
+	$ reatined as o? : mor, roŋ, con , wor 
+	$ To i??? : kʰop > kʰip 
+  $ PKU *a: -- all to o it seems. secondarily pa:l > pol > pwe (cf. kol > kwe) . One exception is ʃaam > ʃaːm > ʃam (reflex of a before m is also distinctly a, distinct from most other *a reflexes)
+ $ PKU *aw -- all to o (all word final)
+ $ PKU *aj -- interesting
+	$ > we : maj praj plaj (>pwe), paj (> pwe), 
+		$ naj  (not raj, whihc > rɐ) 
+		$ laj split to le and lwe
+		$ ʃaj (caj > ce instead)
+		$ ŋaj split to mwe and nwe
+		$ kaj kʰaj x2
+	$ > e :caj and laj
+	$ > ɐ ː rɐ 
+ $ PKU final *a 
+	$ > u in ...
+		$ t͡sa > ða > ðu x3, sa >> su, 
+		$ da > ða > ðu , tla > ta > tu
+		$ la > la > lu x3, la > la > ru (?), ra > ra > ru
+		$ wa > wa > wu x2
+		$ ja > ja > ju x2 ; ca > ca > cu; ʃa >> ʃu x2
+		$ kʰa > kʰa > kʰu x3, ka >> ku
+		$ ha > ha > fu (?!) , ʔa >> ʔu
+		$ hwa > fa > fu x3
+		$ pa >> pu , pʰa >> pʰu, bʷa > va > vu
+	$ > a in ... these are exceptoins .. 
+		$ tʰa >> tʰa 
+		$ ra >> a ?!
+	$ > ɐ in ... (post-nasal?) 
+		$ na >> nɐ x 4
+		$ ŋa >> ŋɐ
+	$ > o in ... this is just weird, maybe lengthening happened. Exception. 
+		$ hla > la > lo 
+  $ PKU aC# ...
+	$ a, ɐ and a: > a before m, without exception
+	$ a and ɐ > a before r 
+	$ a protected as a before ŋ, without exception, before final ŋ drops, which it does AFTER LOW VOWELS specifically. 
+		(ɐ > ɐ here and aː > o, but hte latter is normal)
+	$ a / __ n > o (ran, han), or ɐ (phan, han) 
+	$ al > i?! (not il > ... > ɐ, ul > wi ,
+		$ aːl > we -- like aj, ol > we)
+				$(unlike ow > e, oj > i)
+	$ a protected before p and k largely 
+	$ a > ɐ before t (or in one case e in ʃat > se)
+
+
+
+ 

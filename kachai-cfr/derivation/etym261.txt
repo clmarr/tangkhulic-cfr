@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :261:
-#t͡saat# >>> #ðaat# ( GOLD : #ðot#) :
+#t͡saat# >>> #ðaːt# ( GOLD : #ðot#) :
 t͡s a a t 
-#ðaat# | 10 : t͡s > ð 
-Final form : #ðaat#
+#t͡saːt# | 7 : {a a;u u} > {aː;uː} 
+#ðaːt# | 13 : t͡s > ð 
+Final form : #ðaːt#

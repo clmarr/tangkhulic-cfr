@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :139:
-#waar# >>> #waar# ( GOLD : #hor#) :
+#waar# >>> #waːr# ( GOLD : #hor#) :
 w a a r 
-Final form : #waar#
+#waːr# | 7 : {a a;u u} > {aː;uː} 
+Final form : #waːr#

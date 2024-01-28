@@ -4,8 +4,11 @@ pʷ > w
 bʷ > v 
 d > ð / __ [+syl]
 [-cont] > [-voi] 
-[+son,-syl] > ∅ / [-syl] __ 
-h w > f / __ [-hi,+syl]
+[+son,+cor,-syl] > ∅ / [-syl] __ 
+{a a;u u} > {aː;uː} 
+h w > ɸ / __ [-hi,+syl]
+p > ɸ / __ u
+ɸ > f 
 [+cor,-cont] > c / __ i #
 [+cor,-cont] > c / __ i [-cons]
 t͡s > ð 

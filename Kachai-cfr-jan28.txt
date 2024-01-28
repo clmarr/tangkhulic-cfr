@@ -18,15 +18,27 @@ d > ð / __ [+syl]
 $remaining d (i.e. in dl-) and b are devoiced.
 [-cont] > [-voi]
 
-$remaining Cr- & Cl- and remaining Cw- lose their sonorant element. Shared with Ukhrul. 
-[+son,-syl] > ∅ / [-syl] __
+$remaining Cr- & Cl- lose their sonorant element. Shared with Ukhrul. 
+[+son,+cor,-syl] > ∅ / [-syl] __
 
-$ End of shared developments with Ukhrul.
+$aa and uu become long vowels.
+{a a;u u} > {aː;uː}
 
-$hw > f before a and o. One would be exception is before ɨ (lateɾ > i) , so non-high vowels is a good guess. 
-h w > f / __ [-hi,+syl]
+$hw > h before a and o. One would be exception is before ɨ (lateɾ > i) , so non-high vowels is a good guess. Upon later consideration it appears that hte best way to handle this is just w effacement in these places, rather than the previous theory of a Proto-Ukhrul-Kachai *ɸ. In Ukhrul this remains h but in Kachai the majority of these cases -- which happen to be #hw- because that is the majority of remaining Cw- clusters, end up as f. However there is a secondary explanation in this being caused by vowels that had been rounded by a later point of Kachai for this. The idiosyncracy of being blocked before high vowels nevertheless points to common development for this one. The two cases of pu > fu do still tease a *ɸ, but a whole sound change can't be proposed based off two homophones.  
+w > ∅ / [-syl] __ [-hi,+syl]
 
-$ ts appears to pass to ð except when before an i that is NOT before another consonant. Separately, t-, dl- (> tl- > t) and c- onsets appear to become ts- precisely in this context (i, without a following consonant). This all is clearly BEFORE Proto-Ukhrul-Kachai ɨ moves to i. Ciang is the only ci- word (nad htere are no ce- words before the passage of aj- and ow- to e.), and it goes to t͡s, so c might be a good thing to blame, given its place of articulation. This all has to happen before i > ɐ.
+=Proto-Kachai-Ukhrul
+$ End of shared developments with Ukhrul
+
+$PKU *e becomes *i word-initially and before coronals. Before *n and *t and thw word bound, this is early enough to feed i's own development into ɐ there (although to o in po), before r it is early enough to trigger palatalization. Word finally however it is after the i > ɐ phenomena (and no evidence that it triggered palatalization. Dealing with pre-coronal phenomena here, therefore.
+e > i / __ [+cor]
+
+$ɐ temporarily rises to ə, distinct from ɨ still, but not low so as to not trigger loss of final ŋ
+
+=Proto-Kachai I
+$after first wave of vowel mutations, with palatalization and labialization of consonants triggered by i and u as the boundary. 
+
+$ ts appears to pass to ð except when before an i that is NOT before another consonant. Separately, t-, dl- (> tl- > t) and c- onsets appear to become ts- precisely in this context (i, without a following consonant). This all is clearly BEFORE Proto-Ukhrul-Kachai ɨ moves to i. Ciang is the only ci- word (nad htere are no ce- words before the passage of aj- and ow- to e.), and it goes to t͡s, so c might be a good thing to blame, given its place of articulation. Furthermore, there is the case of tser > cir (but tsej > ði).  This all has to happen before i > ɐ.
 $1. coronal non-continuants go to c before i unless it is closed by a consonant. 
 [+cor,-cont] > c / __ i {#;[-cons]}
 
@@ -36,4 +48,14 @@ t͡s > ð
 $3. ci- (and ce-?) to ts(i,e). Gesture reassignment? 
 c > t͡s / __ [+front,-lo] 
 
-$ Proto-Kachai-Ukhrul *ɨ > i, but too late to feed i > ɐ
+=Proto-Kachai II 
+$delimited by final engma loss. 
+
+$ final ŋ effaced after low vowles (not including PKU ɐ which is currently ə)
+ŋ > ∅ / [+lo] __ #
+
+$ long a: passes to o. Clearly after final engma loss. 
+aː > o
+
+$ restoration of ɐ
+ə > ɐ

@@ -20,38 +20,35 @@ d > ð / __ [+syl]
 $2. remaining d (i.e. in dl-) and b are devoiced.
 [-cont] > [-voi]
 
+$remaining Cr- & Cl- and remaining Cw- lose their sonorant element -- or that was how I originally formulated this (revised under influence of Kachai CFR, see below). Explains all 11 cases except rwok > ok, but that word alone is too little to go on. Under consideration of Kachai, it seems that the Cr & Cl outcomes are shared, but not the remaining Cw- outcomes, so this is reflected here, wiht +cor added as a restriction on the output. 
+[+son,+cor,-syl] > ∅ / [-syl] __
+
+$aa and uu become long vowels.
+{a a;u u} > {aː;uː}
+
+$w lost in C __ V, shared with Kachai, except before high vowels. In Ukhrul this remains h but in Kachai the majority of these cases -- which happen to be #hw- because that is the majority of remaining Cw- clusters, end up as f. However there is a secondary explanation in this being caused by vowels that had been rounded by a later point of Kachai for this. The idiosyncracy of being blocked before high vowels nevertheless points to common development for this one. 
+w > ∅ / [-syl] __ [-hi,+syl]
+
+=Proto-Kachai-Ukhrul
 $end of shared Ukhrul-Kachai developments. 
 
 $ð merged into r
 ð > r
 
-
 $coda l > w after round vowels, else to -j. 
 l > w / [+round] __ 
 l > j / [+syl] __
 
-
-$remaining Cr- & Cl- and remaining Cw- lose their sonorant element. Explains all 11 cases except rwok > ok, but that word alone is too little to go on.
-[+son,-syl] > ∅ / [-syl] __
-
-
-$pʷ (< pʷ or bʷ) and w become v prevocalically. 
+$w (<pʷ and w merge with v (<bʷ) prevocalically. 
 [+round,-syl] > v / __ [+syl]
 
-
-$[uw] and [ij] sequences, both conspicuously absent from the input, are leveled. 
-$ this can be roped in with the replacement of the (orthographic) aa ii uu wiht a i u, whether this represents the loss of length of the loss of a hiatus vowel. 
-$This must resolve AFTER the raising of short a, because it counterfeeds that. 
-$I'll consider this as first the emergence of long segments, then their shortening. Current alpha bug prevents using htis, but this is really what's happening:  [-cons,ɑlo,βround,ɣfront,ðhi,ɛtense,ɸback] [-cons,ɑlo,βround,ɣfront,ðhi,ɛtense,ɸback] > [+long] ∅
-$seems to apply twice. 
-{a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː}
-{a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː}
-
+$[uw] and [ij] sequences, both conspicuously absent from the input, are leveled. In theory dealing with toher h
+{u w;uː w;w u;i j} > uː;uː;uː;uː;iː}
 
 $a > ɐ before stops (1 exceptionː pʷak > vak; but 8 other cases for -ak; 4 for -ap, 7 for -at) and nasals (1 exception ciaŋ > caŋ; otherwise 9 cases for -aŋ, 3 cases for -an, 7 for -am), and before -r (6 cases). Does not effect long aː though. Both exceptions are after possible glides but n=2 is not enough to posit htat as causative fimrly. 
 a > ɐ / __ [+cons,-lat]
 
-$loss of length
+$loss of length. Must be after a > ɐ phenomena, which it counterfeeds. 
 [+syl] > [-long]
 
 $ ɨ merges to u

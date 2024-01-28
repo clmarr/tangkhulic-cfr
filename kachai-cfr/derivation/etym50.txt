@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :50:
-#raap# >>> #raap# ( GOLD : #rop#) :
+#raap# >>> #raːp# ( GOLD : #rop#) :
 r a a p 
-Final form : #raap#
+#raːp# | 7 : {a a;u u} > {aː;uː} 
+Final form : #raːp#
