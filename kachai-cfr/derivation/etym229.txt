@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :229:
-#pʷuk# >>> #pʷuk# ( GOLD : #wuk#) :
+#pʷuk# >>> #wuk# ( GOLD : #wuk#) :
 pʷ u k 
-Final form : #pʷuk#
+#wuk# | 2 : pʷ > w 
+Final form : #wuk#

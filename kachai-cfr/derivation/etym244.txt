@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :244:
-#bʷon# >>> #bʷon# ( GOLD : #vɐn#) :
+#bʷon# >>> #von# ( GOLD : #vɐn#) :
 bʷ o n 
-Final form : #bʷon#
+#von# | 3 : bʷ > v 
+Final form : #von#

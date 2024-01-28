@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :5:
-#ar# >>> #ar# ( GOLD : #har#) :
+#ar# >>> #har# ( GOLD : #har#) :
 a r 
-Final form : #ar#
+#har# | 1 : ∅ > h / # __ a
+Final form : #har#

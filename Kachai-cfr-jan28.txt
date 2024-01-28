@@ -1,4 +1,23 @@
 $Kachai CFR built ex nihilo using Diasim for diagnostics. Did not consult the proposed cascades -- can run them if requested. (@author Clayton Marr, @date 1/27~28/2024)
 
+$hr , hl > r l . Placed early as it is shared with Kachai. 
+h > ∅ / __ [+cor,+son]
+
+$h epenthesized before onset a-. Shared with Kachai. 
+∅ > h / # __ a
+
+$pʷ merged into w, bʷ to v for now. 
+pʷ > w
+bʷ > v
+
+
 $prevocalic d passes to ð, before the loss of l in dl and the devoicing of those secondary d- onsets ot t-. 
 d > ð / __ [+syl]
+
+
+$ End of shared developments with Ukhrul.
+
+$
+
+$hw > f before a and o. One would be exception is before ɨ, so non-high vowels is a good guess.
+h w > f / __ [-hi,+syl]

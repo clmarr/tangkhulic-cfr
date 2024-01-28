@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :171:
 #duŋ# >>> #ðuŋ# ( GOLD : #ðɐŋ#) :
 d u ŋ 
-#ðuŋ# | 0 : d > ð / __ [+syl]
+#ðuŋ# | 4 : d > ð / __ [+syl]
 Final form : #ðuŋ#

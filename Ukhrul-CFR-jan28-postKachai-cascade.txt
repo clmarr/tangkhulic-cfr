@@ -1,21 +1,36 @@
-$Ukhrul CFR built ex nihilo using Diasim for diagnostics. Did not consult the proposed cascades in the Slack chat - -will run them later. (1/27~28/2024)
+$Ukhrul CFR built ex nihilo using Diasim for diagnostics. Did not consult the proposed cascades in the Slack chat - -will run them later if requested. (@author Clayton Marr, @date 1/27~28/2024)
 
-$h epenthesized before onset a- 
+$ This first part covers shared Kachai-Ukhrul developments. 
+
+$hr , hl > r l . Moved up as it is shared with Kachai. 
+h > ∅ / __ [+cor,+son]
+
+$h epenthesized before onset a-. Shared with Kachai. 
 ∅ > h / # __ a
+
+$pʷ merged into w, bʷ to v for now. Chronology of pʷ/bʷ/w mergers (and then secondary split with v) revised in consideration of Kachai. 
+pʷ > w
+bʷ > v
 
 $elimination of the remaining voiced consonants through various means here. Already lacking g, sound change conspiracy ensues that removes the rest.
 $1. d not in clusters passes to r (one exception of tuŋ has apparent homophone split. Maybe this was actually dlung?) 
-d > r / __ [+syl]
+$ based on evidence from Kachai, it is likely this was actually originally d > ð (as still extant in Kachai) before ð merged with r (in Ukhrul). Changed to reflect this. 
+d > ð / __ [+syl]
 
-$2. remaining d (i.e. in dl-), bʷ and b are devoiced.
+$2. remaining d (i.e. in dl-) and b are devoiced.
 [-cont] > [-voi]
+
+$end of shared Ukhrul-Kachai developments. 
+
+$ð merged into r
+ð > r
+
 
 $coda l > w after round vowels, else to -j. 
 l > w / [+round] __ 
 l > j / [+syl] __
 
-$hr , hl > r l 
-h > ∅ / __ [+cor,+son]
+
 
 $remaining Cr- & Cl- and remaining Cw- lose their sonorant element. Explains all 11 cases except rwok > ok, but that word alone is too little to go on.
 [+son,-syl] > ∅ / [-syl] __
