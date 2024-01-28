@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :109:
 #ŋa# >>> #ŋa# ( GOLD : #ŋɐ#) :
 ŋ a 
+Final form : #ŋa#

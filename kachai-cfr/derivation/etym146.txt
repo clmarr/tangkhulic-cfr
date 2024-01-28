@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :146:
 #sam# >>> #sam# ( GOLD : #sam#) :
 s a m 
+Final form : #sam#

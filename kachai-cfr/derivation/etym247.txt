@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :247:
 #rik# >>> #rik# ( GOLD : #lɐk#) :
 r i k 
+Final form : #rik#

@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :190:
 #raj# >>> #raj# ( GOLD : #rɐ#) :
 r a j 
+Final form : #raj#

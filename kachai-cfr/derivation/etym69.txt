@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :69:
 #pʰan# >>> #pʰan# ( GOLD : #pʰɐn#) :
 pʰ a n 
+Final form : #pʰan#

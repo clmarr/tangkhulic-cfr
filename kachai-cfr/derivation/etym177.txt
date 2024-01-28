@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :177:
 #kaap# >>> #kaap# ( GOLD : #kop#) :
 k a a p 
+Final form : #kaap#

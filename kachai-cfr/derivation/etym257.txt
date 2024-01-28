@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :257:
 #saam# >>> #saam# ( GOLD : #som#) :
 s a a m 
+Final form : #saam#

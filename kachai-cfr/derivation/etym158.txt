@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :158:
 #jap# >>> #jap# ( GOLD : #jap#) :
 j a p 
+Final form : #jap#

@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :223:
 #hrit# >>> #hrit# ( GOLD : #rɐt#) :
 h r i t 
+Final form : #hrit#

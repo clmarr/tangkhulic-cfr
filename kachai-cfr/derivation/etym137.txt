@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :137:
 #han# >>> #han# ( GOLD : #hɐn#) :
 h a n 
+Final form : #han#

@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :14:
 #kʰu# >>> #kʰu# ( GOLD : #kʰɐ#) :
 kʰ u 
+Final form : #kʰu#

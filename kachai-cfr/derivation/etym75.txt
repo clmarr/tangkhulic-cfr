@@ -1,3 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :75:
-#dɨ# >>> #dɨ# ( GOLD : #ði#) :
+#dɨ# >>> #ðɨ# ( GOLD : #ði#) :
 d ɨ 
+#ðɨ# | 0 : d > ð / __ [+syl]
+Final form : #ðɨ#

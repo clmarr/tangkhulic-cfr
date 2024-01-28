@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :54:
 #laj# >>> #laj# ( GOLD : #le#) :
 l a j 
+Final form : #laj#

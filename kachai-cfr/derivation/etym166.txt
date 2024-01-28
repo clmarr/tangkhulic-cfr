@@ -1,3 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :166:
-#da# >>> #da# ( GOLD : #ðu#) :
+#da# >>> #ða# ( GOLD : #ðu#) :
 d a 
+#ða# | 0 : d > ð / __ [+syl]
+Final form : #ða#

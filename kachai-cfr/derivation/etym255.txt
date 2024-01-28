@@ -1,3 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :255:
-#dej# >>> #dej# ( GOLD : #ði#) :
+#dej# >>> #ðej# ( GOLD : #ði#) :
 d e j 
+#ðej# | 0 : d > ð / __ [+syl]
+Final form : #ðej#

@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :34:
 #t͡ser# >>> #t͡ser# ( GOLD : #cir#) :
 t͡s e r 
+Final form : #t͡ser#
