@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :352:
-#hoj# >>> #hoj# ( GOLD : #huj#) :
+#hoj# >>> #huj# ( GOLD : #huj#) :
 h o j 
-Final form : #hoj#
+#huj# | 7 : o > u / __ j
+Final form : #huj#

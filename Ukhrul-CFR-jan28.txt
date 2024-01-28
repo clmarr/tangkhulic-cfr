@@ -18,3 +18,9 @@ a > ɐ / __ [+cons,-lat]
 
 $loss of length
 [+syl] > [-long]
+
+$ w > j after o, dissimilation
+w > j / o __
+
+$ o raises to u before j 
+o > u / __ j
