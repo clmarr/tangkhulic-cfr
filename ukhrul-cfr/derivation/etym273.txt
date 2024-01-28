@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :273:
 #joŋ# >>> #joŋ# ( GOLD : #joŋ#) :
 j o ŋ 
+Final form : #joŋ#

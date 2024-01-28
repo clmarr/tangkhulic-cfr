@@ -1,3 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :282:
-#car# >>> #car# ( GOLD : #cɐr#) :
+#car# >>> #cɐr# ( GOLD : #cɐr#) :
 c a r 
+#cɐr# | 4 : a > ɐ / __ [+cons,-lat]
+Final form : #cɐr#

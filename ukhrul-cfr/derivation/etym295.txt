@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :295:
 #ŋaj# >>> #ŋaj# ( GOLD : #naj#) :
 ŋ a j 
+Final form : #ŋaj#

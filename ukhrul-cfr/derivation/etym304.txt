@@ -1,3 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :304:
-#kal# >>> #kal# ( GOLD : #kej#) :
+#kal# >>> #kaj# ( GOLD : #kej#) :
 k a l 
+#kaj# | 2 : l > j / [+syl] __ 
+Final form : #kaj#

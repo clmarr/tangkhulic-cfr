@@ -1,3 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :54:
-#pʰaar# >>> #pʰaar# ( GOLD : #pʰar#) :
+#pʰaar# >>> #pʰar# ( GOLD : #pʰar#) :
 pʰ a a r 
+#pʰaːr# | 3 : {a a;u u;u w;i j} > {aː;uː;uː;iː} 
+#pʰar# | 5 : [+syl] > [-long,-splng] 
+Final form : #pʰar#

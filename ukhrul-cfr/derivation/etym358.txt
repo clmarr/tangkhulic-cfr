@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :358:
 #hrit# >>> #hrit# ( GOLD : #rit#) :
 h r i t 
+Final form : #hrit#

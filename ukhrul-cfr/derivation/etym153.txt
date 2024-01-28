@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :153:
 #dom# >>> #dom# ( GOLD : #rom#) :
 d o m 
+Final form : #dom#

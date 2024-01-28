@@ -1,3 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :65:
-#pʷak# >>> #pʷak# ( GOLD : #vak#) :
+#pʷak# >>> #pʷɐk# ( GOLD : #vak#) :
 pʷ a k 
+#pʷɐk# | 4 : a > ɐ / __ [+cons,-lat]
+Final form : #pʷɐk#

@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :110:
 #rik# >>> #rik# ( GOLD : #rik#) :
 r i k 
+Final form : #rik#

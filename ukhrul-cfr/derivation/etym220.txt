@@ -1,3 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :220:
-#t͡sap# >>> #t͡sap# ( GOLD : #cɐp#) :
+#t͡sap# >>> #t͡sɐp# ( GOLD : #cɐp#) :
 t͡s a p 
+#t͡sɐp# | 4 : a > ɐ / __ [+cons,-lat]
+Final form : #t͡sɐp#

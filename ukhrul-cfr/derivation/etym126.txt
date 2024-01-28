@@ -1,3 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :126:
-#nap# >>> #nap# ( GOLD : #nɐp#) :
+#nap# >>> #nɐp# ( GOLD : #nɐp#) :
 n a p 
+#nɐp# | 4 : a > ɐ / __ [+cons,-lat]
+Final form : #nɐp#

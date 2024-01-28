@@ -1,3 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :109:
-#ril# >>> #ril# ( GOLD : #ri#) :
+#ril# >>> #ri# ( GOLD : #ri#) :
 r i l 
+#rij# | 2 : l > j / [+syl] __ 
+#riː# | 3 : {a a;u u;u w;i j} > {aː;uː;uː;iː} 
+#ri# | 5 : [+syl] > [-long,-splng] 
+Final form : #ri#

@@ -1,3 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :301:
-#kaap# >>> #kaap# ( GOLD : #kap#) :
+#kaap# >>> #kap# ( GOLD : #kap#) :
 k a a p 
+#kaːp# | 3 : {a a;u u;u w;i j} > {aː;uː;uː;iː} 
+#kap# | 5 : [+syl] > [-long,-splng] 
+Final form : #kap#

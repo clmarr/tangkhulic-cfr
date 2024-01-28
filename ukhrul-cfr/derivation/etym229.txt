@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :229:
 #t͡si# >>> #t͡si# ( GOLD : #ci#) :
 t͡s i 
+Final form : #t͡si#

@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :213:
 #sum# >>> #sum# ( GOLD : #ʃim#) :
 s u m 
+Final form : #sum#

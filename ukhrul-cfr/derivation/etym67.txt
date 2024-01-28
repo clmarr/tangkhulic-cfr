@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :67:
 #pʷuk# >>> #pʷuk# ( GOLD : #vuk#) :
 pʷ u k 
+Final form : #pʷuk#

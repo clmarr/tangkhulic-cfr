@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :20:
 #miŋ# >>> #miŋ# ( GOLD : #miŋ#) :
 m i ŋ 
+Final form : #miŋ#

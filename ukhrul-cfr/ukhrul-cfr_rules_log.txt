@@ -1,0 +1,6 @@
+∅ > h / # __ a
+l > w / [+round] __ 
+l > j / [+syl] __ 
+{a a;u u;u w;i j} > {aː;uː;uː;iː} 
+a > ɐ / __ [+cons,-lat]
+[+syl] > [-long,-splng] 

@@ -1,3 +1,4 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :21:
 #mor# >>> #mor# ( GOLD : #mor#) :
 m o r 
+Final form : #mor#

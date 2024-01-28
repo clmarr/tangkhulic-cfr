@@ -1,3 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :335:
-#kʰuul# >>> #kʰuul# ( GOLD : #kʰu#) :
+#kʰuul# >>> #kʰuw# ( GOLD : #kʰu#) :
 kʰ u u l 
+#kʰuuw# | 1 : l > w / [+round] __ 
+#kʰuːw# | 3 : {a a;u u;u w;i j} > {aː;uː;uː;iː} 
+#kʰuw# | 5 : [+syl] > [-long,-splng] 
+Final form : #kʰuw#
