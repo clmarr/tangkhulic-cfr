@@ -31,7 +31,6 @@ l > w / [+round] __
 l > j / [+syl] __
 
 
-
 $remaining Cr- & Cl- and remaining Cw- lose their sonorant element. Explains all 11 cases except rwok > ok, but that word alone is too little to go on.
 [+son,-syl] > ∅ / [-syl] __
 

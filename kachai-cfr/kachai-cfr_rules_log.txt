@@ -3,4 +3,6 @@ h > ∅ / __ [+cor,+son]
 pʷ > w 
 bʷ > v 
 d > ð / __ [+syl]
+[-cont] > [-voi] 
+[+son,-syl] > ∅ / [-syl] __ 
 h w > f / __ [-hi,+syl]

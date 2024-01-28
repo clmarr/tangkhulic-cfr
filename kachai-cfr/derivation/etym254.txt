@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :254:
-#hwot# >>> #fot# ( GOLD : #fɐt#) :
+#hwot# >>> #hot# ( GOLD : #fɐt#) :
 h w o t 
-#fot# | 5 : h w > f / __ [-hi,+syl]
-Final form : #fot#
+#hot# | 6 : [+son,-syl] > ∅ / [-syl] __ 
+Final form : #hot#

@@ -15,9 +15,13 @@ $prevocalic d passes to ð, before the loss of l in dl and the devoicing of thos
 d > ð / __ [+syl]
 
 
-$ End of shared developments with Ukhrul.
+$remaining d (i.e. in dl-) and b are devoiced.
+[-cont] > [-voi]
 
-$
+$remaining Cr- & Cl- and remaining Cw- lose their sonorant element. Shared with Ukhrul. 
+[+son,-syl] > ∅ / [-syl] __
+
+$ End of shared developments with Ukhrul.
 
 $hw > f before a and o. One would be exception is before ɨ, so non-high vowels is a good guess.
 h w > f / __ [-hi,+syl]
