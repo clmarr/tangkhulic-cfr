@@ -1,5 +1,8 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :275:
 #t͡sar# >>> #ðar# ( GOLD : #ðar#) :
 t͡s a r 
-#ðar# | 13 : t͡s > ð 
+Proto-Kachai-Ukhrul stage form : #t͡sar#
+Proto-Kachai I stage form : #t͡sar#
+#ðar# | 12 : t͡s > ð 
+Proto-Kachai II  stage form : #ðar#
 Final form : #ðar#

@@ -1,4 +1,8 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :181:
-#met# >>> #met# ( GOLD : #mɐt#) :
+#met# >>> #mit# ( GOLD : #mɐt#) :
 m e t 
-Final form : #met#
+Proto-Kachai-Ukhrul stage form : #met#
+#mit# | 9 : e > i / __ [+cor]
+Proto-Kachai I stage form : #mit#
+Proto-Kachai II  stage form : #mit#
+Final form : #mit#

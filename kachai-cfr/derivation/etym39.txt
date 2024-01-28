@@ -1,5 +1,9 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :39:
-#caam# >>> #caːm# ( GOLD : #com#) :
+#caam# >>> #com# ( GOLD : #com#) :
 c a a m 
 #caːm# | 7 : {a a;u u} > {aː;uː} 
-Final form : #caːm#
+Proto-Kachai-Ukhrul stage form : #caːm#
+Proto-Kachai I stage form : #caːm#
+Proto-Kachai II  stage form : #caːm#
+#com# | 15 : aː > o 
+Final form : #com#

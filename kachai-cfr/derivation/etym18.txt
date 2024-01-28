@@ -2,4 +2,7 @@ Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :18:
 #hriŋ# >>> #riŋ# ( GOLD : #rɐŋ#) :
 h r i ŋ 
 #riŋ# | 0 : h > ∅ / __ [+cor,+son]
+Proto-Kachai-Ukhrul stage form : #riŋ#
+Proto-Kachai I stage form : #riŋ#
+Proto-Kachai II  stage form : #riŋ#
 Final form : #riŋ#

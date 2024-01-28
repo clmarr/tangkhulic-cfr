@@ -1,6 +1,10 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :74:
-#baal# >>> #paːl# ( GOLD : #pwe#) :
+#baal# >>> #pol# ( GOLD : #pwe#) :
 b a a l 
 #paal# | 5 : [-cont] > [-voi] 
 #paːl# | 7 : {a a;u u} > {aː;uː} 
-Final form : #paːl#
+Proto-Kachai-Ukhrul stage form : #paːl#
+Proto-Kachai I stage form : #paːl#
+Proto-Kachai II  stage form : #paːl#
+#pol# | 15 : aː > o 
+Final form : #pol#

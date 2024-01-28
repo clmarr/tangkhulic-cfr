@@ -1,4 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :84:
 #sum# >>> #sum# ( GOLD : #ʃim#) :
 s u m 
+Proto-Kachai-Ukhrul stage form : #sum#
+Proto-Kachai I stage form : #sum#
+Proto-Kachai II  stage form : #sum#
 Final form : #sum#

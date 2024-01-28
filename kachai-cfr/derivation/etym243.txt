@@ -3,4 +3,7 @@ Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :243:
 d l i ŋ 
 #tliŋ# | 5 : [-cont] > [-voi] 
 #tiŋ# | 6 : [+son,+cor,-syl] > ∅ / [-syl] __ 
+Proto-Kachai-Ukhrul stage form : #tiŋ#
+Proto-Kachai I stage form : #tiŋ#
+Proto-Kachai II  stage form : #tiŋ#
 Final form : #tiŋ#

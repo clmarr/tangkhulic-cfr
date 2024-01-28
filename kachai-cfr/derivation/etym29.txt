@@ -1,4 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :29:
 #na# >>> #na# ( GOLD : #nɐ#) :
 n a 
+Proto-Kachai-Ukhrul stage form : #na#
+Proto-Kachai I stage form : #na#
+Proto-Kachai II  stage form : #na#
 Final form : #na#

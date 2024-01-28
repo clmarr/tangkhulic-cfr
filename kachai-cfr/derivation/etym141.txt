@@ -1,4 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :141:
 #kaj# >>> #kaj# ( GOLD : #kwe#) :
 k a j 
+Proto-Kachai-Ukhrul stage form : #kaj#
+Proto-Kachai I stage form : #kaj#
+Proto-Kachai II  stage form : #kaj#
 Final form : #kaj#

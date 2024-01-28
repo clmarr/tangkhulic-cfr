@@ -1,4 +1,8 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :53:
-#pʰen# >>> #pʰen# ( GOLD : #pʰɐn#) :
+#pʰen# >>> #pʰin# ( GOLD : #pʰɐn#) :
 pʰ e n 
-Final form : #pʰen#
+Proto-Kachai-Ukhrul stage form : #pʰen#
+#pʰin# | 9 : e > i / __ [+cor]
+Proto-Kachai I stage form : #pʰin#
+Proto-Kachai II  stage form : #pʰin#
+Final form : #pʰin#

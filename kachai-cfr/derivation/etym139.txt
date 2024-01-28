@@ -1,5 +1,9 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :139:
-#waar# >>> #waːr# ( GOLD : #hor#) :
+#waar# >>> #wor# ( GOLD : #hor#) :
 w a a r 
 #waːr# | 7 : {a a;u u} > {aː;uː} 
-Final form : #waːr#
+Proto-Kachai-Ukhrul stage form : #waːr#
+Proto-Kachai I stage form : #waːr#
+Proto-Kachai II  stage form : #waːr#
+#wor# | 15 : aː > o 
+Final form : #wor#

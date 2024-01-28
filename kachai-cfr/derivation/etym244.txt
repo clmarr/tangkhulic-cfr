@@ -2,4 +2,7 @@ Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :244:
 #bʷon# >>> #von# ( GOLD : #vɐn#) :
 bʷ o n 
 #von# | 3 : bʷ > v 
+Proto-Kachai-Ukhrul stage form : #von#
+Proto-Kachai I stage form : #von#
+Proto-Kachai II  stage form : #von#
 Final form : #von#

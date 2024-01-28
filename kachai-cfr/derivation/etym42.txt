@@ -2,4 +2,7 @@ Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :42:
 #tlow# >>> #tow# ( GOLD : #te#) :
 t l o w 
 #tow# | 6 : [+son,+cor,-syl] > ∅ / [-syl] __ 
+Proto-Kachai-Ukhrul stage form : #tow#
+Proto-Kachai I stage form : #tow#
+Proto-Kachai II  stage form : #tow#
 Final form : #tow#

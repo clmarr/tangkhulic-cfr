@@ -1,4 +1,8 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :8:
-#rwok# >>> #rwok# ( GOLD : #rɐk#) :
+#rwok# >>> #rok# ( GOLD : #rɐk#) :
 r w o k 
-Final form : #rwok#
+#rok# | 8 : w > ∅ / [-syl] __ [-hi,+syl]
+Proto-Kachai-Ukhrul stage form : #rok#
+Proto-Kachai I stage form : #rok#
+Proto-Kachai II  stage form : #rok#
+Final form : #rok#

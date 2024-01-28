@@ -1,4 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :28:
 #pew# >>> #pew# ( GOLD : #pi#) :
 p e w 
+Proto-Kachai-Ukhrul stage form : #pew#
+Proto-Kachai I stage form : #pew#
+Proto-Kachai II  stage form : #pew#
 Final form : #pew#

@@ -2,6 +2,9 @@ Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :108:
 #tli# >>> #t͡si# ( GOLD : #t͡sɐ#) :
 t l i 
 #ti# | 6 : [+son,+cor,-syl] > ∅ / [-syl] __ 
-#ci# | 11 : [+cor,-cont] > c / __ i #
-#t͡si# | 14 : c > t͡s / __ [+front,-lo]
+Proto-Kachai-Ukhrul stage form : #ti#
+Proto-Kachai I stage form : #ti#
+#ci# | 10 : [+cor,-cont] > c / __ i #
+#t͡si# | 13 : c > t͡s / __ [+front,-lo]
+Proto-Kachai II  stage form : #t͡si#
 Final form : #t͡si#

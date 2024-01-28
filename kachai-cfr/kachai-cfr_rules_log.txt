@@ -6,10 +6,12 @@ d > ð / __ [+syl]
 [-cont] > [-voi] 
 [+son,+cor,-syl] > ∅ / [-syl] __ 
 {a a;u u} > {aː;uː} 
-h w > ɸ / __ [-hi,+syl]
-p > ɸ / __ u
-ɸ > f 
+w > ∅ / [-syl] __ [-hi,+syl]
+e > i / __ [+cor]
 [+cor,-cont] > c / __ i #
 [+cor,-cont] > c / __ i [-cons]
 t͡s > ð 
 c > t͡s / __ [+front,-lo]
+ŋ > ∅ / [+lo] __ #
+aː > o 
+ə > ɐ 
