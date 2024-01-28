@@ -2,5 +2,5 @@ Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :147:
 #dar# >>> #rɐr# ( GOLD : #rɐr#) :
 d a r 
 #rar# | 1 : d > r / __ [+syl]
-#rɐr# | 6 : a > ɐ / __ [+cons,-lat]
+#rɐr# | 10 : a > ɐ / __ [+cons,-lat]
 Final form : #rɐr#

@@ -3,14 +3,16 @@ d > r / __ [+syl]
 [-cont] > [-voi] 
 l > w / [+round] __ 
 l > j / [+syl] __ 
-{a a;u u;u w;w u;i j} > {aː;uː;uː;uː;iː} 
+h > ∅ / __ [+cor,+son]
+[+son,-syl] > ∅ / [-syl] __ 
+[+round,-syl] > v / __ [+syl]
+{a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː} 
+{a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː} 
 a > ɐ / __ [+cons,-lat]
 [+syl] > [-long,-splng] 
 ɨ > u 
-[+son,-syl] > ∅ / [-syl] __ 
 w > j / o __ 
 o > u / __ j
-[+round,-syl] > v / __ [+syl]
 v > w / __ o
 ɐ > a / [+hi,-cont] __ [+nas]
 ɐ > a / [+strid] __ [-cont]

@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :202:
 #sak# >>> #sak# ( GOLD : #sak#) :
 s a k 
-#sɐk# | 6 : a > ɐ / __ [+cons,-lat]
-#sak# | 15 : ɐ > a / [+strid] __ [-cont]
+#sɐk# | 10 : a > ɐ / __ [+cons,-lat]
+#sak# | 17 : ɐ > a / [+strid] __ [-cont]
 Final form : #sak#

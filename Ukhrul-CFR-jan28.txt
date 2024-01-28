@@ -14,11 +14,25 @@ $coda l > w after round vowels, else to -j.
 l > w / [+round] __ 
 l > j / [+syl] __
 
+$hr , hl > r l 
+h > ∅ / __ [+cor,+son]
+
+$remaining Cr- & Cl- and remaining Cw- lose their sonorant element. Explains all 11 cases except rwok > ok, but that word alone is too little to go on.
+[+son,-syl] > ∅ / [-syl] __
+
+
+$pʷ (< pʷ or bʷ) and w become v prevocalically. 
+[+round,-syl] > v / __ [+syl]
+
+
 $[uw] and [ij] sequences, both conspicuously absent from the input, are leveled. 
 $ this can be roped in with the replacement of the (orthographic) aa ii uu wiht a i u, whether this represents the loss of length of the loss of a hiatus vowel. 
 $This must resolve AFTER the raising of short a, because it counterfeeds that. 
 $I'll consider this as first the emergence of long segments, then their shortening. Current alpha bug prevents using htis, but this is really what's happening:  [-cons,ɑlo,βround,ɣfront,ðhi,ɛtense,ɸback] [-cons,ɑlo,βround,ɣfront,ðhi,ɛtense,ɸback] > [+long] ∅
-{a a;u u;u w;w u;i j} > {aː;uː;uː;uː;iː}
+$seems to apply twice. 
+{a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː}
+{a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː}
+
 
 $a > ɐ before stops (1 exceptionː pʷak > vak; but 8 other cases for -ak; 4 for -ap, 7 for -at) and nasals (1 exception ciaŋ > caŋ; otherwise 9 cases for -aŋ, 3 cases for -an, 7 for -am), and before -r (6 cases). Does not effect long aː though. Both exceptions are after possible glides but n=2 is not enough to posit htat as causative fimrly. 
 a > ɐ / __ [+cons,-lat]
@@ -29,18 +43,12 @@ $loss of length
 $ ɨ merges to u
 ɨ > u
 
-$Cr-, Cl- and remaining Cw- lose their sonorant element. Explains all 11 cases except rwok > ok, but that word alone is too little to go on.
-[+son,-syl] > ∅ / [-syl] __
-
-
 $ w > j after o, dissimilation
 w > j / o __
 
 $ o raises to u before j 
 o > u / __ j
 
-$pʷ (< pʷ or bʷ) and w become v prevocalically. 
-[+round,-syl] > v / __ [+syl]
 
 $... but then v, of any source, goes back to w before o. 
 v > w / __ o 

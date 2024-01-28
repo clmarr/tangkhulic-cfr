@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :323:
 #kʰɐm# >>> #kʰam# ( GOLD : #kʰam#) :
 kʰ ɐ m 
-#kʰam# | 14 : ɐ > a / [+hi,-cont] __ [+nas]
+#kʰam# | 16 : ɐ > a / [+hi,-cont] __ [+nas]
 Final form : #kʰam#

@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :274:
 #jwor# >>> #jor# ( GOLD : #jor#) :
 j w o r 
-#jor# | 9 : [+son,-syl] > ∅ / [-syl] __ 
+#jor# | 6 : [+son,-syl] > ∅ / [-syl] __ 
 Final form : #jor#

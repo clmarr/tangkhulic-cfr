@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :308:
 #kɐn# >>> #kan# ( GOLD : #kan#) :
 k ɐ n 
-#kan# | 14 : ɐ > a / [+hi,-cont] __ [+nas]
+#kan# | 16 : ɐ > a / [+hi,-cont] __ [+nas]
 Final form : #kan#

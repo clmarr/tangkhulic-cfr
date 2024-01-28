@@ -3,6 +3,6 @@ Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :34:
 b a a l 
 #paal# | 2 : [-cont] > [-voi] 
 #paaj# | 4 : l > j / [+syl] __ 
-#paːj# | 5 : {a a;u u;u w;w u;i j} > {aː;uː;uː;uː;iː} 
-#paj# | 7 : [+syl] > [-long,-splng] 
+#paːj# | 8 : {a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː} 
+#paj# | 11 : [+syl] > [-long,-splng] 
 Final form : #paj#

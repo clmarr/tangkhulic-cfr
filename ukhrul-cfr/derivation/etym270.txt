@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :270:
 #jak# >>> #jɐk# ( GOLD : #jɐk#) :
 j a k 
-#jɐk# | 6 : a > ɐ / __ [+cons,-lat]
+#jɐk# | 10 : a > ɐ / __ [+cons,-lat]
 Final form : #jɐk#
