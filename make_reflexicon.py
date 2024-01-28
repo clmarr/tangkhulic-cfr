@@ -7,7 +7,7 @@ EMPTY_INDIC = "-"
 TSV_LOC = "ptk-"+LANG.lower()+".tsv"
 PH_DELIM = " "
 
-OUTFILE_LOC = LANG+"-cfr-jan28.txt"
+OUTFILE_LOC = LANG+"-lexicon.txt"
 
 DIACRITS = ["ʷ","ʰ"]
 AFFRICS = {"ts": "t͡s"}

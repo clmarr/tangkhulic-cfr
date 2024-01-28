@@ -1,0 +1,3 @@
+Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :42:
+#tlow# >>> #tlow# ( GOLD : #te#) :
+t l o w 
