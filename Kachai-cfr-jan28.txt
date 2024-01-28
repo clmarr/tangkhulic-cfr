@@ -23,5 +23,17 @@ $remaining Cr- & Cl- and remaining Cw- lose their sonorant element. Shared with 
 
 $ End of shared developments with Ukhrul.
 
-$hw > f before a and o. One would be exception is before ɨ, so non-high vowels is a good guess.
+$hw > f before a and o. One would be exception is before ɨ (lateɾ > i) , so non-high vowels is a good guess. 
 h w > f / __ [-hi,+syl]
+
+$ ts appears to pass to ð except when before an i that is NOT before another consonant. Separately, t-, dl- (> tl- > t) and c- onsets appear to become ts- precisely in this context (i, without a following consonant). This all is clearly BEFORE Proto-Ukhrul-Kachai ɨ moves to i. Ciang is the only ci- word (nad htere are no ce- words before the passage of aj- and ow- to e.), and it goes to t͡s, so c might be a good thing to blame, given its place of articulation. This all has to happen before i > ɐ.
+$1. coronal non-continuants go to c before i unless it is closed by a consonant. 
+[+cor,-cont] > c / __ i {#;[-cons]}
+
+$2. remaining ts passes to ð
+t͡s > ð 
+
+$3. ci- (and ce-?) to ts(i,e). Gesture reassignment? 
+c > t͡s / __ [+front,-lo] 
+
+$ Proto-Kachai-Ukhrul *ɨ > i, but too late to feed i > ɐ

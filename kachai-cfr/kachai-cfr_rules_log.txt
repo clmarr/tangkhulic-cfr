@@ -6,3 +6,7 @@ d > ð / __ [+syl]
 [-cont] > [-voi] 
 [+son,-syl] > ∅ / [-syl] __ 
 h w > f / __ [-hi,+syl]
+[+cor,-cont] > c / __ i #
+[+cor,-cont] > c / __ i [-cons]
+t͡s > ð 
+c > t͡s / __ [+front,-lo]
