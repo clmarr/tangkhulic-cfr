@@ -1,0 +1,3 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :169:
+#tli# >>> #tli# ( GOLD : #ti#) :
+t l i 

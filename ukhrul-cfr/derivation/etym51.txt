@@ -1,0 +1,3 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :51:
+#praj# >>> #praj# ( GOLD : #paj#) :
+p r a j 

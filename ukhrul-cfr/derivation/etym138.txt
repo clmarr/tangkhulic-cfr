@@ -1,0 +1,3 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :138:
+#nir# >>> #nir# ( GOLD : #nir#) :
+n i r 
