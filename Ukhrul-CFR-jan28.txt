@@ -26,6 +26,8 @@ a > ɐ / __ [+cons,-lat]
 $loss of length
 [+syl] > [-long]
 
+$ ɨ merges to u
+ɨ > u
 
 $Cr-, Cl- and remaining Cw- lose their sonorant element. Explains all 11 cases except rwok > ok, but that word alone is too little to go on.
 [+son,-syl] > ∅ / [-syl] __
@@ -44,4 +46,9 @@ $... but then v, of any source, goes back to w before o.
 v > w / __ o 
 
 
-$TODO somewhere around here, ɐ seems to lower to a between stridents (v, ts, s, ʃ) and stops ... 
+$Secondary ɐ-loweringː both etymological ɐ and ɐ < a are lowered in two environments.
+$	[+hi,-cont] __ [+nas] 	(kʰam, kan, kaŋ, caŋ) 
+$	[+strid] __ [-cont] 	(ʃat, ʃat, ʃap, tsat, tsat, sak, vak, vat)
+		$ (this one is fed by w> v and both fed & bled by ts > c)  
+ɐ > a / [+hi,-cont] __ [+nas]
+ɐ > a / [+strid] __ [-cont]

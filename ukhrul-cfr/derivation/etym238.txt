@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :238:
-#ʃap# >>> #ʃɐp# ( GOLD : #ʃap#) :
+#ʃap# >>> #ʃap# ( GOLD : #ʃap#) :
 ʃ a p 
 #ʃɐp# | 6 : a > ɐ / __ [+cons,-lat]
-Final form : #ʃɐp#
+#ʃap# | 15 : ɐ > a / [+strid] __ [-cont]
+Final form : #ʃap#
