@@ -1,6 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :35:
-#baaŋ# >>> #baŋ# ( GOLD : #paŋ#) :
+#baaŋ# >>> #paŋ# ( GOLD : #paŋ#) :
 b a a ŋ 
-#baːŋ# | 3 : {a a;u u;u w;i j} > {aː;uː;uː;iː} 
-#baŋ# | 5 : [+syl] > [-long,-splng] 
-Final form : #baŋ#
+#paaŋ# | 2 : [-cont] > [-voi] 
+#paːŋ# | 5 : {a a;u u;u w;w u;i j} > {aː;uː;uː;uː;iː} 
+#paŋ# | 7 : [+syl] > [-long,-splng] 
+Final form : #paŋ#

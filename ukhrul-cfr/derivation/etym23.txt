@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :23:
 #mow# >>> #muj# ( GOLD : #muj#) :
 m o w 
-#moj# | 6 : w > j / o __ 
-#muj# | 7 : o > u / __ j
+#moj# | 9 : w > j / o __ 
+#muj# | 10 : o > u / __ j
 Final form : #muj#

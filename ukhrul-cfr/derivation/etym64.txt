@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :64:
-#pʰrew# >>> #pʰrew# ( GOLD : #pʰew#) :
+#pʰrew# >>> #pʰew# ( GOLD : #pʰew#) :
 pʰ r e w 
-Final form : #pʰrew#
+#pʰew# | 8 : [+son,-syl] > ∅ / [+cons] __ 
+Final form : #pʰew#

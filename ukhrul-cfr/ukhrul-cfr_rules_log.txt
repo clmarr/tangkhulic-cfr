@@ -1,8 +1,11 @@
 ∅ > h / # __ a
+d > r / __ [+syl]
+[-cont] > [-voi] 
 l > w / [+round] __ 
 l > j / [+syl] __ 
-{a a;u u;u w;i j} > {aː;uː;uː;iː} 
+{a a;u u;u w;w u;i j} > {aː;uː;uː;uː;iː} 
 a > ɐ / __ [+cons,-lat]
 [+syl] > [-long,-splng] 
+[+son,-syl] > ∅ / [+cons] __ 
 w > j / o __ 
 o > u / __ j

@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :149:
-#deŋ# >>> #deŋ# ( GOLD : #reŋ#) :
+#deŋ# >>> #reŋ# ( GOLD : #reŋ#) :
 d e ŋ 
-Final form : #deŋ#
+#reŋ# | 1 : d > r / __ [+syl]
+Final form : #reŋ#

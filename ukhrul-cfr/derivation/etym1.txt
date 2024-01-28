@@ -2,5 +2,5 @@ Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :1:
 #am# >>> #hɐm# ( GOLD : #hɐm#) :
 a m 
 #ham# | 0 : ∅ > h / # __ a
-#hɐm# | 4 : a > ɐ / __ [+cons,-lat]
+#hɐm# | 6 : a > ɐ / __ [+cons,-lat]
 Final form : #hɐm#

@@ -1,4 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :158:
-#dlek# >>> #dlek# ( GOLD : #tek#) :
+#dlek# >>> #tek# ( GOLD : #tek#) :
 d l e k 
-Final form : #dlek#
+#tlek# | 2 : [-cont] > [-voi] 
+#tek# | 8 : [+son,-syl] > ∅ / [+cons] __ 
+Final form : #tek#

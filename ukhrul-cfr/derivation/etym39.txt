@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :39:
-#bʷeŋ# >>> #bʷeŋ# ( GOLD : #veŋ#) :
+#bʷeŋ# >>> #pʷeŋ# ( GOLD : #veŋ#) :
 bʷ e ŋ 
-Final form : #bʷeŋ#
+#pʷeŋ# | 2 : [-cont] > [-voi] 
+Final form : #pʷeŋ#

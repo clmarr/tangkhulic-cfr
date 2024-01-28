@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :56:
 #pʰan# >>> #pʰɐn# ( GOLD : #pʰɐn#) :
 pʰ a n 
-#pʰɐn# | 4 : a > ɐ / __ [+cons,-lat]
+#pʰɐn# | 6 : a > ɐ / __ [+cons,-lat]
 Final form : #pʰɐn#

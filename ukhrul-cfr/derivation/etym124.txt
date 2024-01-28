@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :124:
 #nam# >>> #nɐm# ( GOLD : #nɐm#) :
 n a m 
-#nɐm# | 4 : a > ɐ / __ [+cons,-lat]
+#nɐm# | 6 : a > ɐ / __ [+cons,-lat]
 Final form : #nɐm#

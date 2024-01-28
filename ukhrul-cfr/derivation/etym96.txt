@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :96:
 #raap# >>> #rap# ( GOLD : #rap#) :
 r a a p 
-#raːp# | 3 : {a a;u u;u w;i j} > {aː;uː;uː;iː} 
-#rap# | 5 : [+syl] > [-long,-splng] 
+#raːp# | 5 : {a a;u u;u w;w u;i j} > {aː;uː;uː;uː;iː} 
+#rap# | 7 : [+syl] > [-long,-splng] 
 Final form : #rap#
