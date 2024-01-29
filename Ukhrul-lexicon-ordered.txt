@@ -4,11 +4,11 @@ a m , h ɐ m
 
 m a , m a 
 m a , m a 
-m a a k , m a k 
+m aː k , m a k 
 m a j , m a j
 m a ŋ , m ɐ ŋ
 m a ŋ , m ɐ ŋ
-m a a ŋ , m a ŋ 
+m aː ŋ , m a ŋ 
 m e t , m e t
 m e j , m e j
 m e j , m e j
@@ -30,14 +30,14 @@ m u k , m u k
 
 w a , v a 
 w a , v a 
-w a a r , v a r 
+w aː r , v a r 
 w a w , v a w 
 w ɐ t , v a t
 w o k , w o k 
 w u , v u 
 
-b a a l , p a j
-b a a ŋ , p a ŋ
+b aː l , p a j
+b aː ŋ , p a ŋ
 b a j , p a j
 b e t , p e t 
 
@@ -59,8 +59,8 @@ p r a j , p a j
 p r i m , p i m
 
 pʰ a , pʰ a 
-pʰ a a r , pʰ a r 
-pʰ a a ŋ , pʰ a ŋ
+pʰ aː r , pʰ a r 
+pʰ aː ŋ , pʰ a ŋ
 pʰ a n , pʰ ɐ n
 pʰ e , pʰ e 
 pʰ e n , pʰ e n
@@ -79,7 +79,7 @@ l a , l a
 l a , l a
 l a , l a
 l a , r a
-l a a ŋ , l ɐ ŋ  
+l aː ŋ , l ɐ ŋ  
 l a t , l ɐ t
 l a j , l a j
 l ɐ ŋ , l ɐ ŋ 
@@ -104,8 +104,8 @@ r a , r a
 r a , r a
 r a , r a
 r a , r a
-r a a p , r a p 
-r a a l , r a j
+r aː p , r a p 
+r aː l , r a j
 r a m , r ɐ m 
 r a m , r ɐ m
 r a j , r a j 
@@ -122,7 +122,7 @@ r i k , r i k
 r o w , r u j
 r o k , r o k
 r u , r u 
-r u u l , r u 
+r uː l , r u 
 r u m , r u m 
 r u ŋ , r o ŋ 
 r u k , r u k
@@ -185,8 +185,8 @@ t l o w , t u j
 
 tʰ a , tʰ a
 tʰ a , tʰ a
-tʰ a a k , tʰ a k
-tʰ a a w , tʰ a w 
+tʰ aː k , tʰ a k
+tʰ aː w , tʰ a w 
 tʰ a w , tʰ a w
 tʰ a r , tʰ ɐ r 
 tʰ a t , tʰ ɐ t 
@@ -203,16 +203,16 @@ tʰ i ŋ , tʰ i ŋ
 tʰ i k , tʰ i k 
 tʰ ɨ , tʰ u 
 tʰ o w , tʰ u j
-tʰ u u r , tʰ u r 
+tʰ uː r , tʰ u r 
 tʰ u m , tʰ u m 
 tʰ u m , tʰ u m 
 tʰ u k , tʰ u k 
 
 s a , s a 
 s a , s a 
-s a a m , s a m
-s a a r , s a r
-s a a ŋ , s a ŋ 
+s aː m , s a m
+s aː r , s a r
+s aː ŋ , s a ŋ 
 s a m , s ɐ m
 s a k , s ɐ k 
 s a k , s a k
@@ -230,10 +230,10 @@ s u m , ʃ i m
 
 t͡s a , t͡s a
 t͡s a , t͡s a
-t͡s a a n , t͡s ɐ n
-t͡s a a t , t͡s ɐ n
-t͡s a a t , t͡s a t
-t͡s a a ŋ , t͡s ɐ ŋ 
+t͡s aː n , t͡s ɐ n
+t͡s aː t , t͡s ɐ n
+t͡s aː t , t͡s a t
+t͡s aː ŋ , t͡s ɐ ŋ 
 t͡s a p , c ɐ p
 t͡s a r , t͡s ɐ r 
 t͡s a ŋ , t͡s ɐ ŋ 
@@ -271,7 +271,7 @@ t͡s u , t͡s u
 ʃ o k , ʃ o k 
 ʃ o ŋ , ʃ o ŋ 
 ʃ u , ʃ u 
-ʃ u u r , ʃ u r 
+ʃ uː r , ʃ u r 
 ʃ u p , ʃ u p
 ʃ u t , ʃ u t
 ʃ u k , ʃ u k
@@ -283,7 +283,7 @@ j a , j a
 j a , j a 
 j a , j a 
 j a , j a 
-j a a m , j a m 
+j aː m , j a m 
 j a p , j ɐ p
 j a ŋ , j ɐ ŋ 
 j a k , j ɐ k 
@@ -296,8 +296,8 @@ j u , j u
 j u ŋ , j u ŋ 
 
 c a , c a 
-c a a ŋ , c a ŋ 
-c a a ŋ , c a ŋ 
+c aː ŋ , c a ŋ 
+c aː ŋ , c a ŋ 
 c a w , c a w
 c a r , c ɐ r
 c a j , c a j 
@@ -320,7 +320,7 @@ c u ŋ , c u ŋ
 
 k a , k a
 k a , k a 
-k a a p , k a p
+k aː p , k a p
 k a w , k a w 
 k a w , k a w 
 k a l , k e j 
@@ -337,7 +337,7 @@ k o l , k u j
 k o ŋ , k o ŋ
 
 kʰ a , kʰ a
-kʰ a a ŋ , kʰ a ŋ 
+kʰ aː ŋ , kʰ a ŋ 
 kʰ a w , kʰ a w 
 kʰ a j , kʰ a j
 kʰ a j , kʰ a j
@@ -355,15 +355,15 @@ kʰ o k , kʰ o k
 kʰ o k , kʰ o k
 kʰ u , kʰ u
 kʰ u , kʰ u
-kʰ u u l , kʰ u 
+kʰ uː l , kʰ u 
 kʰ u m , kʰ u m
 kʰ u r , kʰ u r 
 kʰ u t , kʰ u t
 kʰ u k , kʰ u k
 
 h a , h a 
-h a a w , h a w 
-h a a ŋ , h a ŋ
+h aː w , h a w 
+h aː ŋ , h a ŋ
 h a w , h a w
 h a l , h a j
 h a n , h ɐ n 

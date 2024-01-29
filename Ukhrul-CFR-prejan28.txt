@@ -26,7 +26,6 @@ $  Group 1 rules complete now
 l > ∅ / [+hi,+syl] __ # 
 l > j / __ # 
 a > ɐ / __ [+cons] 
-{a a;u u} > {aː;uː} 
 
 $delengthened
 [+syl] > [-long]
