@@ -10,15 +10,15 @@ PH_DELIM = " "
 OUTFILE_LOC = LANG+"-lexicon.txt"
 
 DIACRITS = ["ʷ","ʰ"]
-AFFRICS = {"ts": "t͡s"}
+DIGRAPHS = {"ts": "t͡s", "aa": "aː", "uu": "uː"}
 
 def tokenize_phones (joined_str):
     ph_list = []
     js_left = ""+joined_str
     while len(js_left) > 0:
         if len(js_left) > 1:
-            if js_left[0:2] in AFFRICS.keys():
-                ph_list += [AFFRICS.get(js_left[0:2]) ]
+            if js_left[0:2] in DIGRAPHS.keys():
+                ph_list += [DIGRAPHS.get(js_left[0:2]) ]
                 js_left = js_left[2:]
                 continue
         if len(ph_list) > 0:
@@ -37,7 +37,7 @@ with open(TSV_LOC) as file:
 
 with open(OUTFILE_LOC,'w') as file:
     file.write("$Proto-Tangkhulic?, "+LANG+"\n")
-s
+
     # write each line.
     for et in file_lines:
         headword = tokenize_phones(et[0])

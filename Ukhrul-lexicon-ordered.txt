@@ -1,0 +1,396 @@
+$Proto-Tangkhulic?,Ukhrul
+a r , h ɐ r 
+a m , h ɐ m 
+
+m a , m a 
+m a , m a 
+m a a k , m a k 
+m a j , m a j
+m a ŋ , m ɐ ŋ
+m a ŋ , m ɐ ŋ
+m a a ŋ , m a ŋ 
+m e t , m e t
+m e j , m e j
+m e j , m e j
+m e j , m e j
+m e j , m e j
+m i , m i 
+m i , m i 
+m i , m i 
+m i t , m i t
+m i n , m i n
+m i k , m i k 
+m i ŋ , m i ŋ
+m o r , m o r
+m o w , m u j 
+m o w , m u j 
+m o w , m u j 
+m o t , m o t
+m u k , m u k
+
+w a , v a 
+w a , v a 
+w a a r , v a r 
+w a w , v a w 
+w ɐ t , v a t
+w o k , w o k 
+w u , v u 
+
+b a a l , p a j
+b a a ŋ , p a ŋ
+b a j , p a j
+b e t , p e t 
+
+bʷ a , v a 
+bʷ e ŋ , v e ŋ 
+bʷ o , w o 
+bʷ o n, w o n 
+bʷ u , w o 
+
+p a , p a
+p a m , p ɐ m 
+p a j , p a j
+p i , p i 
+p e w , p e w
+p o j , p u j
+p u , f u 
+p l a j , p a j
+p r a j , p a j
+p r i m , p i m
+
+pʰ a , pʰ a 
+pʰ a a r , pʰ a r 
+pʰ a a ŋ , pʰ a ŋ
+pʰ a n , pʰ ɐ n
+pʰ e , pʰ e 
+pʰ e n , pʰ e n
+pʰ e j , pʰ e j
+pʰ i t , pʰ i t 
+pʰ u ŋ , pʰ u ŋ 
+pʰ u ŋ , pʰ u ŋ 
+pʰ r a , pʰ a 
+pʰ r e w , pʰ e w
+
+pʷ a k , v a k 
+pʷ ɨ , v u 
+pʷ u k , v u k
+
+l a , l a
+l a , l a
+l a , l a
+l a , r a
+l a a ŋ , l ɐ ŋ  
+l a t , l ɐ t
+l a j , l a j
+l ɐ ŋ , l ɐ ŋ 
+l ɐ p , l ɐ p
+l e j , l e j
+l e j , l e j
+l e j , l e j
+l e j , l e j
+l e k , l e k
+l i , l i 
+l i ŋ , l i ŋ 
+l i ŋ , l i ŋ 
+l o , l o 
+l o , l o 
+l o j , l u j 
+l o w , l u j
+l u m , l u m
+l u ŋ , l u ŋ 
+l u ŋ , l u ŋ 
+
+r a , r a
+r a , r a
+r a , r a
+r a , r a
+r a a p , r a p 
+r a a l , r a j
+r a m , r ɐ m 
+r a m , r ɐ m
+r a j , r a j 
+r e w , r e w
+r e w , r e w
+r e j , r e j
+r e ŋ , r e ŋ 
+r e ŋ , r e ŋ 
+r i , r i 
+r i , r i 
+r i , r i 
+r i l , r i
+r i k , r i k
+r o w , r u j
+r o k , r o k
+r u , r u 
+r u u l , r u 
+r u m , r u m 
+r u ŋ , r o ŋ 
+r u k , r u k
+r w o k , o k 
+
+n a , n a
+n a , n a
+n a , n a
+n a , n a
+n a w , n a w
+n a m , n ɐ m 
+n a m , n ɐ m
+n a p , n ɐ p 
+n a p , n ɐ p 
+n a j , n a j
+n a j , n a j
+n a j , n a j
+n a ŋ , n ɐ
+n a k , n ɐ k 
+n e m , n ɐ m 
+n i , n i 
+n i , n i 
+n i , n i 
+n i m , n i m
+n i r , n i r 
+n i ŋ , n i ŋ 
+n i ŋ , n i ŋ 
+n i ŋ , n i ŋ 
+n ɨ , n u
+n o w , n u j
+n u , n u
+n u k , n u k
+
+d a , r a 
+d a r , r ɐ r 
+d a k , r ɐ k 
+d e ŋ , r e ŋ
+d i k , r i k
+d ɨ , r u 
+d ɨ , r u 
+d o m , r o m
+d u , r u 
+d u , r u 
+d u ŋ , t u ŋ
+d u ŋ , r u ŋ
+d l e k , t e k
+d l o k , t o k
+
+t a , t a 
+t a t , t ɐ t 
+t a ŋ , t ɐ ŋ 
+t ɐ k , t ɐ k
+t e w , t e w 
+t e p , t e p
+t e k , t e k 
+t o w , t o 
+t l a , t a
+t l i , t i 
+t l o w , t u j
+
+tʰ a , tʰ a
+tʰ a , tʰ a
+tʰ a a k , tʰ a k
+tʰ a a w , tʰ a w 
+tʰ a w , tʰ a w
+tʰ a r , tʰ ɐ r 
+tʰ a t , tʰ ɐ t 
+tʰ a j , tʰ a j 
+tʰ a k , tʰ ɐ k 
+tʰ ɐ r , tʰ ɐ r
+tʰ e j , tʰ e j
+tʰ e j , tʰ e j
+tʰ e ŋ , tʰ e ŋ
+tʰ i , tʰ i
+tʰ i , tʰ i
+tʰ i n , tʰ i n
+tʰ i ŋ , tʰ i ŋ
+tʰ i k , tʰ i k 
+tʰ ɨ , tʰ u 
+tʰ o w , tʰ u j
+tʰ u u r , tʰ u r 
+tʰ u m , tʰ u m 
+tʰ u m , tʰ u m 
+tʰ u k , tʰ u k 
+
+s a , s a 
+s a , s a 
+s a a m , s a m
+s a a r , s a r
+s a a ŋ , s a ŋ 
+s a m , s ɐ m
+s a k , s ɐ k 
+s a k , s a k
+s e , s i
+s i , c i
+s i , s i
+s i k , s i k
+s i k , s i k
+s o j , s u j
+s u , s u
+s u , s u
+s u n , s u n
+s u n , ʃ u n 
+s u m , ʃ i m 
+
+t͡s a , t͡s a
+t͡s a , t͡s a
+t͡s a a n , t͡s ɐ n
+t͡s a a t , t͡s ɐ n
+t͡s a a t , t͡s a t
+t͡s a a ŋ , t͡s ɐ ŋ 
+t͡s a p , c ɐ p
+t͡s a r , t͡s ɐ r 
+t͡s a ŋ , t͡s ɐ ŋ 
+t͡s ɐ t , t͡s a t
+t͡s ɐ t , t͡s a t
+t͡s e j , t͡s e j  
+t͡s e r , c o r 
+t͡s i , t͡s i
+t͡s i , c i 
+t͡s i , c i
+t͡s i , c i 
+t͡s i m , t͡s i m
+t͡s i k , t͡s i k
+t͡s i ŋ , t͡s i ŋ 
+t͡s u , t͡s u 
+
+ʃ a , ʃ a
+ʃ a , ʃ a 
+ʃ a , ʃ a 
+ʃ a p , ʃ a p
+ʃ a t , ʃ a t
+ʃ a j , ʃ a j
+ʃ a ŋ , ʃ ɐ ŋ 
+ʃ a ŋ , ʃ ɐ ŋ 
+ʃ ɐ t , ʃ a t
+ʃ ɐ ŋ , ʃ ɐ ŋ 
+ʃ i , ʃ i 
+ʃ i , ʃ i 
+ʃ i , ʃ i 
+ʃ i m , ʃ i m
+ʃ i m , ʃ i m
+ʃ o , ʃ o 
+ʃ o n , ʃ o n
+ʃ o j , ʃ u j 
+ʃ o k , ʃ o k 
+ʃ o ŋ , ʃ o ŋ 
+ʃ u , ʃ u 
+ʃ u u r , ʃ u r 
+ʃ u p , ʃ u p
+ʃ u t , ʃ u t
+ʃ u k , ʃ u k
+ʃ u ŋ , ʃ u ŋ 
+ʃ u ŋ , ʃ u ŋ 
+ʃ u ŋ , ʃ u ŋ 
+
+j a , j a 
+j a , j a 
+j a , j a 
+j a , j a 
+j a a m , j a m 
+j a p , j ɐ p
+j a ŋ , j ɐ ŋ 
+j a k , j ɐ k 
+j o n , j o n
+j o j , j u j
+j o ŋ , j o ŋ 
+j w o r , j o r 
+j u , j u 
+j u , j u 
+j u ŋ , j u ŋ 
+
+c a , c a 
+c a a ŋ , c a ŋ 
+c a a ŋ , c a ŋ 
+c a w , c a w
+c a r , c ɐ r
+c a j , c a j 
+c i , c i 
+c i a ŋ , c a ŋ 
+c i k , c i k
+c o w , c u j
+c o w , c u j
+c o w , c u j
+c o n , c o n
+c o n , c o n
+c u ŋ , c u ŋ 
+
+ŋ a , ŋ a 
+ŋ a r , ŋ ɐ r
+ŋ a j , n a j
+ŋ o m , ŋ o m
+ŋ u m , ŋ u m
+ŋ u n , ŋ u n
+
+k a , k a
+k a , k a 
+k a a p , k a p
+k a w , k a w 
+k a w , k a w 
+k a l , k e j 
+k a j , k a j
+k a ŋ , k a ŋ
+k a k , k ɐ k 
+k ɐ n , k a n
+k e j , k e j 
+k o , k o 
+k o w , k u j
+k o w , k u j
+k o w , k u j
+k o l , k u j
+k o ŋ , k o ŋ
+
+kʰ a , kʰ a
+kʰ a a ŋ , kʰ a ŋ 
+kʰ a w , kʰ a w 
+kʰ a j , kʰ a j
+kʰ a j , kʰ a j
+kʰ a j , kʰ a j
+kʰ a k , kʰ ɐ k
+kʰ ɐ m , kʰ a m
+kʰ e j , kʰ e j
+kʰ o w , kʰ o w 
+kʰ o p , kʰ o p
+kʰ o t , kʰ o t
+kʰ o j , kʰ u j 
+kʰ o ŋ , kʰ o ŋ
+kʰ o ŋ , kʰ o ŋ
+kʰ o k , kʰ o k 
+kʰ o k , kʰ o k
+kʰ u , kʰ u
+kʰ u , kʰ u
+kʰ u u l , kʰ u 
+kʰ u m , kʰ u m
+kʰ u r , kʰ u r 
+kʰ u t , kʰ u t
+kʰ u k , kʰ u k
+
+h a , h a 
+h a a w , h a w 
+h a a ŋ , h a ŋ
+h a w , h a w
+h a l , h a j
+h a n , h ɐ n 
+h a n , h ɐ n 
+h a j , h a j
+h a k , h ɐ k
+h ɐ ŋ , h ɐ ŋ
+h o , h o 
+h o l , h o l 
+h o j , h u j
+h u r , h u r
+h l a , l a 
+h l a , l a 
+h l i p , r i p 
+h r i , r i
+h r i t , r i t 
+h r i ŋ , r i ŋ
+h r i k , r i k
+h r o j , r u j
+h w a , h a 
+h w a , h a 
+h w a , h a 
+h w ɨ , f u 
+h w o r , h o r
+h w o k , h o k
+h w u t , h u t
+
+ʔ a , ʔ a 
+ʔ i , ʔ i
+

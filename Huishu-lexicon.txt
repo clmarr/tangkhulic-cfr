@@ -1,0 +1,274 @@
+$Proto-Tangkhulic?, Huishu
+s a , s e 
+l o j , l u 
+k o l , k ɐ ŋ 
+h w o k , h u ʔ 
+a r , h o 
+h w ɨ , h u k 
+c a w , t͡s o w 
+j o ŋ , j u 
+r w o k , j u ʔ 
+l e j , l u 
+r a m , r a m 
+r uː l , r ɐ ŋ 
+w a , w e 
+d ɨ , r u k 
+kʰ a j , kʰ e j 
+r e w , r o w 
+kʰ u , kʰ u 
+kʰ a w , k o w 
+h r i k , r o ʔ 
+h r i ŋ , r ɐ ŋ 
+tʰ i , t i k 
+k o w , k o w 
+j i p , j e p 
+tʰ o w , tʰ o w 
+h o l , h ɐ ŋ 
+t͡s i , t͡s i k 
+m i k , m o ʔ 
+ʃ e p , s ɐ p 
+t͡s a p , t͡s a ʔ 
+n a , n i 
+n a p , n a ʔ 
+n a , n i 
+kʰ o k , kʰ ɐ 
+m o r , m u 
+t͡s a , t͡s e 
+c a ŋ , t͡s o 
+l o , l u 
+k a , k e 
+h a m , h a m 
+l e j , l u 
+l e k , l e ʔ 
+c a j , t͡s e 
+h a , w e 
+kʰ a , kʰ e 
+s a ŋ , s o 
+tʰ i k , tʰ o ʔ 
+r aː p , r a ʔ 
+n u , n u k 
+t͡s i m , t͡s ɐ m 
+kʰ u m , kʰ ɐ m 
+pʷ u k , w u ʔ 
+l a j , l e 
+m e j , m u 
+b aː n , v e j 
+r e ŋ , r e 
+h w a , s e 
+r i , l i k 
+l u ŋ , l u ŋ 
+r i l , r ɐ ŋ 
+r a , r e 
+n ɨ , n u k 
+n u r , n u 
+kʰ u k , kʰ u ʔ 
+pʰ e j , pʰ u 
+pʷ ɨ , w u k 
+s a m , s a m 
+m a , m i 
+n i r , n u 
+tʰ a w , tʰ o w 
+r u , r u k 
+ʃ i , s i k 
+s u n , s ɐ ŋ 
+kʰ a k , kʰ o ʔ 
+k a l , k e j 
+w o t , w o ʔ 
+ʃ a ŋ , s o 
+bʷ ɐ m , v ɐ m 
+l aː m , l a m 
+kʰ a , kʰ e 
+t͡s a , t͡s e 
+tʰ i , t i k 
+w uː r , w u 
+n a j , n e j 
+n i ŋ , n ɐ ŋ 
+l a , l e 
+h w a , w e 
+kʰ a j , kʰ u 
+p r i m , p e m 
+s i , s i k 
+s u m , s u ŋ 
+n a m , n a m 
+kʰ ɐ m , kʰ ɐ m 
+t͡s e j , t͡s u 
+ʃ o ŋ , s ɐ ŋ 
+ʃ ɐ ŋ , s ɐ ŋ 
+c a , c e 
+r i , r i k 
+t͡s i ŋ , t͡s ɐ ŋ 
+k u m , k ɐ m 
+m o j , m u 
+m e j , m u 
+kʰ u t , kʰ u ʔ 
+m e t , m e j ʔ 
+d ɨ , r u k 
+l e j , l u 
+pʰ u ŋ , pʰ u ŋ 
+l u ŋ , l u ŋ 
+t͡s i , t͡s i k 
+r i , r i 
+n i , n i k 
+tʰ u m , tʰ ɐ m 
+t l i , k i k 
+ŋ a , n i 
+r u k , r u ʔ 
+n i , n i k 
+ʃ ɐ t , t͡s e j ʔ 
+k o , k u 
+r a , r e 
+k u l , k ɐ n 
+ʃ a , s e 
+n i , n i k 
+h r i , r e 
+m aː k , m a ʔ 
+n ɐ ŋ , n ɐ ŋ 
+d u , r u k 
+n a w , n o w 
+r a m , r a m 
+m a ŋ , m o 
+m i ŋ , m ɐ ŋ 
+n a , n i 
+j u ŋ , j u ŋ 
+k aː p , k a ʔ 
+tʰ i ŋ , tʰ ɐ ŋ 
+pʰ a a ŋ , pʰ i 
+m o t , m o ʔ 
+h w a , w e 
+m a , m i 
+w aː r , v a 
+h o j , h u 
+n a ŋ , n o 
+m ɐ , m u 
+r w o , j u 
+k a j , k e j 
+tʰ e j , tʰ u 
+tʰ e j , tʰ u 
+l o w , l o w 
+r a , r e 
+t͡s a ŋ , t͡s o 
+ʃ o k , s u ʔ 
+l e j , l u 
+h aː w , h a w 
+k u p , k ɐ p 
+p r a j , p e j 
+j aː m , j a m 
+tʰ u m , tʰ ɐ ŋ 
+t͡s ɐ t , t͡s e j ʔ 
+bʷ o , v u 
+l o j , l o 
+k a , k e 
+s a , s e 
+m i , m e 
+l i , l i 
+tʰ a t , tʰ e j ʔ 
+t a t , k e j ʔ 
+d u , r u k 
+d l e k , l e ʔ 
+w o k , w u ʔ 
+n o w , n o w 
+r o w , r o w 
+pʰ a , pʰ e 
+tʰ a a w , tʰ o w 
+r e ŋ , r e 
+t͡s i , t͡s i k 
+d a , r e 
+l a j , l e 
+ŋ a j , n e j 
+t a j , kʰ e j 
+kʰ o p , kʰ ɐ p 
+ʃ aː m , s a m 
+t͡s ɐ m , t͡s ɐ m 
+n a p , n a ʔ 
+c o w , t͡s o w 
+kʰ a j , kʰ e j 
+w a w , v o w 
+kʰ a a ŋ , kʰ i 
+w u , v u k 
+d a , r e 
+h l a , l e 
+t͡s u , t͡s u k 
+s u , s u k 
+s u , s u k 
+l ɐ p , r e ʔ 
+j w o r , j u 
+l o , l u 
+s a , s e 
+j a , j e 
+l o j , l u 
+ʃ o j , s u 
+r u m , r ɐ m 
+k a r , k o 
+h a k , h o ʔ 
+c o w , t͡s o w 
+kʰ e j , kʰ u 
+ŋ u m , v ɐ m 
+t͡s i k , t͡s o ʔ 
+t e k , k e ʔ 
+t l a , k e 
+n a j , n e j 
+ʃ o , s u 
+tʰ u u r , tʰ u 
+ʃ a , s e 
+p l a j , p e j 
+s a k , s o ʔ 
+j a k , j o ʔ 
+t͡s aː n , t͡s e j 
+tʰ a r , tʰ o 
+s aː r , s a 
+w ɐ t , v e j ʔ 
+h w e , h w i 
+ʃ a p , s a ʔ 
+tʰ ɐ r , tʰ o 
+kʰ o w , kʰ o w 
+tʰ u k , t u ʔ 
+p a j , p e j 
+ʃ u ŋ , s u ŋ 
+j o n , j ɐ ŋ 
+n e m , n e m 
+l u m , l ɐ m 
+tʰ e ŋ , tʰ e 
+h r i t , r e j ʔ 
+bʷ e ŋ , v i 
+t͡s i , t͡s i k 
+m e j , m u 
+p o j , p u 
+ʔ e j , ʔ u 
+s aː ŋ , s i 
+k ɐ n , k e j 
+j o j , v u e 
+kʰ o ŋ , kʰ u 
+m i n , m ɐ ŋ 
+s o j , s u 
+m o w , m o w 
+d l i ŋ , l ɐ ŋ 
+h i m , h ɐ m 
+h a n , h e j 
+j a , j i 
+s i , s i k 
+n a m , n a m 
+tʰ o , tʰ u 
+ʃ u t , s e j ʔ 
+p u , h u k 
+j a , j e 
+t͡s e r , t͡s ɐ r 
+tʰ i n , tʰ ɐ n 
+ʃ o k , s u ʔ 
+c aː ŋ , t͡s a 
+b e t , v e j ʔ 
+ʃ a , t͡s e 
+l a , l e 
+d a k , r o ʔ 
+ʃ u , t͡s u k 
+pʰ a n , pʰ e j 
+ʃ a t , ʃ e 
+kʰ a , kʰ e 
+bʷ u , v u k 
+m u k , m u ʔ 
+k o r , k u 
+t a , k e 
+m a j , m e j 
+bʷ o n , v ɐ ŋ 
+c i k , t͡s o ʔ 
+ŋ u n , ŋ u n 
+d l o k , l u ʔ 
