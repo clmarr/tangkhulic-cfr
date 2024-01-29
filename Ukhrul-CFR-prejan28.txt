@@ -1,6 +1,6 @@
 $ "group 1" ordered rules for Ukhrul follow. 
 
-$ but htey note this can be non-deterministic
+$ the following rule noted as possibly non-deterministic
 d > r / # __ [+syl]
 
 $ w deletion

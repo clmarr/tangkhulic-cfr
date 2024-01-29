@@ -1,4 +1,4 @@
-$Ukhrul CFR built ex nihilo using Diasim for diagnostics. Did not consult the proposed cascades in the Slack chat - -will run them later if requested. (@author Clayton Marr, @date 1/27~28/2024)
+$Ukhrul CFR built using Diasim for diagnostics. Did not consult the proposed cascades in the Slack chat - -will run them later if requested. (@author Clayton Marr, @date 1/27~28/2024)
 
 $ This first part covers shared Kachai-Ukhrul developments. 
 
