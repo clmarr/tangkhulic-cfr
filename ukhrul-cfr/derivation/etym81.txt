@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :81:
 #lek# >>> #lek# ( GOLD : #lek#) :
 l e k 
+Proto-Kachai-Ukhrul stage form : #lek#
 Final form : #lek#

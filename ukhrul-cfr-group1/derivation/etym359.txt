@@ -1,0 +1,7 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :359:
+#hriŋ# >>> #riŋ# ( GOLD : #riŋ#) :
+h r i ŋ 
+#riŋ# | 3 : h > ∅ / # __ [+cons]
+Stage 1 stage form : #riŋ#
+Stage 2 stage form : #riŋ#
+Final form : #riŋ#

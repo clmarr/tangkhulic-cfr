@@ -1,0 +1,7 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :274:
+#jwor# >>> #jor# ( GOLD : #jor#) :
+j w o r 
+#jor# | 1 : w > ∅ / # [-syl] __ 
+Stage 1 stage form : #jor#
+Stage 2 stage form : #jor#
+Final form : #jor#

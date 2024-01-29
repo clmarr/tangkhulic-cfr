@@ -1,0 +1,7 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :51:
+#praj# >>> #paj# ( GOLD : #paj#) :
+p r a j 
+#paj# | 4 : [+son,-syl,+cor] > ∅ / [+cons] __ 
+Stage 1 stage form : #paj#
+Stage 2 stage form : #paj#
+Final form : #paj#

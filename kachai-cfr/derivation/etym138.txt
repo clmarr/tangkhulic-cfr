@@ -4,5 +4,5 @@ t a ŋ
 Proto-Kachai-Ukhrul stage form : #taŋ#
 Proto-Kachai I stage form : #taŋ#
 Proto-Kachai II  stage form : #taŋ#
-#ta# | 14 : ŋ > ∅ / [+lo] __ #
+#ta# | 18 : ŋ > ∅ / [+lo] __ #
 Final form : #ta#

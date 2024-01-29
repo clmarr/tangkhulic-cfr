@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :115:
 #rum# >>> #rum# ( GOLD : #rum#) :
 r u m 
+Proto-Kachai-Ukhrul stage form : #rum#
 Final form : #rum#

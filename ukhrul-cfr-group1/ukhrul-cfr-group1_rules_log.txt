@@ -1,0 +1,17 @@
+d > r / # __ [+syl]
+w > ∅ / # [-syl] __ 
+[-cont] > [-voi] / # __ 
+h > ∅ / # __ [+cons]
+[+son,-syl,+cor] > ∅ / [+cons] __ 
+pʷ > w 
+w > v / # __ [+syl,+hi]
+w > v / # __ [+syl,-round]
+l > ∅ / [+hi,+syl] __ #
+l > j / __ #
+a > ɐ / __ [+cons]
+{a a;u u} > {aː;uː} 
+[+syl] > [-long,-splng] 
+o > u / __ [+hi,-syl,-cons]
+w > j / u __ #
+ɨ > u 
+∅ > h / # __ [+syl]

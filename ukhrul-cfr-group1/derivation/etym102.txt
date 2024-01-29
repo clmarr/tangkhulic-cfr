@@ -1,0 +1,6 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :102:
+#rew# >>> #rew# ( GOLD : #rew#) :
+r e w 
+Stage 1 stage form : #rew#
+Stage 2 stage form : #rew#
+Final form : #rew#

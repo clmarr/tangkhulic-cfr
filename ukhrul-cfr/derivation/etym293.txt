@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :293:
 #ŋa# >>> #ŋa# ( GOLD : #ŋa#) :
 ŋ a 
+Proto-Kachai-Ukhrul stage form : #ŋa#
 Final form : #ŋa#

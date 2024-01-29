@@ -5,6 +5,6 @@ pʰ a a ŋ
 Proto-Kachai-Ukhrul stage form : #pʰaːŋ#
 Proto-Kachai I stage form : #pʰaːŋ#
 Proto-Kachai II  stage form : #pʰaːŋ#
-#pʰaː# | 14 : ŋ > ∅ / [+lo] __ #
-#pʰo# | 15 : aː > o 
+#pʰaː# | 18 : ŋ > ∅ / [+lo] __ #
+#pʰo# | 19 : aː > o 
 Final form : #pʰo#

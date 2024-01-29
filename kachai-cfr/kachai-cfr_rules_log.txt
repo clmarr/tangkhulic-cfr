@@ -8,10 +8,14 @@ d > ð / __ [+syl]
 {a a;u u} > {aː;uː} 
 w > ∅ / [-syl] __ [-hi,+syl]
 e > i / __ [+cor]
+a > aː / __ j
+a > ɐ / [+nas] __ 
+ɐ > ə 
 [+cor,-cont] > c / __ i #
 [+cor,-cont] > c / __ i [-cons]
 t͡s > ð 
 c > t͡s / __ [+front,-lo]
+h > f / __ [+lab,+syl]
 ŋ > ∅ / [+lo] __ #
 aː > o 
 ə > ɐ 

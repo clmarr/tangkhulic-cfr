@@ -4,7 +4,7 @@ t l i
 #ti# | 6 : [+son,+cor,-syl] > ∅ / [-syl] __ 
 Proto-Kachai-Ukhrul stage form : #ti#
 Proto-Kachai I stage form : #ti#
-#ci# | 10 : [+cor,-cont] > c / __ i #
-#t͡si# | 13 : c > t͡s / __ [+front,-lo]
+#ci# | 13 : [+cor,-cont] > c / __ i #
+#t͡si# | 16 : c > t͡s / __ [+front,-lo]
 Proto-Kachai II  stage form : #t͡si#
 Final form : #t͡si#

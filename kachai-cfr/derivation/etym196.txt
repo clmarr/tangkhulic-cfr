@@ -5,6 +5,6 @@ s a a ŋ
 Proto-Kachai-Ukhrul stage form : #saːŋ#
 Proto-Kachai I stage form : #saːŋ#
 Proto-Kachai II  stage form : #saːŋ#
-#saː# | 14 : ŋ > ∅ / [+lo] __ #
-#so# | 15 : aː > o 
+#saː# | 18 : ŋ > ∅ / [+lo] __ #
+#so# | 19 : aː > o 
 Final form : #so#

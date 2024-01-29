@@ -3,6 +3,6 @@ Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :199:
 t͡s i k 
 Proto-Kachai-Ukhrul stage form : #t͡sik#
 Proto-Kachai I stage form : #t͡sik#
-#ðik# | 12 : t͡s > ð 
+#ðik# | 15 : t͡s > ð 
 Proto-Kachai II  stage form : #ðik#
 Final form : #ðik#

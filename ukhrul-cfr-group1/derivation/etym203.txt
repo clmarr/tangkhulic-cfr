@@ -1,0 +1,6 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :203:
+#se# >>> #se# ( GOLD : #si#) :
+s e 
+Stage 1 stage form : #se#
+Stage 2 stage form : #se#
+Final form : #se#

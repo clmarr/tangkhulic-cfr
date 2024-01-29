@@ -1,6 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :1:
 #am# >>> #hɐm# ( GOLD : #hɐm#) :
 a m 
-#ham# | 0 : ∅ > h / # __ a
-#hɐm# | 10 : a > ɐ / __ [+cons,-lat]
+#ham# | 1 : ∅ > h / # __ a
+Proto-Kachai-Ukhrul stage form : #ham#
+#hɐm# | 14 : a > ɐ / __ [+cons,-lat]
 Final form : #hɐm#

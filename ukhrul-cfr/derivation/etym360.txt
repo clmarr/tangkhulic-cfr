@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :360:
 #hrik# >>> #rik# ( GOLD : #rik#) :
 h r i k 
-#rik# | 5 : h > ∅ / __ [+cor,+son]
+#rik# | 0 : h > ∅ / __ [+cor,+son]
+Proto-Kachai-Ukhrul stage form : #rik#
 Final form : #rik#

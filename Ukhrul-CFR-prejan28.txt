@@ -1,0 +1,45 @@
+$ "group 1" ordered rules for Ukhrul follow. 
+
+$ but htey note this can be non-deterministic
+d > r / # __ [+syl]
+
+$ w deletion
+w > ∅ / # [-syl] __ 
+
+$ remaining plosives voiced word initially
+[-cont] > [-voi] / # __
+
+$ h deletion 
+h > ∅ / # __ [+cons]
+
+$ l, r deletion
+[+son,-syl,+cor] > ∅ / [+cons] __ 
+
+pʷ > w
+
+$ w > v initially except before o 
+w > v / # __ {[+syl,+hi];[+syl,-round]}
+
+=Stage 1
+$  Group 1 rules complete now
+
+l > ∅ / [+hi,+syl] __ # 
+l > j / __ # 
+a > ɐ / __ [+cons] 
+{a a;u u} > {aː;uː} 
+
+$delengthened
+[+syl] > [-long]
+
+o > u / __ [+hi,-syl,-cons]
+
+w > j / u __ #
+
+=Stage 2
+$ Group 2 rules complete now. 
+
+
+$ unordered items to be included follow
+ɨ > u 
+∅ > h / # __ [+syl] 
+

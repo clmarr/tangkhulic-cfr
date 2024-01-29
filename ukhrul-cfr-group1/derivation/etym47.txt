@@ -1,0 +1,6 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :47:
+#pew# >>> #pew# ( GOLD : #pew#) :
+p e w 
+Stage 1 stage form : #pew#
+Stage 2 stage form : #pew#
+Final form : #pew#

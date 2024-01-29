@@ -1,7 +1,8 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :29:
 #waar# >>> #var# ( GOLD : #var#) :
 w a a r 
-#vaar# | 7 : [+round,-syl] > v / __ [+syl]
-#vaːr# | 8 : {a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː} 
-#var# | 11 : [+syl] > [-long,-splng] 
+#waːr# | 7 : {a a;u u} > {aː;uː} 
+Proto-Kachai-Ukhrul stage form : #waːr#
+#vaːr# | 12 : [+round,-syl] > v / __ [+syl]
+#var# | 15 : [+syl] > [-long,-splng] 
 Final form : #var#

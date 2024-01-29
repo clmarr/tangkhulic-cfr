@@ -1,6 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :267:
 #jaam# >>> #jam# ( GOLD : #jam#) :
 j a a m 
-#jaːm# | 8 : {a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː} 
-#jam# | 11 : [+syl] > [-long,-splng] 
+#jaːm# | 7 : {a a;u u} > {aː;uː} 
+Proto-Kachai-Ukhrul stage form : #jaːm#
+#jam# | 15 : [+syl] > [-long,-splng] 
 Final form : #jam#

@@ -1,0 +1,7 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :118:
+#rwok# >>> #rok# ( GOLD : #ok#) :
+r w o k 
+#rok# | 1 : w > ∅ / # [-syl] __ 
+Stage 1 stage form : #rok#
+Stage 2 stage form : #rok#
+Final form : #rok#

@@ -1,7 +1,9 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :190:
-#raj# >>> #raj# ( GOLD : #rɐ#) :
+#raj# >>> #roj# ( GOLD : #rɐ#) :
 r a j 
 Proto-Kachai-Ukhrul stage form : #raj#
-Proto-Kachai I stage form : #raj#
-Proto-Kachai II  stage form : #raj#
-Final form : #raj#
+#raːj# | 10 : a > aː / __ j
+Proto-Kachai I stage form : #raːj#
+Proto-Kachai II  stage form : #raːj#
+#roj# | 19 : aː > o 
+Final form : #roj#

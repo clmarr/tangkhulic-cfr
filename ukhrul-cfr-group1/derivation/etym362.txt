@@ -1,0 +1,7 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :362:
+#hwa# >>> #ha# ( GOLD : #ha#) :
+h w a 
+#ha# | 1 : w > ∅ / # [-syl] __ 
+Stage 1 stage form : #ha#
+Stage 2 stage form : #ha#
+Final form : #ha#

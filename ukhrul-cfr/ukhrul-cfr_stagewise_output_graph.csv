@@ -1,372 +1,372 @@
-etID  | Input | Output {GOLD}
-0      | #ar# | #hɐr# {GOLD: #hɐr#}
-1      | #am# | #hɐm# {GOLD: #hɐm#}
-2      | #ma# | #ma# {GOLD: #ma#}
-3      | #ma# | #ma# {GOLD: #ma#}
-4      | #maak# | #mak# {GOLD: #mak#}
-5      | #maj# | #maj# {GOLD: #maj#}
-6      | #maŋ# | #mɐŋ# {GOLD: #mɐŋ#}
-7      | #maŋ# | #mɐŋ# {GOLD: #mɐŋ#}
-8      | #maaŋ# | #maŋ# {GOLD: #maŋ#}
-9      | #met# | #met# {GOLD: #met#}
-10     | #mej# | #mej# {GOLD: #mej#}
-11     | #mej# | #mej# {GOLD: #mej#}
-12     | #mej# | #mej# {GOLD: #mej#}
-13     | #mej# | #mej# {GOLD: #mej#}
-14     | #mi# | #mi# {GOLD: #mi#}
-15     | #mi# | #mi# {GOLD: #mi#}
-16     | #mi# | #mi# {GOLD: #mi#}
-17     | #mit# | #mit# {GOLD: #mit#}
-18     | #min# | #min# {GOLD: #min#}
-19     | #mik# | #mik# {GOLD: #mik#}
-20     | #miŋ# | #miŋ# {GOLD: #miŋ#}
-21     | #mor# | #mor# {GOLD: #mor#}
-22     | #mow# | #muj# {GOLD: #muj#}
-23     | #mow# | #muj# {GOLD: #muj#}
-24     | #mow# | #muj# {GOLD: #muj#}
-25     | #mot# | #mot# {GOLD: #mot#}
-26     | #muk# | #muk# {GOLD: #muk#}
-27     | #wa# | #va# {GOLD: #va#}
-28     | #wa# | #va# {GOLD: #va#}
-29     | #waar# | #var# {GOLD: #var#}
-30     | #waw# | #vaw# {GOLD: #vaw#}
-31     | #wɐt# | #vat# {GOLD: #vat#}
-32     | #wok# | #wok# {GOLD: #wok#}
-33     | #wu# | #vu# {GOLD: #vu#}
-34     | #baal# | #paj# {GOLD: #paj#}
-35     | #baaŋ# | #paŋ# {GOLD: #paŋ#}
-36     | #baj# | #paj# {GOLD: #paj#}
-37     | #bet# | #pet# {GOLD: #pet#}
-38     | #bʷa# | #va# {GOLD: #va#}
-39     | #bʷeŋ# | #veŋ# {GOLD: #veŋ#}
-40     | #bʷo# | #wo# {GOLD: #wo#}
-41     | #bʷon# | #won# {GOLD: #won#}
-42     | #bʷu# | #vu# {GOLD: #wo#}
-43     | #pa# | #pa# {GOLD: #pa#}
-44     | #pam# | #pɐm# {GOLD: #pɐm#}
-45     | #paj# | #paj# {GOLD: #paj#}
-46     | #pi# | #pi# {GOLD: #pi#}
-47     | #pew# | #pew# {GOLD: #pew#}
-48     | #poj# | #puj# {GOLD: #puj#}
-49     | #pu# | #pu# {GOLD: #fu#}
-50     | #plaj# | #paj# {GOLD: #paj#}
-51     | #praj# | #paj# {GOLD: #paj#}
-52     | #prim# | #pim# {GOLD: #pim#}
-53     | #pʰa# | #pʰa# {GOLD: #pʰa#}
-54     | #pʰaar# | #pʰar# {GOLD: #pʰar#}
-55     | #pʰaaŋ# | #pʰaŋ# {GOLD: #pʰaŋ#}
-56     | #pʰan# | #pʰɐn# {GOLD: #pʰɐn#}
-57     | #pʰe# | #pʰe# {GOLD: #pʰe#}
-58     | #pʰen# | #pʰen# {GOLD: #pʰen#}
-59     | #pʰej# | #pʰej# {GOLD: #pʰej#}
-60     | #pʰit# | #pʰit# {GOLD: #pʰit#}
-61     | #pʰuŋ# | #pʰuŋ# {GOLD: #pʰuŋ#}
-62     | #pʰuŋ# | #pʰuŋ# {GOLD: #pʰuŋ#}
-63     | #pʰra# | #pʰa# {GOLD: #pʰa#}
-64     | #pʰrew# | #pʰew# {GOLD: #pʰew#}
-65     | #pʷak# | #vak# {GOLD: #vak#}
-66     | #pʷɨ# | #vu# {GOLD: #vu#}
-67     | #pʷuk# | #vuk# {GOLD: #vuk#}
-68     | #la# | #la# {GOLD: #la#}
-69     | #la# | #la# {GOLD: #la#}
-70     | #la# | #la# {GOLD: #la#}
-71     | #la# | #la# {GOLD: #ra#}
-72     | #laaŋ# | #laŋ# {GOLD: #lɐŋ#}
-73     | #lat# | #lɐt# {GOLD: #lɐt#}
-74     | #laj# | #laj# {GOLD: #laj#}
-75     | #lɐŋ# | #lɐŋ# {GOLD: #lɐŋ#}
-76     | #lɐp# | #lɐp# {GOLD: #lɐp#}
-77     | #lej# | #lej# {GOLD: #lej#}
-78     | #lej# | #lej# {GOLD: #lej#}
-79     | #lej# | #lej# {GOLD: #lej#}
-80     | #lej# | #lej# {GOLD: #lej#}
-81     | #lek# | #lek# {GOLD: #lek#}
-82     | #li# | #li# {GOLD: #li#}
-83     | #liŋ# | #liŋ# {GOLD: #liŋ#}
-84     | #liŋ# | #liŋ# {GOLD: #liŋ#}
-85     | #lo# | #lo# {GOLD: #lo#}
-86     | #lo# | #lo# {GOLD: #lo#}
-87     | #loj# | #luj# {GOLD: #luj#}
-88     | #low# | #luj# {GOLD: #luj#}
-89     | #lum# | #lum# {GOLD: #lum#}
-90     | #luŋ# | #luŋ# {GOLD: #luŋ#}
-91     | #luŋ# | #luŋ# {GOLD: #luŋ#}
-92     | #ra# | #ra# {GOLD: #ra#}
-93     | #ra# | #ra# {GOLD: #ra#}
-94     | #ra# | #ra# {GOLD: #ra#}
-95     | #ra# | #ra# {GOLD: #ra#}
-96     | #raap# | #rap# {GOLD: #rap#}
-97     | #raal# | #raj# {GOLD: #raj#}
-98     | #ram# | #rɐm# {GOLD: #rɐm#}
-99     | #ram# | #rɐm# {GOLD: #rɐm#}
-100    | #raj# | #raj# {GOLD: #raj#}
-101    | #rew# | #rew# {GOLD: #rew#}
-102    | #rew# | #rew# {GOLD: #rew#}
-103    | #rej# | #rej# {GOLD: #rej#}
-104    | #reŋ# | #reŋ# {GOLD: #reŋ#}
-105    | #reŋ# | #reŋ# {GOLD: #reŋ#}
-106    | #ri# | #ri# {GOLD: #ri#}
-107    | #ri# | #ri# {GOLD: #ri#}
-108    | #ri# | #ri# {GOLD: #ri#}
-109    | #ril# | #ri# {GOLD: #ri#}
-110    | #rik# | #rik# {GOLD: #rik#}
-111    | #row# | #ruj# {GOLD: #ruj#}
-112    | #rok# | #rok# {GOLD: #rok#}
-113    | #ru# | #ru# {GOLD: #ru#}
-114    | #ruul# | #ru# {GOLD: #ru#}
-115    | #rum# | #rum# {GOLD: #rum#}
-116    | #ruŋ# | #ruŋ# {GOLD: #roŋ#}
-117    | #ruk# | #ruk# {GOLD: #ruk#}
-118    | #rwok# | #rok# {GOLD: #ok#}
-119    | #na# | #na# {GOLD: #na#}
-120    | #na# | #na# {GOLD: #na#}
-121    | #na# | #na# {GOLD: #na#}
-122    | #na# | #na# {GOLD: #na#}
-123    | #naw# | #naw# {GOLD: #naw#}
-124    | #nam# | #nɐm# {GOLD: #nɐm#}
-125    | #nam# | #nɐm# {GOLD: #nɐm#}
-126    | #nap# | #nɐp# {GOLD: #nɐp#}
-127    | #nap# | #nɐp# {GOLD: #nɐp#}
-128    | #naj# | #naj# {GOLD: #naj#}
-129    | #naj# | #naj# {GOLD: #naj#}
-130    | #naj# | #naj# {GOLD: #naj#}
-131    | #naŋ# | #nɐŋ# {GOLD: #nɐ#}
-132    | #nak# | #nɐk# {GOLD: #nɐk#}
-133    | #nem# | #nem# {GOLD: #nɐm#}
-134    | #ni# | #ni# {GOLD: #ni#}
-135    | #ni# | #ni# {GOLD: #ni#}
-136    | #ni# | #ni# {GOLD: #ni#}
-137    | #nim# | #nim# {GOLD: #nim#}
-138    | #nir# | #nir# {GOLD: #nir#}
-139    | #niŋ# | #niŋ# {GOLD: #niŋ#}
-140    | #niŋ# | #niŋ# {GOLD: #niŋ#}
-141    | #niŋ# | #niŋ# {GOLD: #niŋ#}
-142    | #nɨ# | #nu# {GOLD: #nu#}
-143    | #now# | #nuj# {GOLD: #nuj#}
-144    | #nu# | #nu# {GOLD: #nu#}
-145    | #nuk# | #nuk# {GOLD: #nuk#}
-146    | #da# | #ra# {GOLD: #ra#}
-147    | #dar# | #rɐr# {GOLD: #rɐr#}
-148    | #dak# | #rɐk# {GOLD: #rɐk#}
-149    | #deŋ# | #reŋ# {GOLD: #reŋ#}
-150    | #dik# | #rik# {GOLD: #rik#}
-151    | #dɨ# | #ru# {GOLD: #ru#}
-152    | #dɨ# | #ru# {GOLD: #ru#}
-153    | #dom# | #rom# {GOLD: #rom#}
-154    | #du# | #ru# {GOLD: #ru#}
-155    | #du# | #ru# {GOLD: #ru#}
-156    | #duŋ# | #ruŋ# {GOLD: #tuŋ#}
-157    | #duŋ# | #ruŋ# {GOLD: #ruŋ#}
-158    | #dlek# | #tek# {GOLD: #tek#}
-159    | #dlok# | #tok# {GOLD: #tok#}
-160    | #ta# | #ta# {GOLD: #ta#}
-161    | #tat# | #tɐt# {GOLD: #tɐt#}
-162    | #taŋ# | #tɐŋ# {GOLD: #tɐŋ#}
-163    | #tɐk# | #tɐk# {GOLD: #tɐk#}
-164    | #tew# | #tew# {GOLD: #tew#}
-165    | #tep# | #tep# {GOLD: #tep#}
-166    | #tek# | #tek# {GOLD: #tek#}
-167    | #tow# | #tuj# {GOLD: #to#}
-168    | #tla# | #ta# {GOLD: #ta#}
-169    | #tli# | #ti# {GOLD: #ti#}
-170    | #tlow# | #tuj# {GOLD: #tuj#}
-171    | #tʰa# | #tʰa# {GOLD: #tʰa#}
-172    | #tʰa# | #tʰa# {GOLD: #tʰa#}
-173    | #tʰaak# | #tʰak# {GOLD: #tʰak#}
-174    | #tʰaaw# | #tʰaw# {GOLD: #tʰaw#}
-175    | #tʰaw# | #tʰaw# {GOLD: #tʰaw#}
-176    | #tʰar# | #tʰɐr# {GOLD: #tʰɐr#}
-177    | #tʰat# | #tʰɐt# {GOLD: #tʰɐt#}
-178    | #tʰaj# | #tʰaj# {GOLD: #tʰaj#}
-179    | #tʰak# | #tʰɐk# {GOLD: #tʰɐk#}
-180    | #tʰɐr# | #tʰɐr# {GOLD: #tʰɐr#}
-181    | #tʰej# | #tʰej# {GOLD: #tʰej#}
-182    | #tʰej# | #tʰej# {GOLD: #tʰej#}
-183    | #tʰeŋ# | #tʰeŋ# {GOLD: #tʰeŋ#}
-184    | #tʰi# | #tʰi# {GOLD: #tʰi#}
-185    | #tʰi# | #tʰi# {GOLD: #tʰi#}
-186    | #tʰin# | #tʰin# {GOLD: #tʰin#}
-187    | #tʰiŋ# | #tʰiŋ# {GOLD: #tʰiŋ#}
-188    | #tʰik# | #tʰik# {GOLD: #tʰik#}
-189    | #tʰɨ# | #tʰu# {GOLD: #tʰu#}
-190    | #tʰow# | #tʰuj# {GOLD: #tʰuj#}
-191    | #tʰuur# | #tʰur# {GOLD: #tʰur#}
-192    | #tʰum# | #tʰum# {GOLD: #tʰum#}
-193    | #tʰum# | #tʰum# {GOLD: #tʰum#}
-194    | #tʰuk# | #tʰuk# {GOLD: #tʰuk#}
-195    | #sa# | #sa# {GOLD: #sa#}
-196    | #sa# | #sa# {GOLD: #sa#}
-197    | #saam# | #sam# {GOLD: #sam#}
-198    | #saar# | #sar# {GOLD: #sar#}
-199    | #saaŋ# | #saŋ# {GOLD: #saŋ#}
-200    | #sam# | #sɐm# {GOLD: #sɐm#}
-201    | #sak# | #sak# {GOLD: #sɐk#}
-202    | #sak# | #sak# {GOLD: #sak#}
-203    | #se# | #se# {GOLD: #si#}
-204    | #si# | #si# {GOLD: #ci#}
-205    | #si# | #si# {GOLD: #si#}
-206    | #sik# | #sik# {GOLD: #sik#}
-207    | #sik# | #sik# {GOLD: #sik#}
-208    | #soj# | #suj# {GOLD: #suj#}
-209    | #su# | #su# {GOLD: #su#}
-210    | #su# | #su# {GOLD: #su#}
-211    | #sun# | #sun# {GOLD: #sun#}
-212    | #sun# | #sun# {GOLD: #ʃun#}
-213    | #sum# | #sum# {GOLD: #ʃim#}
-214    | #t͡sa# | #t͡sa# {GOLD: #t͡sa#}
-215    | #t͡sa# | #t͡sa# {GOLD: #t͡sa#}
-216    | #t͡saan# | #t͡san# {GOLD: #t͡sɐn#}
-217    | #t͡saat# | #t͡sat# {GOLD: #t͡sɐn#}
-218    | #t͡saat# | #t͡sat# {GOLD: #t͡sat#}
-219    | #t͡saaŋ# | #t͡saŋ# {GOLD: #t͡sɐŋ#}
-220    | #t͡sap# | #t͡sap# {GOLD: #cɐp#}
-221    | #t͡sar# | #t͡sɐr# {GOLD: #t͡sɐr#}
-222    | #t͡saŋ# | #t͡sɐŋ# {GOLD: #t͡sɐŋ#}
-223    | #t͡sɐt# | #t͡sat# {GOLD: #t͡sat#}
-224    | #t͡sɐt# | #t͡sat# {GOLD: #t͡sat#}
-225    | #t͡sej# | #t͡sej# {GOLD: #t͡sej#}
-226    | #t͡ser# | #t͡ser# {GOLD: #cor#}
-227    | #t͡si# | #t͡si# {GOLD: #t͡si#}
-228    | #t͡si# | #t͡si# {GOLD: #ci#}
-229    | #t͡si# | #t͡si# {GOLD: #ci#}
-230    | #t͡si# | #t͡si# {GOLD: #ci#}
-231    | #t͡sim# | #t͡sim# {GOLD: #t͡sim#}
-232    | #t͡sik# | #t͡sik# {GOLD: #t͡sik#}
-233    | #t͡siŋ# | #t͡siŋ# {GOLD: #t͡siŋ#}
-234    | #t͡su# | #t͡su# {GOLD: #t͡su#}
-235    | #ʃa# | #ʃa# {GOLD: #ʃa#}
-236    | #ʃa# | #ʃa# {GOLD: #ʃa#}
-237    | #ʃa# | #ʃa# {GOLD: #ʃa#}
-238    | #ʃap# | #ʃap# {GOLD: #ʃap#}
-239    | #ʃat# | #ʃat# {GOLD: #ʃat#}
-240    | #ʃaj# | #ʃaj# {GOLD: #ʃaj#}
-241    | #ʃaŋ# | #ʃɐŋ# {GOLD: #ʃɐŋ#}
-242    | #ʃaŋ# | #ʃɐŋ# {GOLD: #ʃɐŋ#}
-243    | #ʃɐt# | #ʃat# {GOLD: #ʃat#}
-244    | #ʃɐŋ# | #ʃɐŋ# {GOLD: #ʃɐŋ#}
-245    | #ʃi# | #ʃi# {GOLD: #ʃi#}
-246    | #ʃi# | #ʃi# {GOLD: #ʃi#}
-247    | #ʃi# | #ʃi# {GOLD: #ʃi#}
-248    | #ʃim# | #ʃim# {GOLD: #ʃim#}
-249    | #ʃim# | #ʃim# {GOLD: #ʃim#}
-250    | #ʃo# | #ʃo# {GOLD: #ʃo#}
-251    | #ʃon# | #ʃon# {GOLD: #ʃon#}
-252    | #ʃoj# | #ʃuj# {GOLD: #ʃuj#}
-253    | #ʃok# | #ʃok# {GOLD: #ʃok#}
-254    | #ʃoŋ# | #ʃoŋ# {GOLD: #ʃoŋ#}
-255    | #ʃu# | #ʃu# {GOLD: #ʃu#}
-256    | #ʃuur# | #ʃur# {GOLD: #ʃur#}
-257    | #ʃup# | #ʃup# {GOLD: #ʃup#}
-258    | #ʃut# | #ʃut# {GOLD: #ʃut#}
-259    | #ʃuk# | #ʃuk# {GOLD: #ʃuk#}
-260    | #ʃuŋ# | #ʃuŋ# {GOLD: #ʃuŋ#}
-261    | #ʃuŋ# | #ʃuŋ# {GOLD: #ʃuŋ#}
-262    | #ʃuŋ# | #ʃuŋ# {GOLD: #ʃuŋ#}
-263    | #ja# | #ja# {GOLD: #ja#}
-264    | #ja# | #ja# {GOLD: #ja#}
-265    | #ja# | #ja# {GOLD: #ja#}
-266    | #ja# | #ja# {GOLD: #ja#}
-267    | #jaam# | #jam# {GOLD: #jam#}
-268    | #jap# | #jɐp# {GOLD: #jɐp#}
-269    | #jaŋ# | #jɐŋ# {GOLD: #jɐŋ#}
-270    | #jak# | #jɐk# {GOLD: #jɐk#}
-271    | #jon# | #jon# {GOLD: #jon#}
-272    | #joj# | #juj# {GOLD: #juj#}
-273    | #joŋ# | #joŋ# {GOLD: #joŋ#}
-274    | #jwor# | #jor# {GOLD: #jor#}
-275    | #ju# | #ju# {GOLD: #ju#}
-276    | #ju# | #ju# {GOLD: #ju#}
-277    | #juŋ# | #juŋ# {GOLD: #juŋ#}
-278    | #ca# | #ca# {GOLD: #ca#}
-279    | #caaŋ# | #caŋ# {GOLD: #caŋ#}
-280    | #caaŋ# | #caŋ# {GOLD: #caŋ#}
-281    | #caw# | #caw# {GOLD: #caw#}
-282    | #car# | #cɐr# {GOLD: #cɐr#}
-283    | #caj# | #caj# {GOLD: #caj#}
-284    | #ci# | #ci# {GOLD: #ci#}
-285    | #ciaŋ# | #ciɐŋ# {GOLD: #caŋ#}
-286    | #cik# | #cik# {GOLD: #cik#}
-287    | #cow# | #cuj# {GOLD: #cuj#}
-288    | #cow# | #cuj# {GOLD: #cuj#}
-289    | #cow# | #cuj# {GOLD: #cuj#}
-290    | #con# | #con# {GOLD: #con#}
-291    | #con# | #con# {GOLD: #con#}
-292    | #cuŋ# | #cuŋ# {GOLD: #cuŋ#}
-293    | #ŋa# | #ŋa# {GOLD: #ŋa#}
-294    | #ŋar# | #ŋɐr# {GOLD: #ŋɐr#}
-295    | #ŋaj# | #ŋaj# {GOLD: #naj#}
-296    | #ŋom# | #ŋom# {GOLD: #ŋom#}
-297    | #ŋum# | #ŋum# {GOLD: #ŋum#}
-298    | #ŋun# | #ŋun# {GOLD: #ŋun#}
-299    | #ka# | #ka# {GOLD: #ka#}
-300    | #ka# | #ka# {GOLD: #ka#}
-301    | #kaap# | #kap# {GOLD: #kap#}
-302    | #kaw# | #kaw# {GOLD: #kaw#}
-303    | #kaw# | #kaw# {GOLD: #kaw#}
-304    | #kal# | #kaj# {GOLD: #kej#}
-305    | #kaj# | #kaj# {GOLD: #kaj#}
-306    | #kaŋ# | #kaŋ# {GOLD: #kaŋ#}
-307    | #kak# | #kɐk# {GOLD: #kɐk#}
-308    | #kɐn# | #kan# {GOLD: #kan#}
-309    | #kej# | #kej# {GOLD: #kej#}
-310    | #ko# | #ko# {GOLD: #ko#}
-311    | #kow# | #kuj# {GOLD: #kuj#}
-312    | #kow# | #kuj# {GOLD: #kuj#}
-313    | #kow# | #kuj# {GOLD: #kuj#}
-314    | #kol# | #kuj# {GOLD: #kuj#}
-315    | #koŋ# | #koŋ# {GOLD: #koŋ#}
-316    | #kʰa# | #kʰa# {GOLD: #kʰa#}
-317    | #kʰaaŋ# | #kʰaŋ# {GOLD: #kʰaŋ#}
-318    | #kʰaw# | #kʰaw# {GOLD: #kʰaw#}
-319    | #kʰaj# | #kʰaj# {GOLD: #kʰaj#}
-320    | #kʰaj# | #kʰaj# {GOLD: #kʰaj#}
-321    | #kʰaj# | #kʰaj# {GOLD: #kʰaj#}
-322    | #kʰak# | #kʰɐk# {GOLD: #kʰɐk#}
-323    | #kʰɐm# | #kʰam# {GOLD: #kʰam#}
-324    | #kʰej# | #kʰej# {GOLD: #kʰej#}
-325    | #kʰow# | #kʰuj# {GOLD: #kʰow#}
-326    | #kʰop# | #kʰop# {GOLD: #kʰop#}
-327    | #kʰot# | #kʰot# {GOLD: #kʰot#}
-328    | #kʰoj# | #kʰuj# {GOLD: #kʰuj#}
-329    | #kʰoŋ# | #kʰoŋ# {GOLD: #kʰoŋ#}
-330    | #kʰoŋ# | #kʰoŋ# {GOLD: #kʰoŋ#}
-331    | #kʰok# | #kʰok# {GOLD: #kʰok#}
-332    | #kʰok# | #kʰok# {GOLD: #kʰok#}
-333    | #kʰu# | #kʰu# {GOLD: #kʰu#}
-334    | #kʰu# | #kʰu# {GOLD: #kʰu#}
-335    | #kʰuul# | #kʰu# {GOLD: #kʰu#}
-336    | #kʰum# | #kʰum# {GOLD: #kʰum#}
-337    | #kʰur# | #kʰur# {GOLD: #kʰur#}
-338    | #kʰut# | #kʰut# {GOLD: #kʰut#}
-339    | #kʰuk# | #kʰuk# {GOLD: #kʰuk#}
-340    | #ha# | #ha# {GOLD: #ha#}
-341    | #haaw# | #haw# {GOLD: #haw#}
-342    | #haaŋ# | #haŋ# {GOLD: #haŋ#}
-343    | #haw# | #haw# {GOLD: #haw#}
-344    | #hal# | #haj# {GOLD: #haj#}
-345    | #han# | #hɐn# {GOLD: #hɐn#}
-346    | #han# | #hɐn# {GOLD: #hɐn#}
-347    | #haj# | #haj# {GOLD: #haj#}
-348    | #hak# | #hɐk# {GOLD: #hɐk#}
-349    | #hɐŋ# | #hɐŋ# {GOLD: #hɐŋ#}
-350    | #ho# | #ho# {GOLD: #ho#}
-351    | #hol# | #huj# {GOLD: #hol#}
-352    | #hoj# | #huj# {GOLD: #huj#}
-353    | #hur# | #hur# {GOLD: #hur#}
-354    | #hla# | #la# {GOLD: #la#}
-355    | #hla# | #la# {GOLD: #la#}
-356    | #hlip# | #lip# {GOLD: #rip#}
-357    | #hri# | #ri# {GOLD: #ri#}
-358    | #hrit# | #rit# {GOLD: #rit#}
-359    | #hriŋ# | #riŋ# {GOLD: #riŋ#}
-360    | #hrik# | #rik# {GOLD: #rik#}
-361    | #hroj# | #ruj# {GOLD: #ruj#}
-362    | #hwa# | #ha# {GOLD: #ha#}
-363    | #hwa# | #ha# {GOLD: #ha#}
-364    | #hwa# | #ha# {GOLD: #ha#}
-365    | #hwɨ# | #hu# {GOLD: #fu#}
-366    | #hwor# | #hor# {GOLD: #hor#}
-367    | #hwok# | #hok# {GOLD: #hok#}
-368    | #hwut# | #hut# {GOLD: #hut#}
-369    | #ʔa# | #ʔa# {GOLD: #ʔa#}
-370    | #ʔi# | #ʔi# {GOLD: #ʔi#}
+etID  | Input | Proto-Kachai-Ukhrul | Output {GOLD}
+0      | #ar# | #har# | #hɐr# {GOLD: #hɐr#}
+1      | #am# | #ham# | #hɐm# {GOLD: #hɐm#}
+2      | #ma# | #ma# | #ma# {GOLD: #ma#}
+3      | #ma# | #ma# | #ma# {GOLD: #ma#}
+4      | #maak# | #maːk# | #mak# {GOLD: #mak#}
+5      | #maj# | #maj# | #maj# {GOLD: #maj#}
+6      | #maŋ# | #maŋ# | #mɐŋ# {GOLD: #mɐŋ#}
+7      | #maŋ# | #maŋ# | #mɐŋ# {GOLD: #mɐŋ#}
+8      | #maaŋ# | #maːŋ# | #maŋ# {GOLD: #maŋ#}
+9      | #met# | #met# | #met# {GOLD: #met#}
+10     | #mej# | #mej# | #mej# {GOLD: #mej#}
+11     | #mej# | #mej# | #mej# {GOLD: #mej#}
+12     | #mej# | #mej# | #mej# {GOLD: #mej#}
+13     | #mej# | #mej# | #mej# {GOLD: #mej#}
+14     | #mi# | #mi# | #mi# {GOLD: #mi#}
+15     | #mi# | #mi# | #mi# {GOLD: #mi#}
+16     | #mi# | #mi# | #mi# {GOLD: #mi#}
+17     | #mit# | #mit# | #mit# {GOLD: #mit#}
+18     | #min# | #min# | #min# {GOLD: #min#}
+19     | #mik# | #mik# | #mik# {GOLD: #mik#}
+20     | #miŋ# | #miŋ# | #miŋ# {GOLD: #miŋ#}
+21     | #mor# | #mor# | #mor# {GOLD: #mor#}
+22     | #mow# | #mow# | #muj# {GOLD: #muj#}
+23     | #mow# | #mow# | #muj# {GOLD: #muj#}
+24     | #mow# | #mow# | #muj# {GOLD: #muj#}
+25     | #mot# | #mot# | #mot# {GOLD: #mot#}
+26     | #muk# | #muk# | #muk# {GOLD: #muk#}
+27     | #wa# | #wa# | #va# {GOLD: #va#}
+28     | #wa# | #wa# | #va# {GOLD: #va#}
+29     | #waar# | #waːr# | #var# {GOLD: #var#}
+30     | #waw# | #waw# | #vaw# {GOLD: #vaw#}
+31     | #wɐt# | #wɐt# | #vat# {GOLD: #vat#}
+32     | #wok# | #wok# | #wok# {GOLD: #wok#}
+33     | #wu# | #wu# | #vu# {GOLD: #vu#}
+34     | #baal# | #paːl# | #paj# {GOLD: #paj#}
+35     | #baaŋ# | #paːŋ# | #paŋ# {GOLD: #paŋ#}
+36     | #baj# | #paj# | #paj# {GOLD: #paj#}
+37     | #bet# | #pet# | #pet# {GOLD: #pet#}
+38     | #bʷa# | #va# | #va# {GOLD: #va#}
+39     | #bʷeŋ# | #veŋ# | #veŋ# {GOLD: #veŋ#}
+40     | #bʷo# | #vo# | #wo# {GOLD: #wo#}
+41     | #bʷon# | #von# | #won# {GOLD: #won#}
+42     | #bʷu# | #vu# | #vu# {GOLD: #wo#}
+43     | #pa# | #pa# | #pa# {GOLD: #pa#}
+44     | #pam# | #pam# | #pɐm# {GOLD: #pɐm#}
+45     | #paj# | #paj# | #paj# {GOLD: #paj#}
+46     | #pi# | #pi# | #pi# {GOLD: #pi#}
+47     | #pew# | #pew# | #pew# {GOLD: #pew#}
+48     | #poj# | #poj# | #puj# {GOLD: #puj#}
+49     | #pu# | #pu# | #pu# {GOLD: #fu#}
+50     | #plaj# | #paj# | #paj# {GOLD: #paj#}
+51     | #praj# | #paj# | #paj# {GOLD: #paj#}
+52     | #prim# | #pim# | #pim# {GOLD: #pim#}
+53     | #pʰa# | #pʰa# | #pʰa# {GOLD: #pʰa#}
+54     | #pʰaar# | #pʰaːr# | #pʰar# {GOLD: #pʰar#}
+55     | #pʰaaŋ# | #pʰaːŋ# | #pʰaŋ# {GOLD: #pʰaŋ#}
+56     | #pʰan# | #pʰan# | #pʰɐn# {GOLD: #pʰɐn#}
+57     | #pʰe# | #pʰe# | #pʰe# {GOLD: #pʰe#}
+58     | #pʰen# | #pʰen# | #pʰen# {GOLD: #pʰen#}
+59     | #pʰej# | #pʰej# | #pʰej# {GOLD: #pʰej#}
+60     | #pʰit# | #pʰit# | #pʰit# {GOLD: #pʰit#}
+61     | #pʰuŋ# | #pʰuŋ# | #pʰuŋ# {GOLD: #pʰuŋ#}
+62     | #pʰuŋ# | #pʰuŋ# | #pʰuŋ# {GOLD: #pʰuŋ#}
+63     | #pʰra# | #pʰa# | #pʰa# {GOLD: #pʰa#}
+64     | #pʰrew# | #pʰew# | #pʰew# {GOLD: #pʰew#}
+65     | #pʷak# | #wak# | #vak# {GOLD: #vak#}
+66     | #pʷɨ# | #wɨ# | #vu# {GOLD: #vu#}
+67     | #pʷuk# | #wuk# | #vuk# {GOLD: #vuk#}
+68     | #la# | #la# | #la# {GOLD: #la#}
+69     | #la# | #la# | #la# {GOLD: #la#}
+70     | #la# | #la# | #la# {GOLD: #la#}
+71     | #la# | #la# | #la# {GOLD: #ra#}
+72     | #laaŋ# | #laːŋ# | #laŋ# {GOLD: #lɐŋ#}
+73     | #lat# | #lat# | #lɐt# {GOLD: #lɐt#}
+74     | #laj# | #laj# | #laj# {GOLD: #laj#}
+75     | #lɐŋ# | #lɐŋ# | #lɐŋ# {GOLD: #lɐŋ#}
+76     | #lɐp# | #lɐp# | #lɐp# {GOLD: #lɐp#}
+77     | #lej# | #lej# | #lej# {GOLD: #lej#}
+78     | #lej# | #lej# | #lej# {GOLD: #lej#}
+79     | #lej# | #lej# | #lej# {GOLD: #lej#}
+80     | #lej# | #lej# | #lej# {GOLD: #lej#}
+81     | #lek# | #lek# | #lek# {GOLD: #lek#}
+82     | #li# | #li# | #li# {GOLD: #li#}
+83     | #liŋ# | #liŋ# | #liŋ# {GOLD: #liŋ#}
+84     | #liŋ# | #liŋ# | #liŋ# {GOLD: #liŋ#}
+85     | #lo# | #lo# | #lo# {GOLD: #lo#}
+86     | #lo# | #lo# | #lo# {GOLD: #lo#}
+87     | #loj# | #loj# | #luj# {GOLD: #luj#}
+88     | #low# | #low# | #luj# {GOLD: #luj#}
+89     | #lum# | #lum# | #lum# {GOLD: #lum#}
+90     | #luŋ# | #luŋ# | #luŋ# {GOLD: #luŋ#}
+91     | #luŋ# | #luŋ# | #luŋ# {GOLD: #luŋ#}
+92     | #ra# | #ra# | #ra# {GOLD: #ra#}
+93     | #ra# | #ra# | #ra# {GOLD: #ra#}
+94     | #ra# | #ra# | #ra# {GOLD: #ra#}
+95     | #ra# | #ra# | #ra# {GOLD: #ra#}
+96     | #raap# | #raːp# | #rap# {GOLD: #rap#}
+97     | #raal# | #raːl# | #raj# {GOLD: #raj#}
+98     | #ram# | #ram# | #rɐm# {GOLD: #rɐm#}
+99     | #ram# | #ram# | #rɐm# {GOLD: #rɐm#}
+100    | #raj# | #raj# | #raj# {GOLD: #raj#}
+101    | #rew# | #rew# | #rew# {GOLD: #rew#}
+102    | #rew# | #rew# | #rew# {GOLD: #rew#}
+103    | #rej# | #rej# | #rej# {GOLD: #rej#}
+104    | #reŋ# | #reŋ# | #reŋ# {GOLD: #reŋ#}
+105    | #reŋ# | #reŋ# | #reŋ# {GOLD: #reŋ#}
+106    | #ri# | #ri# | #ri# {GOLD: #ri#}
+107    | #ri# | #ri# | #ri# {GOLD: #ri#}
+108    | #ri# | #ri# | #ri# {GOLD: #ri#}
+109    | #ril# | #ril# | #ri# {GOLD: #ri#}
+110    | #rik# | #rik# | #rik# {GOLD: #rik#}
+111    | #row# | #row# | #ruj# {GOLD: #ruj#}
+112    | #rok# | #rok# | #rok# {GOLD: #rok#}
+113    | #ru# | #ru# | #ru# {GOLD: #ru#}
+114    | #ruul# | #ruːl# | #ru# {GOLD: #ru#}
+115    | #rum# | #rum# | #rum# {GOLD: #rum#}
+116    | #ruŋ# | #ruŋ# | #ruŋ# {GOLD: #roŋ#}
+117    | #ruk# | #ruk# | #ruk# {GOLD: #ruk#}
+118    | #rwok# | #rok# | #rok# {GOLD: #ok#}
+119    | #na# | #na# | #na# {GOLD: #na#}
+120    | #na# | #na# | #na# {GOLD: #na#}
+121    | #na# | #na# | #na# {GOLD: #na#}
+122    | #na# | #na# | #na# {GOLD: #na#}
+123    | #naw# | #naw# | #naw# {GOLD: #naw#}
+124    | #nam# | #nam# | #nɐm# {GOLD: #nɐm#}
+125    | #nam# | #nam# | #nɐm# {GOLD: #nɐm#}
+126    | #nap# | #nap# | #nɐp# {GOLD: #nɐp#}
+127    | #nap# | #nap# | #nɐp# {GOLD: #nɐp#}
+128    | #naj# | #naj# | #naj# {GOLD: #naj#}
+129    | #naj# | #naj# | #naj# {GOLD: #naj#}
+130    | #naj# | #naj# | #naj# {GOLD: #naj#}
+131    | #naŋ# | #naŋ# | #nɐŋ# {GOLD: #nɐ#}
+132    | #nak# | #nak# | #nɐk# {GOLD: #nɐk#}
+133    | #nem# | #nem# | #nem# {GOLD: #nɐm#}
+134    | #ni# | #ni# | #ni# {GOLD: #ni#}
+135    | #ni# | #ni# | #ni# {GOLD: #ni#}
+136    | #ni# | #ni# | #ni# {GOLD: #ni#}
+137    | #nim# | #nim# | #nim# {GOLD: #nim#}
+138    | #nir# | #nir# | #nir# {GOLD: #nir#}
+139    | #niŋ# | #niŋ# | #niŋ# {GOLD: #niŋ#}
+140    | #niŋ# | #niŋ# | #niŋ# {GOLD: #niŋ#}
+141    | #niŋ# | #niŋ# | #niŋ# {GOLD: #niŋ#}
+142    | #nɨ# | #nɨ# | #nu# {GOLD: #nu#}
+143    | #now# | #now# | #nuj# {GOLD: #nuj#}
+144    | #nu# | #nu# | #nu# {GOLD: #nu#}
+145    | #nuk# | #nuk# | #nuk# {GOLD: #nuk#}
+146    | #da# | #ða# | #ra# {GOLD: #ra#}
+147    | #dar# | #ðar# | #rɐr# {GOLD: #rɐr#}
+148    | #dak# | #ðak# | #rɐk# {GOLD: #rɐk#}
+149    | #deŋ# | #ðeŋ# | #reŋ# {GOLD: #reŋ#}
+150    | #dik# | #ðik# | #rik# {GOLD: #rik#}
+151    | #dɨ# | #ðɨ# | #ru# {GOLD: #ru#}
+152    | #dɨ# | #ðɨ# | #ru# {GOLD: #ru#}
+153    | #dom# | #ðom# | #rom# {GOLD: #rom#}
+154    | #du# | #ðu# | #ru# {GOLD: #ru#}
+155    | #du# | #ðu# | #ru# {GOLD: #ru#}
+156    | #duŋ# | #ðuŋ# | #ruŋ# {GOLD: #tuŋ#}
+157    | #duŋ# | #ðuŋ# | #ruŋ# {GOLD: #ruŋ#}
+158    | #dlek# | #tek# | #tek# {GOLD: #tek#}
+159    | #dlok# | #tok# | #tok# {GOLD: #tok#}
+160    | #ta# | #ta# | #ta# {GOLD: #ta#}
+161    | #tat# | #tat# | #tɐt# {GOLD: #tɐt#}
+162    | #taŋ# | #taŋ# | #tɐŋ# {GOLD: #tɐŋ#}
+163    | #tɐk# | #tɐk# | #tɐk# {GOLD: #tɐk#}
+164    | #tew# | #tew# | #tew# {GOLD: #tew#}
+165    | #tep# | #tep# | #tep# {GOLD: #tep#}
+166    | #tek# | #tek# | #tek# {GOLD: #tek#}
+167    | #tow# | #tow# | #tuj# {GOLD: #to#}
+168    | #tla# | #ta# | #ta# {GOLD: #ta#}
+169    | #tli# | #ti# | #ti# {GOLD: #ti#}
+170    | #tlow# | #tow# | #tuj# {GOLD: #tuj#}
+171    | #tʰa# | #tʰa# | #tʰa# {GOLD: #tʰa#}
+172    | #tʰa# | #tʰa# | #tʰa# {GOLD: #tʰa#}
+173    | #tʰaak# | #tʰaːk# | #tʰak# {GOLD: #tʰak#}
+174    | #tʰaaw# | #tʰaːw# | #tʰaw# {GOLD: #tʰaw#}
+175    | #tʰaw# | #tʰaw# | #tʰaw# {GOLD: #tʰaw#}
+176    | #tʰar# | #tʰar# | #tʰɐr# {GOLD: #tʰɐr#}
+177    | #tʰat# | #tʰat# | #tʰɐt# {GOLD: #tʰɐt#}
+178    | #tʰaj# | #tʰaj# | #tʰaj# {GOLD: #tʰaj#}
+179    | #tʰak# | #tʰak# | #tʰɐk# {GOLD: #tʰɐk#}
+180    | #tʰɐr# | #tʰɐr# | #tʰɐr# {GOLD: #tʰɐr#}
+181    | #tʰej# | #tʰej# | #tʰej# {GOLD: #tʰej#}
+182    | #tʰej# | #tʰej# | #tʰej# {GOLD: #tʰej#}
+183    | #tʰeŋ# | #tʰeŋ# | #tʰeŋ# {GOLD: #tʰeŋ#}
+184    | #tʰi# | #tʰi# | #tʰi# {GOLD: #tʰi#}
+185    | #tʰi# | #tʰi# | #tʰi# {GOLD: #tʰi#}
+186    | #tʰin# | #tʰin# | #tʰin# {GOLD: #tʰin#}
+187    | #tʰiŋ# | #tʰiŋ# | #tʰiŋ# {GOLD: #tʰiŋ#}
+188    | #tʰik# | #tʰik# | #tʰik# {GOLD: #tʰik#}
+189    | #tʰɨ# | #tʰɨ# | #tʰu# {GOLD: #tʰu#}
+190    | #tʰow# | #tʰow# | #tʰuj# {GOLD: #tʰuj#}
+191    | #tʰuur# | #tʰuːr# | #tʰur# {GOLD: #tʰur#}
+192    | #tʰum# | #tʰum# | #tʰum# {GOLD: #tʰum#}
+193    | #tʰum# | #tʰum# | #tʰum# {GOLD: #tʰum#}
+194    | #tʰuk# | #tʰuk# | #tʰuk# {GOLD: #tʰuk#}
+195    | #sa# | #sa# | #sa# {GOLD: #sa#}
+196    | #sa# | #sa# | #sa# {GOLD: #sa#}
+197    | #saam# | #saːm# | #sam# {GOLD: #sam#}
+198    | #saar# | #saːr# | #sar# {GOLD: #sar#}
+199    | #saaŋ# | #saːŋ# | #saŋ# {GOLD: #saŋ#}
+200    | #sam# | #sam# | #sɐm# {GOLD: #sɐm#}
+201    | #sak# | #sak# | #sak# {GOLD: #sɐk#}
+202    | #sak# | #sak# | #sak# {GOLD: #sak#}
+203    | #se# | #se# | #se# {GOLD: #si#}
+204    | #si# | #si# | #si# {GOLD: #ci#}
+205    | #si# | #si# | #si# {GOLD: #si#}
+206    | #sik# | #sik# | #sik# {GOLD: #sik#}
+207    | #sik# | #sik# | #sik# {GOLD: #sik#}
+208    | #soj# | #soj# | #suj# {GOLD: #suj#}
+209    | #su# | #su# | #su# {GOLD: #su#}
+210    | #su# | #su# | #su# {GOLD: #su#}
+211    | #sun# | #sun# | #sun# {GOLD: #sun#}
+212    | #sun# | #sun# | #sun# {GOLD: #ʃun#}
+213    | #sum# | #sum# | #sum# {GOLD: #ʃim#}
+214    | #t͡sa# | #t͡sa# | #t͡sa# {GOLD: #t͡sa#}
+215    | #t͡sa# | #t͡sa# | #t͡sa# {GOLD: #t͡sa#}
+216    | #t͡saan# | #t͡saːn# | #t͡san# {GOLD: #t͡sɐn#}
+217    | #t͡saat# | #t͡saːt# | #t͡sat# {GOLD: #t͡sɐn#}
+218    | #t͡saat# | #t͡saːt# | #t͡sat# {GOLD: #t͡sat#}
+219    | #t͡saaŋ# | #t͡saːŋ# | #t͡saŋ# {GOLD: #t͡sɐŋ#}
+220    | #t͡sap# | #t͡sap# | #t͡sap# {GOLD: #cɐp#}
+221    | #t͡sar# | #t͡sar# | #t͡sɐr# {GOLD: #t͡sɐr#}
+222    | #t͡saŋ# | #t͡saŋ# | #t͡sɐŋ# {GOLD: #t͡sɐŋ#}
+223    | #t͡sɐt# | #t͡sɐt# | #t͡sat# {GOLD: #t͡sat#}
+224    | #t͡sɐt# | #t͡sɐt# | #t͡sat# {GOLD: #t͡sat#}
+225    | #t͡sej# | #t͡sej# | #t͡sej# {GOLD: #t͡sej#}
+226    | #t͡ser# | #t͡ser# | #t͡ser# {GOLD: #cor#}
+227    | #t͡si# | #t͡si# | #t͡si# {GOLD: #t͡si#}
+228    | #t͡si# | #t͡si# | #t͡si# {GOLD: #ci#}
+229    | #t͡si# | #t͡si# | #t͡si# {GOLD: #ci#}
+230    | #t͡si# | #t͡si# | #t͡si# {GOLD: #ci#}
+231    | #t͡sim# | #t͡sim# | #t͡sim# {GOLD: #t͡sim#}
+232    | #t͡sik# | #t͡sik# | #t͡sik# {GOLD: #t͡sik#}
+233    | #t͡siŋ# | #t͡siŋ# | #t͡siŋ# {GOLD: #t͡siŋ#}
+234    | #t͡su# | #t͡su# | #t͡su# {GOLD: #t͡su#}
+235    | #ʃa# | #ʃa# | #ʃa# {GOLD: #ʃa#}
+236    | #ʃa# | #ʃa# | #ʃa# {GOLD: #ʃa#}
+237    | #ʃa# | #ʃa# | #ʃa# {GOLD: #ʃa#}
+238    | #ʃap# | #ʃap# | #ʃap# {GOLD: #ʃap#}
+239    | #ʃat# | #ʃat# | #ʃat# {GOLD: #ʃat#}
+240    | #ʃaj# | #ʃaj# | #ʃaj# {GOLD: #ʃaj#}
+241    | #ʃaŋ# | #ʃaŋ# | #ʃɐŋ# {GOLD: #ʃɐŋ#}
+242    | #ʃaŋ# | #ʃaŋ# | #ʃɐŋ# {GOLD: #ʃɐŋ#}
+243    | #ʃɐt# | #ʃɐt# | #ʃat# {GOLD: #ʃat#}
+244    | #ʃɐŋ# | #ʃɐŋ# | #ʃɐŋ# {GOLD: #ʃɐŋ#}
+245    | #ʃi# | #ʃi# | #ʃi# {GOLD: #ʃi#}
+246    | #ʃi# | #ʃi# | #ʃi# {GOLD: #ʃi#}
+247    | #ʃi# | #ʃi# | #ʃi# {GOLD: #ʃi#}
+248    | #ʃim# | #ʃim# | #ʃim# {GOLD: #ʃim#}
+249    | #ʃim# | #ʃim# | #ʃim# {GOLD: #ʃim#}
+250    | #ʃo# | #ʃo# | #ʃo# {GOLD: #ʃo#}
+251    | #ʃon# | #ʃon# | #ʃon# {GOLD: #ʃon#}
+252    | #ʃoj# | #ʃoj# | #ʃuj# {GOLD: #ʃuj#}
+253    | #ʃok# | #ʃok# | #ʃok# {GOLD: #ʃok#}
+254    | #ʃoŋ# | #ʃoŋ# | #ʃoŋ# {GOLD: #ʃoŋ#}
+255    | #ʃu# | #ʃu# | #ʃu# {GOLD: #ʃu#}
+256    | #ʃuur# | #ʃuːr# | #ʃur# {GOLD: #ʃur#}
+257    | #ʃup# | #ʃup# | #ʃup# {GOLD: #ʃup#}
+258    | #ʃut# | #ʃut# | #ʃut# {GOLD: #ʃut#}
+259    | #ʃuk# | #ʃuk# | #ʃuk# {GOLD: #ʃuk#}
+260    | #ʃuŋ# | #ʃuŋ# | #ʃuŋ# {GOLD: #ʃuŋ#}
+261    | #ʃuŋ# | #ʃuŋ# | #ʃuŋ# {GOLD: #ʃuŋ#}
+262    | #ʃuŋ# | #ʃuŋ# | #ʃuŋ# {GOLD: #ʃuŋ#}
+263    | #ja# | #ja# | #ja# {GOLD: #ja#}
+264    | #ja# | #ja# | #ja# {GOLD: #ja#}
+265    | #ja# | #ja# | #ja# {GOLD: #ja#}
+266    | #ja# | #ja# | #ja# {GOLD: #ja#}
+267    | #jaam# | #jaːm# | #jam# {GOLD: #jam#}
+268    | #jap# | #jap# | #jɐp# {GOLD: #jɐp#}
+269    | #jaŋ# | #jaŋ# | #jɐŋ# {GOLD: #jɐŋ#}
+270    | #jak# | #jak# | #jɐk# {GOLD: #jɐk#}
+271    | #jon# | #jon# | #jon# {GOLD: #jon#}
+272    | #joj# | #joj# | #juj# {GOLD: #juj#}
+273    | #joŋ# | #joŋ# | #joŋ# {GOLD: #joŋ#}
+274    | #jwor# | #jor# | #jor# {GOLD: #jor#}
+275    | #ju# | #ju# | #ju# {GOLD: #ju#}
+276    | #ju# | #ju# | #ju# {GOLD: #ju#}
+277    | #juŋ# | #juŋ# | #juŋ# {GOLD: #juŋ#}
+278    | #ca# | #ca# | #ca# {GOLD: #ca#}
+279    | #caaŋ# | #caːŋ# | #caŋ# {GOLD: #caŋ#}
+280    | #caaŋ# | #caːŋ# | #caŋ# {GOLD: #caŋ#}
+281    | #caw# | #caw# | #caw# {GOLD: #caw#}
+282    | #car# | #car# | #cɐr# {GOLD: #cɐr#}
+283    | #caj# | #caj# | #caj# {GOLD: #caj#}
+284    | #ci# | #ci# | #ci# {GOLD: #ci#}
+285    | #ciaŋ# | #ciaŋ# | #ciɐŋ# {GOLD: #caŋ#}
+286    | #cik# | #cik# | #cik# {GOLD: #cik#}
+287    | #cow# | #cow# | #cuj# {GOLD: #cuj#}
+288    | #cow# | #cow# | #cuj# {GOLD: #cuj#}
+289    | #cow# | #cow# | #cuj# {GOLD: #cuj#}
+290    | #con# | #con# | #con# {GOLD: #con#}
+291    | #con# | #con# | #con# {GOLD: #con#}
+292    | #cuŋ# | #cuŋ# | #cuŋ# {GOLD: #cuŋ#}
+293    | #ŋa# | #ŋa# | #ŋa# {GOLD: #ŋa#}
+294    | #ŋar# | #ŋar# | #ŋɐr# {GOLD: #ŋɐr#}
+295    | #ŋaj# | #ŋaj# | #ŋaj# {GOLD: #naj#}
+296    | #ŋom# | #ŋom# | #ŋom# {GOLD: #ŋom#}
+297    | #ŋum# | #ŋum# | #ŋum# {GOLD: #ŋum#}
+298    | #ŋun# | #ŋun# | #ŋun# {GOLD: #ŋun#}
+299    | #ka# | #ka# | #ka# {GOLD: #ka#}
+300    | #ka# | #ka# | #ka# {GOLD: #ka#}
+301    | #kaap# | #kaːp# | #kap# {GOLD: #kap#}
+302    | #kaw# | #kaw# | #kaw# {GOLD: #kaw#}
+303    | #kaw# | #kaw# | #kaw# {GOLD: #kaw#}
+304    | #kal# | #kal# | #kaj# {GOLD: #kej#}
+305    | #kaj# | #kaj# | #kaj# {GOLD: #kaj#}
+306    | #kaŋ# | #kaŋ# | #kaŋ# {GOLD: #kaŋ#}
+307    | #kak# | #kak# | #kɐk# {GOLD: #kɐk#}
+308    | #kɐn# | #kɐn# | #kan# {GOLD: #kan#}
+309    | #kej# | #kej# | #kej# {GOLD: #kej#}
+310    | #ko# | #ko# | #ko# {GOLD: #ko#}
+311    | #kow# | #kow# | #kuj# {GOLD: #kuj#}
+312    | #kow# | #kow# | #kuj# {GOLD: #kuj#}
+313    | #kow# | #kow# | #kuj# {GOLD: #kuj#}
+314    | #kol# | #kol# | #kuj# {GOLD: #kuj#}
+315    | #koŋ# | #koŋ# | #koŋ# {GOLD: #koŋ#}
+316    | #kʰa# | #kʰa# | #kʰa# {GOLD: #kʰa#}
+317    | #kʰaaŋ# | #kʰaːŋ# | #kʰaŋ# {GOLD: #kʰaŋ#}
+318    | #kʰaw# | #kʰaw# | #kʰaw# {GOLD: #kʰaw#}
+319    | #kʰaj# | #kʰaj# | #kʰaj# {GOLD: #kʰaj#}
+320    | #kʰaj# | #kʰaj# | #kʰaj# {GOLD: #kʰaj#}
+321    | #kʰaj# | #kʰaj# | #kʰaj# {GOLD: #kʰaj#}
+322    | #kʰak# | #kʰak# | #kʰɐk# {GOLD: #kʰɐk#}
+323    | #kʰɐm# | #kʰɐm# | #kʰam# {GOLD: #kʰam#}
+324    | #kʰej# | #kʰej# | #kʰej# {GOLD: #kʰej#}
+325    | #kʰow# | #kʰow# | #kʰuj# {GOLD: #kʰow#}
+326    | #kʰop# | #kʰop# | #kʰop# {GOLD: #kʰop#}
+327    | #kʰot# | #kʰot# | #kʰot# {GOLD: #kʰot#}
+328    | #kʰoj# | #kʰoj# | #kʰuj# {GOLD: #kʰuj#}
+329    | #kʰoŋ# | #kʰoŋ# | #kʰoŋ# {GOLD: #kʰoŋ#}
+330    | #kʰoŋ# | #kʰoŋ# | #kʰoŋ# {GOLD: #kʰoŋ#}
+331    | #kʰok# | #kʰok# | #kʰok# {GOLD: #kʰok#}
+332    | #kʰok# | #kʰok# | #kʰok# {GOLD: #kʰok#}
+333    | #kʰu# | #kʰu# | #kʰu# {GOLD: #kʰu#}
+334    | #kʰu# | #kʰu# | #kʰu# {GOLD: #kʰu#}
+335    | #kʰuul# | #kʰuːl# | #kʰu# {GOLD: #kʰu#}
+336    | #kʰum# | #kʰum# | #kʰum# {GOLD: #kʰum#}
+337    | #kʰur# | #kʰur# | #kʰur# {GOLD: #kʰur#}
+338    | #kʰut# | #kʰut# | #kʰut# {GOLD: #kʰut#}
+339    | #kʰuk# | #kʰuk# | #kʰuk# {GOLD: #kʰuk#}
+340    | #ha# | #ha# | #ha# {GOLD: #ha#}
+341    | #haaw# | #haːw# | #haw# {GOLD: #haw#}
+342    | #haaŋ# | #haːŋ# | #haŋ# {GOLD: #haŋ#}
+343    | #haw# | #haw# | #haw# {GOLD: #haw#}
+344    | #hal# | #hal# | #haj# {GOLD: #haj#}
+345    | #han# | #han# | #hɐn# {GOLD: #hɐn#}
+346    | #han# | #han# | #hɐn# {GOLD: #hɐn#}
+347    | #haj# | #haj# | #haj# {GOLD: #haj#}
+348    | #hak# | #hak# | #hɐk# {GOLD: #hɐk#}
+349    | #hɐŋ# | #hɐŋ# | #hɐŋ# {GOLD: #hɐŋ#}
+350    | #ho# | #ho# | #ho# {GOLD: #ho#}
+351    | #hol# | #hol# | #huj# {GOLD: #hol#}
+352    | #hoj# | #hoj# | #huj# {GOLD: #huj#}
+353    | #hur# | #hur# | #hur# {GOLD: #hur#}
+354    | #hla# | #la# | #la# {GOLD: #la#}
+355    | #hla# | #la# | #la# {GOLD: #la#}
+356    | #hlip# | #lip# | #lip# {GOLD: #rip#}
+357    | #hri# | #ri# | #ri# {GOLD: #ri#}
+358    | #hrit# | #rit# | #rit# {GOLD: #rit#}
+359    | #hriŋ# | #riŋ# | #riŋ# {GOLD: #riŋ#}
+360    | #hrik# | #rik# | #rik# {GOLD: #rik#}
+361    | #hroj# | #roj# | #ruj# {GOLD: #ruj#}
+362    | #hwa# | #ha# | #ha# {GOLD: #ha#}
+363    | #hwa# | #ha# | #ha# {GOLD: #ha#}
+364    | #hwa# | #ha# | #ha# {GOLD: #ha#}
+365    | #hwɨ# | #hwɨ# | #hvu# {GOLD: #fu#}
+366    | #hwor# | #hor# | #hor# {GOLD: #hor#}
+367    | #hwok# | #hok# | #hok# {GOLD: #hok#}
+368    | #hwut# | #hwut# | #hvut# {GOLD: #hut#}
+369    | #ʔa# | #ʔa# | #ʔa# {GOLD: #ʔa#}
+370    | #ʔi# | #ʔi# | #ʔi# {GOLD: #ʔi#}

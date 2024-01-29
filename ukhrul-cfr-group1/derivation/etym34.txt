@@ -1,0 +1,10 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :34:
+#baal# >>> #paj# ( GOLD : #paj#) :
+b a a l 
+#paal# | 2 : [-cont] > [-voi] / # __ 
+Stage 1 stage form : #paal#
+#paaj# | 9 : l > j / __ #
+#paːj# | 11 : {a a;u u} > {aː;uː} 
+#paj# | 12 : [+syl] > [-long,-splng] 
+Stage 2 stage form : #paj#
+Final form : #paj#

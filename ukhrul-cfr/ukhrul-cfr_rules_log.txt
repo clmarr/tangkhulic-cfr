@@ -1,13 +1,17 @@
+h > ∅ / __ [+cor,+son]
 ∅ > h / # __ a
-d > r / __ [+syl]
+pʷ > w 
+bʷ > v 
+d > ð / __ [+syl]
 [-cont] > [-voi] 
+[+son,+cor,-syl] > ∅ / [-syl] __ 
+{a a;u u} > {aː;uː} 
+w > ∅ / [-syl] __ [-hi,+syl]
+ð > r 
 l > w / [+round] __ 
 l > j / [+syl] __ 
-h > ∅ / __ [+cor,+son]
-[+son,-syl] > ∅ / [-syl] __ 
 [+round,-syl] > v / __ [+syl]
-{a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː} 
-{a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː} 
+{u w;uː w;w u;i j} > {uː;uː;uː;iː} 
 a > ɐ / __ [+cons,-lat]
 [+syl] > [-long,-splng] 
 ɨ > u 

@@ -1,0 +1,6 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :259:
+#ʃuk# >>> #ʃuk# ( GOLD : #ʃuk#) :
+ʃ u k 
+Stage 1 stage form : #ʃuk#
+Stage 2 stage form : #ʃuk#
+Final form : #ʃuk#

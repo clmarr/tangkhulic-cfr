@@ -1,6 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :218:
 #t͡saat# >>> #t͡sat# ( GOLD : #t͡sat#) :
 t͡s a a t 
-#t͡saːt# | 8 : {a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː} 
-#t͡sat# | 11 : [+syl] > [-long,-splng] 
+#t͡saːt# | 7 : {a a;u u} > {aː;uː} 
+Proto-Kachai-Ukhrul stage form : #t͡saːt#
+#t͡sat# | 15 : [+syl] > [-long,-splng] 
 Final form : #t͡sat#

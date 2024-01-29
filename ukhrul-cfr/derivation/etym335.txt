@@ -1,8 +1,9 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :335:
 #kʰuul# >>> #kʰu# ( GOLD : #kʰu#) :
 kʰ u u l 
-#kʰuuw# | 3 : l > w / [+round] __ 
-#kʰuːw# | 8 : {a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː} 
-#kʰuː# | 9 : {a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː} 
-#kʰu# | 11 : [+syl] > [-long,-splng] 
+#kʰuːl# | 7 : {a a;u u} > {aː;uː} 
+Proto-Kachai-Ukhrul stage form : #kʰuːl#
+#kʰuːw# | 10 : l > w / [+round] __ 
+#kʰuː# | 13 : {u w;uː w;w u;i j} > {uː;uː;uː;iː} 
+#kʰu# | 15 : [+syl] > [-long,-splng] 
 Final form : #kʰu#

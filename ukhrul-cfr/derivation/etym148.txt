@@ -1,6 +1,8 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :148:
 #dak# >>> #rɐk# ( GOLD : #rɐk#) :
 d a k 
-#rak# | 1 : d > r / __ [+syl]
-#rɐk# | 10 : a > ɐ / __ [+cons,-lat]
+#ðak# | 4 : d > ð / __ [+syl]
+Proto-Kachai-Ukhrul stage form : #ðak#
+#rak# | 9 : ð > r 
+#rɐk# | 14 : a > ɐ / __ [+cons,-lat]
 Final form : #rɐk#

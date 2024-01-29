@@ -1,0 +1,7 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :328:
+#kʰoj# >>> #kʰuj# ( GOLD : #kʰuj#) :
+kʰ o j 
+Stage 1 stage form : #kʰoj#
+#kʰuj# | 13 : o > u / __ [+hi,-syl,-cons]
+Stage 2 stage form : #kʰuj#
+Final form : #kʰuj#

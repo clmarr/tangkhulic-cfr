@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :221:
 #t͡sar# >>> #t͡sɐr# ( GOLD : #t͡sɐr#) :
 t͡s a r 
-#t͡sɐr# | 10 : a > ɐ / __ [+cons,-lat]
+Proto-Kachai-Ukhrul stage form : #t͡sar#
+#t͡sɐr# | 14 : a > ɐ / __ [+cons,-lat]
 Final form : #t͡sɐr#

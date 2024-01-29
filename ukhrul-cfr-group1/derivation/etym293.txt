@@ -1,0 +1,6 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :293:
+#ŋa# >>> #ŋa# ( GOLD : #ŋa#) :
+ŋ a 
+Stage 1 stage form : #ŋa#
+Stage 2 stage form : #ŋa#
+Final form : #ŋa#

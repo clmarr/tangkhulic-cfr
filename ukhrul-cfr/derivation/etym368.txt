@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :368:
-#hwut# >>> #hut# ( GOLD : #hut#) :
+#hwut# >>> #hvut# ( GOLD : #hut#) :
 h w u t 
-#hut# | 6 : [+son,-syl] > ∅ / [-syl] __ 
-Final form : #hut#
+Proto-Kachai-Ukhrul stage form : #hwut#
+#hvut# | 12 : [+round,-syl] > v / __ [+syl]
+Final form : #hvut#

@@ -1,6 +1,8 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :66:
 #pʷɨ# >>> #vu# ( GOLD : #vu#) :
 pʷ ɨ 
-#vɨ# | 7 : [+round,-syl] > v / __ [+syl]
-#vu# | 12 : ɨ > u 
+#wɨ# | 2 : pʷ > w 
+Proto-Kachai-Ukhrul stage form : #wɨ#
+#vɨ# | 12 : [+round,-syl] > v / __ [+syl]
+#vu# | 16 : ɨ > u 
 Final form : #vu#

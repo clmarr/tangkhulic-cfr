@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :103:
 #rej# >>> #rej# ( GOLD : #rej#) :
 r e j 
+Proto-Kachai-Ukhrul stage form : #rej#
 Final form : #rej#

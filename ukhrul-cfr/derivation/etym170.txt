@@ -1,7 +1,8 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :170:
 #tlow# >>> #tuj# ( GOLD : #tuj#) :
 t l o w 
-#tow# | 6 : [+son,-syl] > ∅ / [-syl] __ 
-#toj# | 13 : w > j / o __ 
-#tuj# | 14 : o > u / __ j
+#tow# | 6 : [+son,+cor,-syl] > ∅ / [-syl] __ 
+Proto-Kachai-Ukhrul stage form : #tow#
+#toj# | 17 : w > j / o __ 
+#tuj# | 18 : o > u / __ j
 Final form : #tuj#

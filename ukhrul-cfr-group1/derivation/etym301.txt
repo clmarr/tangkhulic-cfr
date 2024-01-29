@@ -1,0 +1,7 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :301:
+#kaap# >>> #kaɐp# ( GOLD : #kap#) :
+k a a p 
+Stage 1 stage form : #kaap#
+#kaɐp# | 10 : a > ɐ / __ [+cons]
+Stage 2 stage form : #kaɐp#
+Final form : #kaɐp#

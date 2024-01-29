@@ -43,7 +43,7 @@ $w (<pʷ and w merge with v (<bʷ) prevocalically.
 [+round,-syl] > v / __ [+syl]
 
 $[uw] and [ij] sequences, both conspicuously absent from the input, are leveled. In theory dealing with toher h
-{u w;uː w;w u;i j} > uː;uː;uː;uː;iː}
+{u w;uː w;w u;i j} > {uː;uː;uː;iː}
 
 $a > ɐ before stops (1 exceptionː pʷak > vak; but 8 other cases for -ak; 4 for -ap, 7 for -at) and nasals (1 exception ciaŋ > caŋ; otherwise 9 cases for -aŋ, 3 cases for -an, 7 for -am), and before -r (6 cases). Does not effect long aː though. Both exceptions are after possible glides but n=2 is not enough to posit htat as causative fimrly. 
 a > ɐ / __ [+cons,-lat]

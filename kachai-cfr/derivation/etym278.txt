@@ -4,5 +4,5 @@ j a ŋ
 Proto-Kachai-Ukhrul stage form : #jaŋ#
 Proto-Kachai I stage form : #jaŋ#
 Proto-Kachai II  stage form : #jaŋ#
-#ja# | 14 : ŋ > ∅ / [+lo] __ #
+#ja# | 18 : ŋ > ∅ / [+lo] __ #
 Final form : #ja#

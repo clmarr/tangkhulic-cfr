@@ -1,6 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :199:
 #saaŋ# >>> #saŋ# ( GOLD : #saŋ#) :
 s a a ŋ 
-#saːŋ# | 8 : {a a;u u;u w;uː w;w u;i j} > {aː;uː;uː;uː;uː;iː} 
-#saŋ# | 11 : [+syl] > [-long,-splng] 
+#saːŋ# | 7 : {a a;u u} > {aː;uː} 
+Proto-Kachai-Ukhrul stage form : #saːŋ#
+#saŋ# | 15 : [+syl] > [-long,-splng] 
 Final form : #saŋ#

@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :348:
 #hak# >>> #hɐk# ( GOLD : #hɐk#) :
 h a k 
-#hɐk# | 10 : a > ɐ / __ [+cons,-lat]
+Proto-Kachai-Ukhrul stage form : #hak#
+#hɐk# | 14 : a > ɐ / __ [+cons,-lat]
 Final form : #hɐk#

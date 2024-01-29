@@ -1,0 +1,6 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :315:
+#koŋ# >>> #koŋ# ( GOLD : #koŋ#) :
+k o ŋ 
+Stage 1 stage form : #koŋ#
+Stage 2 stage form : #koŋ#
+Final form : #koŋ#

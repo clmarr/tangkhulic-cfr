@@ -33,14 +33,24 @@ $ End of shared developments with Ukhrul
 $PKU *e becomes *i word-initially and before coronals. Before *n and *t and thw word bound, this is early enough to feed i's own development into ɐ there (although to o in po), before r it is early enough to trigger palatalization. Word finally however it is after the i > ɐ phenomena (and no evidence that it triggered palatalization. Dealing with pre-coronal phenomena here, therefore.
 e > i / __ [+cor]
 
+$ a lengthens before j. Bleeds post-nasal a raising. 
+a > aː / __ j
+
+$ -l passes to j. Has to be after pre-j lengthening nad oj > ej, as al merges with oj not a:j and a:l, and ol merges with a:j and a:l not oj. 
+l > j 
+
+$ a raises to ɐ after nasals (n , ŋ attested) and before coronals. Early enough to end up blocking engma loss in these cases (nɐŋ)
+a > ɐ / [+nas] __
+
 $ɐ temporarily rises to ə, distinct from ɨ still, but not low so as to not trigger loss of final ŋ
+ɐ > ə
 
 =Proto-Kachai I
 $after first wave of vowel mutations, with palatalization and labialization of consonants triggered by i and u as the boundary. 
 
 $ ts appears to pass to ð except when before an i that is NOT before another consonant. Separately, t-, dl- (> tl- > t) and c- onsets appear to become ts- precisely in this context (i, without a following consonant). This all is clearly BEFORE Proto-Ukhrul-Kachai ɨ moves to i. Ciang is the only ci- word (nad htere are no ce- words before the passage of aj- and ow- to e.), and it goes to t͡s, so c might be a good thing to blame, given its place of articulation. Furthermore, there is the case of tser > cir (but tsej > ði).  This all has to happen before i > ɐ.
-$1. coronal non-continuants go to c before i unless it is closed by a consonant. 
-[+cor,-cont] > c / __ i {#;[-cons]}
+$1. coronal non-continuants go to c before i. Not e. But some e became i here. 
+[+cor,-cont] > c / __ i 
 
 $2. remaining ts passes to ð
 t͡s > ð 
@@ -48,11 +58,20 @@ t͡s > ð
 $3. ci- (and ce-?) to ts(i,e). Gesture reassignment? 
 c > t͡s / __ [+front,-lo] 
 
+$labialization of h before round vowels (u, o)
+h > f / __ [+lab,+syl]
+
+$ ij > i
+j > ∅ / i __
+
 =Proto-Kachai II 
 $delimited by final engma loss. 
 
 $ final ŋ effaced after low vowles (not including PKU ɐ which is currently ə)
 ŋ > ∅ / [+lo] __ #
+
+$ i to ə at coda. Counterblseeds palatalization, does not feed ə/ɐ > u stuff. 
+i > ə / __ #
 
 $ long a: passes to o. Clearly after final engma loss. 
 aː > o

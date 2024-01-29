@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :139:
 #niŋ# >>> #niŋ# ( GOLD : #niŋ#) :
 n i ŋ 
+Proto-Kachai-Ukhrul stage form : #niŋ#
 Final form : #niŋ#

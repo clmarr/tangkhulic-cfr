@@ -1,0 +1,7 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :156:
+#duŋ# >>> #ruŋ# ( GOLD : #tuŋ#) :
+d u ŋ 
+#ruŋ# | 0 : d > r / # __ [+syl]
+Stage 1 stage form : #ruŋ#
+Stage 2 stage form : #ruŋ#
+Final form : #ruŋ#

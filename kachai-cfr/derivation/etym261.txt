@@ -4,7 +4,7 @@ t͡s a a t
 #t͡saːt# | 7 : {a a;u u} > {aː;uː} 
 Proto-Kachai-Ukhrul stage form : #t͡saːt#
 Proto-Kachai I stage form : #t͡saːt#
-#ðaːt# | 12 : t͡s > ð 
+#ðaːt# | 15 : t͡s > ð 
 Proto-Kachai II  stage form : #ðaːt#
-#ðot# | 15 : aː > o 
+#ðot# | 19 : aː > o 
 Final form : #ðot#

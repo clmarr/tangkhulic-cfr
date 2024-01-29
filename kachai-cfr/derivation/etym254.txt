@@ -1,8 +1,9 @@
 Derivation file for run '../tangkhulic-cfr/kachai-cfr'; etymon number :254:
-#hwot# >>> #hot# ( GOLD : #fɐt#) :
+#hwot# >>> #fot# ( GOLD : #fɐt#) :
 h w o t 
 #hot# | 8 : w > ∅ / [-syl] __ [-hi,+syl]
 Proto-Kachai-Ukhrul stage form : #hot#
 Proto-Kachai I stage form : #hot#
-Proto-Kachai II  stage form : #hot#
-Final form : #hot#
+#fot# | 17 : h > f / __ [+lab,+syl]
+Proto-Kachai II  stage form : #fot#
+Final form : #fot#

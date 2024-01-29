@@ -1,0 +1,7 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :199:
+#saaŋ# >>> #saɐŋ# ( GOLD : #saŋ#) :
+s a a ŋ 
+Stage 1 stage form : #saaŋ#
+#saɐŋ# | 10 : a > ɐ / __ [+cons]
+Stage 2 stage form : #saɐŋ#
+Final form : #saɐŋ#

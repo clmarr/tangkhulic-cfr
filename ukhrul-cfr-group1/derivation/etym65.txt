@@ -1,0 +1,9 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :65:
+#pʷak# >>> #vɐk# ( GOLD : #vak#) :
+pʷ a k 
+#wak# | 5 : pʷ > w 
+#vak# | 7 : w > v / # __ [+syl,-round]
+Stage 1 stage form : #vak#
+#vɐk# | 10 : a > ɐ / __ [+cons]
+Stage 2 stage form : #vɐk#
+Final form : #vɐk#

@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/ukhrul-cfr'; etymon number :286:
 #cik# >>> #cik# ( GOLD : #cik#) :
 c i k 
+Proto-Kachai-Ukhrul stage form : #cik#
 Final form : #cik#

@@ -1,0 +1,7 @@
+Derivation file for run '../tangkhulic-cfr/ukhrul-cfr-group1'; etymon number :269:
+#jaŋ# >>> #jɐŋ# ( GOLD : #jɐŋ#) :
+j a ŋ 
+Stage 1 stage form : #jaŋ#
+#jɐŋ# | 10 : a > ɐ / __ [+cons]
+Stage 2 stage form : #jɐŋ#
+Final form : #jɐŋ#

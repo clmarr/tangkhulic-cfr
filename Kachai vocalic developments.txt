@@ -27,7 +27,7 @@ o3 = merged after o > ɐ and after ŋ > ∅
 aj1 = sharing aj's development
 
 Vowel	#	m	p	n	t	r 	l	ŋ	k
-i¹ 	ɐ2	i3	i3	ɐ2	ɐ2	?	ɐ1/2/3	ɐ1/2	ɐ1/2
+i¹ 	ɐ3	i3	i3	ɐ2	ɐ2	?	ɐ1/2/3	ɐ1/2	ɐ1/2
 	(ʔi tho)(j,ʃ,n,h,p) 	(no palatals att'd)
 		(may be secondary -- no coronal onsets)
 	(all examples for i# are coronal onsets or m-)
@@ -39,6 +39,7 @@ il	ɐ2
 
 ej	i3	n/a for rest. 
 	(m,pʰ,l,k,d,tʰ,kʰ)
+	(does not palatalize.) 
 
 ew	i2 or i3
 
@@ -61,9 +62,9 @@ a	Na > Nɐ2  a2	a2	o2/ɐ2	ɐ2	a2	ki3.#	a2	a2
 	FEEDS labialization.
 
 al	> ... > i3
-	(sharing outcome of oj, NOT aːl, ol and aj)
+	(sharing outcome of oj and ej, NOT aːl, ol and aj)
 
-aː	o2	o2	o2	o2	o2	o2	aj1	o3	o2
+aː	o2	o2	o2	o2	o2	o2	we	o3	o2
 		ʃa2m 							(after 
 									ŋ > ∅)
 
