@@ -1,0 +1,5 @@
+Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :22:
+#jip# >>> #jiʔ# ( GOLD : #jep#) :
+j i p 
+#jiʔ# | 7 : [-cont] > ʔ / __ #
+Final form : #jiʔ#

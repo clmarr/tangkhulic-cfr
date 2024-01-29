@@ -1,0 +1,4 @@
+Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :145:
+#low# >>> #low# ( GOLD : #low#) :
+l o w 
+Final form : #low#

@@ -1,0 +1,5 @@
+Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :181:
+#cow# >>> #t͡sow# ( GOLD : #t͡sow#) :
+c o w 
+#t͡sow# | 0 : c > t͡s / # __ 
+Final form : #t͡sow#

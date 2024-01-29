@@ -1,0 +1,29 @@
+c > t͡s / # __ 
+{u;a;i;ɐ} > {e;e;e;e} / __ t
+ɐ > e / __ p
+ɨ > u 
+∅ > j / e __ t #
+∅ > k / i __ #
+{o;i;a} > {u;o;o} / __ k
+[-cont] > ʔ / __ #
+[+tense,-hi] > o / __ w
+∅ > k / u __ #
+{a;i;o;ɐ;e} > {o;u;u;o;ɐ} / __ r
+{a;i} > {o;ɐ} / __ ŋ
+ŋ > ∅ / [+tense,+syl,-hi] __ #
+r > ∅ / __ #
+{o;a;e;ɐ} > {u;e;i;u} / __ #
+w > ∅ / [-syl] __ 
+d > ∅ / __ [-syl]
+h > ∅ / __ [-syl]
+[+son,+cons,+cor] > ∅ / [-syl] __ 
+d > r / # __ [+syl]
+ʃ > s / # __ 
+{ɐ;a;i;u;o} > {e;e;ɐ;ɐ;ɐ} / __ n
+n > j / e __ #
+{e;a} > {u;e} / __ j
+{i;u} > {ɐ;ɐ} / __ m
+{u;o;i} > {ɐ;ɐ;ɐ} / __ l
+{l;n} > {ŋ;ŋ} / ɐ __ #
+[-cont,+voi,+lab] > v / # __ 
+[-syl,+lab,+round] > w / # __ 

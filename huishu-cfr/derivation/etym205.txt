@@ -1,0 +1,5 @@
+Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :205:
+#tek# >>> #teʔ# ( GOLD : #keʔ#) :
+t e k 
+#teʔ# | 7 : [-cont] > ʔ / __ #
+Final form : #teʔ#

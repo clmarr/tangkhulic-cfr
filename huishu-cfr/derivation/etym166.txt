@@ -1,0 +1,6 @@
+Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :166:
+#wok# >>> #wuʔ# ( GOLD : #wuʔ#) :
+w o k 
+#wuk# | 6 : {o;i;a} > {u;o;o} / __ k
+#wuʔ# | 7 : [-cont] > ʔ / __ #
+Final form : #wuʔ#

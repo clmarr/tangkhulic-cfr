@@ -1,0 +1,7 @@
+Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :133:
+#pʰaaŋ# >>> #pʰau# ( GOLD : #pʰi#) :
+pʰ a a ŋ 
+#pʰaoŋ# | 11 : {a;i} > {o;ɐ} / __ ŋ
+#pʰao# | 12 : ŋ > ∅ / [+tense,+syl,-hi] __ #
+#pʰau# | 14 : {o;a;e;ɐ} > {u;e;i;u} / __ #
+Final form : #pʰau#

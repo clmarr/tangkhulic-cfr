@@ -1,0 +1,6 @@
+Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :213:
+#jak# >>> #joʔ# ( GOLD : #joʔ#) :
+j a k 
+#jok# | 6 : {o;i;a} > {u;o;o} / __ k
+#joʔ# | 7 : [-cont] > ʔ / __ #
+Final form : #joʔ#

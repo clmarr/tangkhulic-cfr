@@ -1,0 +1,5 @@
+Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :267:
+#ta# >>> #te# ( GOLD : #ke#) :
+t a 
+#te# | 14 : {o;a;e;ɐ} > {u;e;i;u} / __ #
+Final form : #te#

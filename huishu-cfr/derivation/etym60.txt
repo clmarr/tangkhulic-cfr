@@ -1,0 +1,6 @@
+Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :60:
+#nɨ# >>> #nuk# ( GOLD : #nuk#) :
+n ɨ 
+#nu# | 3 : ɨ > u 
+#nuk# | 9 : ∅ > k / u __ #
+Final form : #nuk#

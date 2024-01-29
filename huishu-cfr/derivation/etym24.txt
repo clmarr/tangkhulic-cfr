@@ -1,0 +1,6 @@
+Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :24:
+#hol# >>> #hɐŋ# ( GOLD : #hɐŋ#) :
+h o l 
+#hɐl# | 25 : {u;o;i} > {ɐ;ɐ;ɐ} / __ l
+#hɐŋ# | 26 : {l;n} > {ŋ;ŋ} / ɐ __ #
+Final form : #hɐŋ#
