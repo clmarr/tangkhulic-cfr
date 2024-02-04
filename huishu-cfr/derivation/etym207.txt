@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :207:
 #naj# >>> #nej# ( GOLD : #nej#) :
 n a j 
-#nej# | 23 : {e;a} > {u;e} / __ j
+#nej# | 25 : a > e / __ j
 Final form : #nej#

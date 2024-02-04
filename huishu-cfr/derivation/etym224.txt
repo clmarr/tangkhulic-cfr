@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :224:
-#ʃuŋ# >>> #suŋ# ( GOLD : #suŋ#) :
+#ʃuŋ# >>> #su# ( GOLD : #suŋ#) :
 ʃ u ŋ 
-#suŋ# | 20 : ʃ > s / # __ 
-Final form : #suŋ#
+#ʃu# | 15 : ŋ > ∅ / u __ #
+#su# | 22 : ʃ > s / # __ 
+Final form : #su#

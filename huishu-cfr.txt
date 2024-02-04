@@ -10,12 +10,12 @@ $vowels go to e before t, which Rebecca seems to note feeds j epenthesis for ʃu
 $ɨ to u, before u-conditioned final k-insertion
 ɨ > u
 
+$the following before a > e / __ j, before j-deletion and before j-epenthesis (hrit > rejʔ). 
+[+syl,-hi,-lo] > u / __ j
+
 $j-epenthesis, before final t-glottalization (ʃɐt > tsejʔ)
 ∅ > j / e __ t #
 
-$ the following after i > e but before a > i.
-$ TODO the i > e rule mentioned isn't presnet before hand though! The relevant item is Proto-Tangkhulic mi, but the only i>e rule covered thus far is i > e / __ t! Check with Rebecca
-∅ > k / i __ #
 
 $ vowel changes before k, which must happen before final k-insertion. Does not impact a:. 
 {o;i;a} > {u;o;o} / __ k
@@ -26,25 +26,28 @@ $ final stop glottalization. Rebecca notes it comes before i > o (apparentlly co
 $ tense nonhigh vowels to o before w. 
 [+tense,-hi] > o / __ w
 
-$ final k insertion after u. Must come before o and ɐ secondarily become u in final positions.
-∅ > k / u __ #
+$ final k insertion after u and i. Must come before o and ɐ secondarily become u in final positions. After a > i but before i > e. 
+∅ > k / [+hi,+syl] __ #
+
+$ uj to u, after e > u / __ j and after final k insertion. 
+j > ∅ / u __ #
 
 $vowel changes before r, generally involving backing and rounding. Must happen before final r effacement. Distinguishes short and long a. 
-{a;i;o;ɐ;e} > {o;u;u;o;ɐ} / __ r
+{o;i;a;ɐ;e} > {u;u;o;o;ɐ} / __ r
+
+$word-final vowel changes. After final j deletion, after pre-rhotic vowel changes, now before final engma deletion.
+{o;a;e;ɐ} > {u;e;i;u} / __ #
 
 $vowel changes before engma. Distinguishes long and short a; must be before final engma deletion
-{a;i} > {o;ɐ} / __ ŋ 
+{o;a;i} > {u;o;ɐ} / __ ŋ 
 
-$engma deletion after a:, o, e. Of course short a has just become o in this position. So this can be formulated in terms of context as [-hi,+tense,+syl]. Comes before e and o get raised before coda. Described as before V V > V but this seems unnecessary since it would have been before a if all aŋ sequences were disturbed by the previous rule. 
-ŋ > ∅ / [+tense,+syl,-hi] __ #
+$engma deletion after a:, o, u, e. Of course short a has just become o in this position. So this can be formulated in terms of context as [-hi,+tense,+syl]. Comes before e and o get raised before coda. Described as before V V > V but this seems unnecessary since it would have been before a if all aŋ sequences were disturbed by the previous rule. 
+ŋ > ∅ / {[+tense,+syl,-hi];u} __ #
 
-$word-final r effacment moved here, per Rebecca's sub-bullet point in vowel-final changes rules. TODO check this with her. 
+$word-final r effacement moved here, per Rebecca's sub-bullet point in vowel-final changes rules. TODO check this with her. 
 r > ∅ / __ #
 
 $TODO insert j-deletion here, per Rebecca's sub-bullet point in the following rule noting that j-deletion precedes word final vowel changes. 
-
-$word-final vowel changes. After final ŋ and j deletion, after pre-rhotic vowel changes. 
-{o;a;e;ɐ} > {u;e;i;u} / __ #
 
 $cluster simplification rules.
 $ w effacement -- but this is before h-effacement 
@@ -72,7 +75,8 @@ $ n-iotation. Must be after prenasal vowel changes.
 n > j / e __ #
 
 $ pre-j vowel changes. 
-{e;a} > {u;e} / __ j
+$ now just of a > e; e > u now much earlier. Before j-deletion, before n > j, after j-insertion.
+a > e / __ j
 
 {i;u} > {ɐ;ɐ} / __ m
 
@@ -87,3 +91,6 @@ $ b bʰ bʷ become v. Later, remaining rounded consonants pass to w.
 
 $remaining rounded consonants pass to w.
 [-syl,+lab,+round] > w / # __
+
+$initial t- to k- 
+t > k / # __ 

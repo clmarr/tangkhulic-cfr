@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :29:
 #na# >>> #ne# ( GOLD : #ni#) :
 n a 
-#ne# | 14 : {o;a;e;ɐ} > {u;e;i;u} / __ #
+#ne# | 12 : {o;a;e;ɐ} > {u;e;i;u} / __ #
 Final form : #ne#

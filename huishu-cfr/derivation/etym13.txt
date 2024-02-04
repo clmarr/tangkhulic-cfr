@@ -2,6 +2,6 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :13:
 #dɨ# >>> #ruk# ( GOLD : #ruk#) :
 d ɨ 
 #du# | 3 : ɨ > u 
-#duk# | 9 : ∅ > k / u __ #
-#ruk# | 19 : d > r / # __ [+syl]
+#duk# | 9 : ∅ > k / [+hi,+syl] __ #
+#ruk# | 21 : d > r / # __ [+syl]
 Final form : #ruk#

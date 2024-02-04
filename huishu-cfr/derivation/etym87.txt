@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :87:
 #prim# >>> #pɐm# ( GOLD : #pem#) :
 p r i m 
-#pim# | 18 : [+son,+cons,+cor] > ∅ / [-syl] __ 
-#pɐm# | 24 : {i;u} > {ɐ;ɐ} / __ m
+#pim# | 20 : [+son,+cons,+cor] > ∅ / [-syl] __ 
+#pɐm# | 26 : {i;u} > {ɐ;ɐ} / __ m
 Final form : #pɐm#

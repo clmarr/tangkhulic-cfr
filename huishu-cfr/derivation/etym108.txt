@@ -1,7 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :108:
-#ri# >>> #roʔ# ( GOLD : #ri#) :
+#ri# >>> #rik# ( GOLD : #ri#) :
 r i 
-#rik# | 5 : ∅ > k / i __ #
-#rok# | 6 : {o;i;a} > {u;o;o} / __ k
-#roʔ# | 7 : [-cont] > ʔ / __ #
-Final form : #roʔ#
+#rik# | 9 : ∅ > k / [+hi,+syl] __ #
+Final form : #rik#
