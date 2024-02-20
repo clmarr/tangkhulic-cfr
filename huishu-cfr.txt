@@ -41,7 +41,7 @@ p > ʔ / [+lo,+tense] __ #
 $ tense nonhigh (e, a) vowels to o before w. There are many examples for /a/ but only one for /e/. 
 [+tense,-hi,-long] > o / __ w
 
-$ final k insertion after u and i. Must come before o and ɐ secondarily become u in final positions. After a > i but before i > e. Many etyma affected, four apparent exceptions. The exceptions all after [+son] [+front,+syl,-lo] (li,me,re,ri) but there are counterexceptions to thiese (ri > lik, 3 cases of ni > nik).
+$ final k insertion after u and i. Must come before o and ɐ secondarily become u in final positions. After a > i but before i > e. Many etyma affected, four apparent exceptions. The exceptions all after [+son] [+front,+syl,-lo] (li,me,hri > re,ri) but there are counterexceptions to thiese (ri > lik, 3 cases of ni > nik).
 ∅ > k / [+hi,+syl] __ #
 
 $ uj to u, after e > u / __ j and after final k insertion.
@@ -88,37 +88,47 @@ $ w effacement -- but this is before h-effacement
 $ Currently suppressed in favor of rule above. Desuppress if need to be faithful to current version. 
 $w > ∅ / [-syl] __
 
-$ d effacement. Before l-deletion. 
+$ d effacement. Before l-deletion. 3 examples, all check out. 
 d > ∅ / __ [-syl] 
 
 $ h effacement. Before r-effacement. 
-h > ∅ / __ [-syl]
+$ faithful versoin: h > ∅ / __ [-syl]
+$ Clayton correction: does not occur if the following vowel is high. 
+h > ∅ / __ [-syl] [-hi]
 
 $ l effacement and r effacement. 
 [+son,+cons,+cor] > ∅ / [-syl] __ 
 
-$ d-rhotation word initially, prevocalic
+$ d-rhotation word initially, prevocalic. 7 examples. 
 d > r / # __ [+syl] 
  
-$ ʃ-fronting initially 
+$ ʃ-fronting initially. There are 4 cases where you instead get t͡s, with mysterious conditioning.
 ʃ > s / # __ 
 
 $ Rebecca has a rule "VOWEL VOWEL > VOWEL" here. I'll interpret this as a modified a-hiatus-deletion rule, given the changes I made to the handling of /aa/ sequences above. Original rule would be : a a > a. Institute that if need to be faithful. The relevant cases are two: thaow > tow and thuu > thu. 
 [+syl] > ∅ / __ [+syl]
 
-$ pre-n vowel changes. Before n iotation and n > ŋ 
-{ɐ;a;i;u;o} > {e;e;ɐ;ɐ;ɐ} / __ n
+$ pre-n vowel changes. Before n iotation and n > ŋ . Well instantiated - -single exception of ŋun looks nonprobative. 
+$ pre 2/19 version: {ɐ;a;i;u;o} > {e;e;ɐ;ɐ;ɐ} / __ n
+$ CM-fix @ 2/19-- aː shares afate of /a/ here if not elsewhere -- so basically [+lo]  > e.
+$ CM-fix: the fate of vowels is the same before /n/ and /l/ so they are both handled in tandem 
+{ɐ;a;aː;i;u;o} > {e;e;e;ɐ;ɐ;ɐ} / __ [+cor,+son]
 
-$ n-iotation. Must be after prenasal vowel changes. 
+$ n-iotation. Must be after prenasal vowel changes. 3 examples. 
 n > j / e __ #
 
 $ pre-j vowel changes. 
-$ now just of a > e; e > u now much earlier. Before j-deletion, before n > j, after j-insertion.
+$ now just of a > e; e > u now much earlier. Before j-deletion, before n > j, after j-insertion. Well instantiated, one odd case : khaj > khu. 
 a > e / __ j
 
+$ CM-inserted rule: final ej > e after non-nasal coronals
+j > ∅ / [+cor,-nas] e __ #
+
+$ pre-m vowel changes. 10 cases. The one exception is otherwise unexpected in its coda too: sum > suŋ
 {i;u} > {ɐ;ɐ} / __ m
 
-$ prelateral l and n > ŋ ŋ. Distinct treatment of long and short vowels maintains. 
+$  l and n > ŋ ŋ. Distinct treatment of long and short vowels maintains. 
+$ CM-FIX SUPPRESSED: 
 {u;o;i} > {ɐ;ɐ;ɐ} / __ l
 
 $ l and n become engma finally after ɐ. After u and o become ɐ, and ɐ > e phenomena. 

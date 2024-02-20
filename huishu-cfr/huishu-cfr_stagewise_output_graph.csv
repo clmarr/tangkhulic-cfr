@@ -40,7 +40,7 @@ etID  | Input | Output {GOLD}
 38     | #ham# | #ham# {GOLD: #ham#}
 39     | #lej# | #lu# {GOLD: #lu#}
 40     | #lek# | #leʔ# {GOLD: #leʔ#}
-41     | #caj# | #t͡sej# {GOLD: #t͡se#}
+41     | #caj# | #t͡se# {GOLD: #t͡se#}
 42     | #ha# | #he# {GOLD: #we#}
 43     | #kʰa# | #kʰe# {GOLD: #kʰe#}
 44     | #saŋ# | #so# {GOLD: #so#}
@@ -50,9 +50,9 @@ etID  | Input | Output {GOLD}
 48     | #t͡sim# | #t͡sɐm# {GOLD: #t͡sɐm#}
 49     | #kʰum# | #kʰɐm# {GOLD: #kʰɐm#}
 50     | #pʷuk# | #wuʔ# {GOLD: #wuʔ#}
-51     | #laj# | #lej# {GOLD: #le#}
+51     | #laj# | #le# {GOLD: #le#}
 52     | #mej# | #mu# {GOLD: #mu#}
-53     | #baːn# | #vaːn# {GOLD: #vej#}
+53     | #baːn# | #vej# {GOLD: #vej#}
 54     | #reŋ# | #re# {GOLD: #re#}
 55     | #hwa# | #we# {GOLD: #se#}
 56     | #ri# | #rik# {GOLD: #lik#}
@@ -72,7 +72,7 @@ etID  | Input | Output {GOLD}
 70     | #ʃi# | #sik# {GOLD: #sik#}
 71     | #sun# | #sɐŋ# {GOLD: #sɐŋ#}
 72     | #kʰak# | #kʰoʔ# {GOLD: #kʰoʔ#}
-73     | #kal# | #kal# {GOLD: #kej#}
+73     | #kal# | #kel# {GOLD: #kej#}
 74     | #wot# | #woʔ# {GOLD: #woʔ#}
 75     | #ʃaŋ# | #so# {GOLD: #so#}
 76     | #bʷɐm# | #vɐm# {GOLD: #vɐm#}
@@ -120,7 +120,7 @@ etID  | Input | Output {GOLD}
 118    | #kul# | #kɐŋ# {GOLD: #kɐn#}
 119    | #ʃa# | #se# {GOLD: #se#}
 120    | #ni# | #nik# {GOLD: #nik#}
-121    | #hri# | #rik# {GOLD: #re#}
+121    | #hri# | #hik# {GOLD: #re#}
 122    | #maːk# | #maːʔ# {GOLD: #maʔ#}
 123    | #nɐŋ# | #nɐŋ# {GOLD: #nɐŋ#}
 124    | #du# | #ruk# {GOLD: #ruk#}
@@ -173,9 +173,9 @@ etID  | Input | Output {GOLD}
 171    | #reŋ# | #re# {GOLD: #re#}
 172    | #t͡si# | #t͡sik# {GOLD: #t͡sik#}
 173    | #da# | #re# {GOLD: #re#}
-174    | #laj# | #lej# {GOLD: #le#}
+174    | #laj# | #le# {GOLD: #le#}
 175    | #ŋaj# | #ŋej# {GOLD: #nej#}
-176    | #taj# | #kej# {GOLD: #kʰej#}
+176    | #taj# | #ke# {GOLD: #kʰej#}
 177    | #kʰop# | #kʰɐp# {GOLD: #kʰɐp#}
 178    | #ʃaːm# | #saːm# {GOLD: #sam#}
 179    | #t͡sɐm# | #t͡sɐm# {GOLD: #t͡sɐm#}
@@ -213,11 +213,11 @@ etID  | Input | Output {GOLD}
 211    | #plaj# | #pej# {GOLD: #pej#}
 212    | #sak# | #soʔ# {GOLD: #soʔ#}
 213    | #jak# | #joʔ# {GOLD: #joʔ#}
-214    | #t͡saːn# | #t͡saːn# {GOLD: #t͡sej#}
+214    | #t͡saːn# | #t͡se# {GOLD: #t͡sej#}
 215    | #tʰar# | #tʰo# {GOLD: #tʰo#}
 216    | #saːr# | #saː# {GOLD: #sa#}
 217    | #wɐt# | #wejʔ# {GOLD: #vejʔ#}
-218    | #hwe# | #wi# {GOLD: #hwi#}
+218    | #hwe# | #hwi# {GOLD: #hwi#}
 219    | #ʃap# | #saʔ# {GOLD: #saʔ#}
 220    | #tʰɐr# | #tʰo# {GOLD: #tʰo#}
 221    | #kʰow# | #kʰow# {GOLD: #kʰow#}
