@@ -10,7 +10,7 @@ etID  | Input | Output {GOLD}
 8      | #rwok# | #juʔ# {GOLD: #juʔ#}
 9      | #lej# | #lu# {GOLD: #lu#}
 10     | #ram# | #ram# {GOLD: #ram#}
-11     | #ruːl# | #ruːl# {GOLD: #rɐŋ#}
+11     | #ruːl# | #rul# {GOLD: #rɐŋ#}
 12     | #wa# | #we# {GOLD: #we#}
 13     | #dɨ# | #ruk# {GOLD: #ruk#}
 14     | #kʰaj# | #kʰej# {GOLD: #kʰej#}
@@ -45,7 +45,7 @@ etID  | Input | Output {GOLD}
 43     | #kʰa# | #kʰe# {GOLD: #kʰe#}
 44     | #saŋ# | #so# {GOLD: #so#}
 45     | #tʰik# | #tʰoʔ# {GOLD: #tʰoʔ#}
-46     | #raːp# | #raːʔ# {GOLD: #raʔ#}
+46     | #raːp# | #raʔ# {GOLD: #raʔ#}
 47     | #nu# | #nuk# {GOLD: #nuk#}
 48     | #t͡sim# | #t͡sɐm# {GOLD: #t͡sɐm#}
 49     | #kʰum# | #kʰɐm# {GOLD: #kʰɐm#}
@@ -76,11 +76,11 @@ etID  | Input | Output {GOLD}
 74     | #wot# | #woʔ# {GOLD: #woʔ#}
 75     | #ʃaŋ# | #so# {GOLD: #so#}
 76     | #bʷɐm# | #vɐm# {GOLD: #vɐm#}
-77     | #laːm# | #laːm# {GOLD: #lam#}
+77     | #laːm# | #lam# {GOLD: #lam#}
 78     | #kʰa# | #kʰe# {GOLD: #kʰe#}
 79     | #t͡sa# | #t͡se# {GOLD: #t͡se#}
 80     | #tʰi# | #tʰik# {GOLD: #tik#}
-81     | #wuːr# | #wuː# {GOLD: #wu#}
+81     | #wuːr# | #wu# {GOLD: #wu#}
 82     | #naj# | #nej# {GOLD: #nej#}
 83     | #niŋ# | #nɐŋ# {GOLD: #nɐŋ#}
 84     | #la# | #le# {GOLD: #le#}
@@ -121,7 +121,7 @@ etID  | Input | Output {GOLD}
 119    | #ʃa# | #se# {GOLD: #se#}
 120    | #ni# | #nik# {GOLD: #nik#}
 121    | #hri# | #hik# {GOLD: #re#}
-122    | #maːk# | #maːʔ# {GOLD: #maʔ#}
+122    | #maːk# | #maʔ# {GOLD: #maʔ#}
 123    | #nɐŋ# | #nɐŋ# {GOLD: #nɐŋ#}
 124    | #du# | #ruk# {GOLD: #ruk#}
 125    | #naw# | #now# {GOLD: #now#}
@@ -130,13 +130,13 @@ etID  | Input | Output {GOLD}
 128    | #miŋ# | #mɐŋ# {GOLD: #mɐŋ#}
 129    | #na# | #ni# {GOLD: #ni#}
 130    | #juŋ# | #ju# {GOLD: #juŋ#}
-131    | #kaːp# | #kaːʔ# {GOLD: #kaʔ#}
+131    | #kaːp# | #kaʔ# {GOLD: #kaʔ#}
 132    | #tʰiŋ# | #tʰɐŋ# {GOLD: #tʰɐŋ#}
 133    | #pʰaaŋ# | #pʰi# {GOLD: #pʰi#}
 134    | #mot# | #moʔ# {GOLD: #moʔ#}
 135    | #hwa# | #we# {GOLD: #we#}
 136    | #ma# | #mi# {GOLD: #mi#}
-137    | #waːr# | #waː# {GOLD: #va#}
+137    | #waːr# | #wa# {GOLD: #va#}
 138    | #hoj# | #hu# {GOLD: #hu#}
 139    | #naŋ# | #no# {GOLD: #no#}
 140    | #mɐ# | #mu# {GOLD: #mu#}
@@ -149,10 +149,10 @@ etID  | Input | Output {GOLD}
 147    | #t͡saŋ# | #t͡so# {GOLD: #t͡so#}
 148    | #ʃok# | #suʔ# {GOLD: #suʔ#}
 149    | #lej# | #lu# {GOLD: #lu#}
-150    | #haːw# | #haːw# {GOLD: #haw#}
+150    | #haːw# | #haw# {GOLD: #haw#}
 151    | #kup# | #kɐp# {GOLD: #kɐp#}
 152    | #praj# | #pej# {GOLD: #pej#}
-153    | #jaːm# | #jaːm# {GOLD: #jam#}
+153    | #jaːm# | #jam# {GOLD: #jam#}
 154    | #tʰum# | #tʰɐm# {GOLD: #tʰɐŋ#}
 155    | #t͡sɐt# | #t͡sejʔ# {GOLD: #t͡sejʔ#}
 156    | #bʷo# | #vu# {GOLD: #vu#}
@@ -177,7 +177,7 @@ etID  | Input | Output {GOLD}
 175    | #ŋaj# | #ŋej# {GOLD: #nej#}
 176    | #taj# | #ke# {GOLD: #kʰej#}
 177    | #kʰop# | #kʰɐp# {GOLD: #kʰɐp#}
-178    | #ʃaːm# | #saːm# {GOLD: #sam#}
+178    | #ʃaːm# | #sam# {GOLD: #sam#}
 179    | #t͡sɐm# | #t͡sɐm# {GOLD: #t͡sɐm#}
 180    | #nap# | #naʔ# {GOLD: #naʔ#}
 181    | #cow# | #t͡sow# {GOLD: #t͡sow#}
@@ -215,7 +215,7 @@ etID  | Input | Output {GOLD}
 213    | #jak# | #joʔ# {GOLD: #joʔ#}
 214    | #t͡saːn# | #t͡se# {GOLD: #t͡sej#}
 215    | #tʰar# | #tʰo# {GOLD: #tʰo#}
-216    | #saːr# | #saː# {GOLD: #sa#}
+216    | #saːr# | #sa# {GOLD: #sa#}
 217    | #wɐt# | #wejʔ# {GOLD: #vejʔ#}
 218    | #hwe# | #hwi# {GOLD: #hwi#}
 219    | #ʃap# | #saʔ# {GOLD: #saʔ#}

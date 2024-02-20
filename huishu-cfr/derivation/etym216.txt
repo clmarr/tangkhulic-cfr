@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :216:
-#saːr# >>> #saː# ( GOLD : #sa#) :
+#saːr# >>> #sa# ( GOLD : #sa#) :
 s aː r 
 #saː# | 21 : r > ∅ / __ #
-Final form : #saː#
+#sa# | 39 : [+syl] > [-long,-splng] 
+Final form : #sa#

@@ -3,5 +3,5 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :256:
 b e t 
 #bejt# | 6 : ∅ > j / e __ t #
 #bejʔ# | 8 : [-cont,-lab] > ʔ / __ #
-#vejʔ# | 37 : [-cont,+voi,+lab] > v / # __ 
+#vejʔ# | 36 : [-cont,+voi,+lab] > v / # __ 
 Final form : #vejʔ#

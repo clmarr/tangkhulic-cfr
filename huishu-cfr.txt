@@ -128,13 +128,13 @@ $ pre-m vowel changes. 10 cases. The one exception is otherwise unexpected in it
 {i;u} > {ɐ;ɐ} / __ m
 
 $  l and n > ŋ ŋ. Distinct treatment of long and short vowels maintains. 
-$ CM-FIX SUPPRESSED: 
-{u;o;i} > {ɐ;ɐ;ɐ} / __ l
+$ CM-FIX SUPPRESSED: just merge this with the pre-N phenomena.
+$ {u;o;i} > {ɐ;ɐ;ɐ} / __ l
 
 $ l and n become engma finally after ɐ. After u and o become ɐ, and ɐ > e phenomena. 
 {l;n} > {ŋ;ŋ} / ɐ __ #
 
-$ b bʰ bʷ become v. Later, remaining rounded consonants pass to w. 
+$ b bʰ bʷ become v. Later, remaining rounded consonants pass to w. 7 cases. 
 [-cont,+voi,+lab] > v / # __
 
 $remaining rounded consonants pass to w.
@@ -142,3 +142,7 @@ $remaining rounded consonants pass to w.
 
 $initial t- to k- 
 t > k / # __ 
+
+$ inserted.
+$ loss of any vowel length
+[+syl] > [-long]

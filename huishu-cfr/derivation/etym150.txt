@@ -1,4 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :150:
-#haːw# >>> #haːw# ( GOLD : #haw#) :
+#haːw# >>> #haw# ( GOLD : #haw#) :
 h aː w 
-Final form : #haːw#
+#haw# | 39 : [+syl] > [-long,-splng] 
+Final form : #haw#
