@@ -2,5 +2,5 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :230:
 #bʷeŋ# >>> #ve# ( GOLD : #vi#) :
 bʷ e ŋ 
 #bʷe# | 17 : ŋ > ∅ / [+tense,+syl,-hi] __ #
-#ve# | 34 : [-cont,+voi,+lab] > v / # __ 
+#ve# | 35 : [-cont,+voi,+lab] > v / # __ 
 Final form : #ve#

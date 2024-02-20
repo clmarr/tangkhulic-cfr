@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :236:
 #kɐn# >>> #kej# ( GOLD : #kej#) :
 k ɐ n 
-#ken# | 28 : {ɐ;a;i;u;o} > {e;e;ɐ;ɐ;ɐ} / __ n
-#kej# | 29 : n > j / e __ #
+#ken# | 29 : {ɐ;a;i;u;o} > {e;e;ɐ;ɐ;ɐ} / __ n
+#kej# | 30 : n > j / e __ #
 Final form : #kej#

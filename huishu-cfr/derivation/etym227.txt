@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :227:
 #lum# >>> #lɐm# ( GOLD : #lɐm#) :
 l u m 
-#lɐm# | 31 : {i;u} > {ɐ;ɐ} / __ m
+#lɐm# | 32 : {i;u} > {ɐ;ɐ} / __ m
 Final form : #lɐm#

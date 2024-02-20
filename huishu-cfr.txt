@@ -96,6 +96,9 @@ d > r / # __ [+syl]
 $ ʃ-fronting initially 
 ʃ > s / # __ 
 
+$ Rebecca has a rule "VOWEL VOWEL > VOWEL" here. I'll interpret this as a modified a-hiatus-deletion rule, given the changes I made to the handling of /aa/ sequences above. Original rule would be : a a > a. Institute that if need to be faithful. The relevant cases are two: thaow > tow and thuu > thu. 
+[+syl] > ∅ / __ [+syl]
+
 $ pre-n vowel changes. Before n iotation and n > ŋ 
 {ɐ;a;i;u;o} > {e;e;ɐ;ɐ;ɐ} / __ n
 

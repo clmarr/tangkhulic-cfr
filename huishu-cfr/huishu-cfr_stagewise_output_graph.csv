@@ -169,7 +169,7 @@ etID  | Input | Output {GOLD}
 167    | #now# | #now# {GOLD: #now#}
 168    | #row# | #row# {GOLD: #row#}
 169    | #pʰa# | #pʰe# {GOLD: #pʰe#}
-170    | #tʰaaw# | #tʰaow# {GOLD: #tʰow#}
+170    | #tʰaaw# | #tʰow# {GOLD: #tʰow#}
 171    | #reŋ# | #re# {GOLD: #re#}
 172    | #t͡si# | #t͡sik# {GOLD: #t͡sik#}
 173    | #da# | #re# {GOLD: #re#}
@@ -208,7 +208,7 @@ etID  | Input | Output {GOLD}
 206    | #tla# | #ke# {GOLD: #ke#}
 207    | #naj# | #nej# {GOLD: #nej#}
 208    | #ʃo# | #su# {GOLD: #su#}
-209    | #tʰuur# | #tʰuu# {GOLD: #tʰu#}
+209    | #tʰuur# | #tʰu# {GOLD: #tʰu#}
 210    | #ʃa# | #se# {GOLD: #se#}
 211    | #plaj# | #pej# {GOLD: #pej#}
 212    | #sak# | #soʔ# {GOLD: #soʔ#}

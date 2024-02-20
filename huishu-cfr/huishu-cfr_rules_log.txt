@@ -26,6 +26,7 @@ h > ∅ / __ [-syl]
 [+son,+cons,+cor] > ∅ / [-syl] __ 
 d > r / # __ [+syl]
 ʃ > s / # __ 
+[+syl] > ∅ / __ [+syl]
 {ɐ;a;i;u;o} > {e;e;ɐ;ɐ;ɐ} / __ n
 n > j / e __ #
 a > e / __ j

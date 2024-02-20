@@ -2,5 +2,5 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :41:
 #caj# >>> #t͡sej# ( GOLD : #t͡se#) :
 c a j 
 #t͡saj# | 0 : c > t͡s / # __ 
-#t͡sej# | 30 : a > e / __ j
+#t͡sej# | 31 : a > e / __ j
 Final form : #t͡sej#

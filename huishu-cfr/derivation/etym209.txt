@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :209:
-#tʰuur# >>> #tʰuu# ( GOLD : #tʰu#) :
+#tʰuur# >>> #tʰu# ( GOLD : #tʰu#) :
 tʰ u u r 
 #tʰuu# | 21 : r > ∅ / __ #
-Final form : #tʰuu#
+#tʰu# | 28 : [+syl] > ∅ / __ [+syl]
+Final form : #tʰu#
