@@ -1,7 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :206:
 #tla# >>> #ke# ( GOLD : #ke#) :
 t l a 
-#tle# | 12 : {o;a;e;ɐ} > {u;e;i;u} / __ #
-#te# | 20 : [+son,+cons,+cor] > ∅ / [-syl] __ 
-#ke# | 31 : t > k / # __ 
+#tle# | 15 : {o;a;e;ɐ} > {u;e;i;u} / __ #
+#te# | 25 : [+son,+cons,+cor] > ∅ / [-syl] __ 
+#ke# | 36 : t > k / # __ 
 Final form : #ke#

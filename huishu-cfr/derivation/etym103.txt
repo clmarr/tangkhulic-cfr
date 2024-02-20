@@ -1,7 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :103:
 #dɨ# >>> #ruk# ( GOLD : #ruk#) :
 d ɨ 
-#du# | 3 : ɨ > u 
-#duk# | 9 : ∅ > k / [+hi,+syl] __ #
-#ruk# | 21 : d > r / # __ [+syl]
+#du# | 4 : ɨ > u 
+#duk# | 11 : ∅ > k / [+hi,+syl] __ #
+#ruk# | 26 : d > r / # __ [+syl]
 Final form : #ruk#

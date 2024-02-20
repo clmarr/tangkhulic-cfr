@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :151:
-#kup# >>> #kuʔ# ( GOLD : #kɐp#) :
+#kup# >>> #kɐp# ( GOLD : #kɐp#) :
 k u p 
-#kuʔ# | 7 : [-cont] > ʔ / __ #
-Final form : #kuʔ#
+#kɐp# | 3 : [+syl,+round,+back] > ɐ / __ p
+Final form : #kɐp#

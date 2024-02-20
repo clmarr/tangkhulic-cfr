@@ -1,19 +1,24 @@
 c > t͡s / # __ 
 {u;a;i;ɐ} > {e;e;e;e} / __ t
-ɐ > e / __ p
+[+syl,-round,-lo] > e / __ p
+[+syl,+round,+back] > ɐ / __ p
 ɨ > u 
 [+syl,-hi,-lo] > u / __ j
 ∅ > j / e __ t #
 {o;i;a} > {u;o;o} / __ k
-[-cont] > ʔ / __ #
-[+tense,-hi] > o / __ w
+[-cont,-lab] > ʔ / __ #
+p > ʔ / [+lo,+tense] __ #
+[+tense,-hi,-long] > o / __ w
 ∅ > k / [+hi,+syl] __ #
 j > ∅ / u __ #
 {o;i;a;ɐ;e} > {u;u;o;o;ɐ} / __ r
+a > aː / [+nas] __ #
 {o;a;e;ɐ} > {u;e;i;u} / __ #
-{o;a;i} > {u;o;ɐ} / __ ŋ
+{a;i} > {o;ɐ} / [+cons] __ ŋ
 ŋ > ∅ / [+tense,+syl,-hi] __ #
 ŋ > ∅ / u __ #
+a a > aː 
+aː > i / __ #
 r > ∅ / __ #
 w > ∅ / [-syl] __ 
 d > ∅ / __ [-syl]

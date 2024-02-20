@@ -2,7 +2,7 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :163:
 #tat# >>> #kejʔ# ( GOLD : #kejʔ#) :
 t a t 
 #tet# | 1 : {u;a;i;ɐ} > {e;e;e;e} / __ t
-#tejt# | 5 : ∅ > j / e __ t #
-#tejʔ# | 7 : [-cont] > ʔ / __ #
-#kejʔ# | 31 : t > k / # __ 
+#tejt# | 6 : ∅ > j / e __ t #
+#tejʔ# | 8 : [-cont,-lab] > ʔ / __ #
+#kejʔ# | 36 : t > k / # __ 
 Final form : #kejʔ#

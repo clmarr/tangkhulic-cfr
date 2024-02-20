@@ -1,7 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :3:
 #hwok# >>> #huʔ# ( GOLD : #huʔ#) :
 h w o k 
-#hwuk# | 6 : {o;i;a} > {u;o;o} / __ k
-#hwuʔ# | 7 : [-cont] > ʔ / __ #
-#huʔ# | 17 : w > ∅ / [-syl] __ 
+#hwuk# | 7 : {o;i;a} > {u;o;o} / __ k
+#hwuʔ# | 8 : [-cont,-lab] > ʔ / __ #
+#huʔ# | 22 : w > ∅ / [-syl] __ 
 Final form : #huʔ#

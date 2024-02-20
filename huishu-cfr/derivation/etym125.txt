@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :125:
 #naw# >>> #now# ( GOLD : #now#) :
 n a w 
-#now# | 8 : [+tense,-hi] > o / __ w
+#now# | 10 : [+tense,-hi,-long] > o / __ w
 Final form : #now#

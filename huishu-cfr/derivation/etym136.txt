@@ -1,5 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :136:
-#ma# >>> #me# ( GOLD : #mi#) :
+#ma# >>> #mi# ( GOLD : #mi#) :
 m a 
-#me# | 12 : {o;a;e;ɐ} > {u;e;i;u} / __ #
-Final form : #me#
+#maː# | 14 : a > aː / [+nas] __ #
+#mi# | 20 : aː > i / __ #
+Final form : #mi#

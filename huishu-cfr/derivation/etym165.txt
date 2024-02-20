@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :165:
 #dlek# >>> #leʔ# ( GOLD : #leʔ#) :
 d l e k 
-#dleʔ# | 7 : [-cont] > ʔ / __ #
-#leʔ# | 18 : d > ∅ / __ [-syl]
+#dleʔ# | 8 : [-cont,-lab] > ʔ / __ #
+#leʔ# | 23 : d > ∅ / __ [-syl]
 Final form : #leʔ#

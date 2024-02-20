@@ -1,53 +1,81 @@
 $Rebecca's rules for Huishu
 
 c > t͡s / # __
+$ ^ 8 etyma curr effected.
 
-$vowels go to e before t, which Rebecca seems to note feeds j epenthesis for ʃut, tʰat, hrit, ʃat, thus coming before it. 
+$vowels go to e before t, which Rebecca seems to note feeds j epenthesis for ʃut, tʰat, hrit, ʃat, thus coming before it. Affects 9 etyma: 2 for u > e, 3 for ɐ > e, 3 for a > e, 1 for i > e. 
 {u;a;i;ɐ} > {e;e;e;e} / __ t
 
-ɐ > e / __ p
+$vowel changes before p: 
+[+syl,-round,-lo] > e / __ p 
+	$  ɐ, i  > e / __ p
+	$ there don't seem to be any examples of initial ɨp# so this can be roped in. ap# cannot though. ip# has only one example. 
+	$ Just one word effected : jip > jep. 
+[+syl,+round,+back] > ɐ / __ p
+	$ u, o > ɐ / __ p
+	$ just 2 words affected as Feb 16, one each for u and o: kup, khop > kɐp, khɐp.
 
-$ɨ to u, before u-conditioned final k-insertion
+
+$ɨ to u, before u-conditioned final k-insertion. 5 etyma affected. 
 ɨ > u
 
-$the following before a > e / __ j, before j-deletion and before j-epenthesis (hrit > rejʔ). 
+$the following before a > e / __ j, before j-deletion and before j-epenthesis (hrit > rejʔ): e, o > u / __ j. 
+	$ Many etyma affected
 [+syl,-hi,-lo] > u / __ j
 
-$j-epenthesis, before final t-glottalization (ʃɐt > tsejʔ)
+$j-epenthesis, before final t-glottalization (ʃɐt > tsejʔ).
+	$Many etyma affected. 
 ∅ > j / e __ t #
 
 
-$ vowel changes before k, which must happen before final k-insertion. Does not impact a:. 
+$ vowel changes before k, which must happen before final k-insertion. Does not impact long /aː/. 4+ etyma affected for each. 
 {o;i;a} > {u;o;o} / __ k
 
 $ final stop glottalization. Rebecca notes it comes before i > o (apparentlly conditioned on this) and before a secondary word final k-insertion after u (e.g. bʷu > vuk). Since these are the only final stops, can just formulate the target as [-cont]. 
-[-cont] > ʔ / __ #
+$ as of Feb 8, this only happens to p after a though, which is correct except that it seems to also happen after /aː/. 
+$ simpler form from before then: [-cont] > ʔ / __ #
+[-cont,-lab] > ʔ / __ # 
+p > ʔ / [+lo,+tense] __ # 
+	$ currently, using corrected version where it affects long /a:/ too is above. To be faithful to hte current version, can use this rule instead of the above: p > ʔ / a __ # 
 
-$ tense nonhigh vowels to o before w. 
-[+tense,-hi] > o / __ w
+$ tense nonhigh (e, a) vowels to o before w. There are many examples for /a/ but only one for /e/. 
+[+tense,-hi,-long] > o / __ w
 
-$ final k insertion after u and i. Must come before o and ɐ secondarily become u in final positions. After a > i but before i > e. 
+$ final k insertion after u and i. Must come before o and ɐ secondarily become u in final positions. After a > i but before i > e. Many etyma affected, four apparent exceptions. The exceptions all after [+son] [+front,+syl,-lo] (li,me,re,ri) but there are counterexceptions to thiese (ri > lik, 3 cases of ni > nik).
 ∅ > k / [+hi,+syl] __ #
 
-$ uj to u, after e > u / __ j and after final k insertion. 
+$ uj to u, after e > u / __ j and after final k insertion.
+$ many affected items, looks good.  
 j > ∅ / u __ #
 
-$vowel changes before r, generally involving backing and rounding. Must happen before final r effacement. Distinguishes short and long a. 
+$vowel changes before r, generally involving backing and rounding. Must happen before final r effacement. Distinguishes short and long a.
+	 $ 3 cases for /ar/, 3 for /or/, 1 each  for /ir/ /ɐr/ /er/. Current writeup has this excluded for a after another /a/ but there don't seem to be any instances of this. The cases of waːr and saːr are rightfully excluded though. 
 {o;i;a;ɐ;e} > {u;u;o;o;ɐ} / __ r
 
+$ rule I (Clayton) inserted on Feb 19 -- instead of becoming /e/ like it does elsewhere at the coda, /a/ becomes /aː/ in N __ #, which will soon become /i/.
+a > [+long] / [+nas] __ #
+
 $word-final vowel changes. After final j deletion, after pre-rhotic vowel changes, now before final engma deletion.
+	$ solid for o# 
+	$ e# has only one case: hwe > hwi. 
+	$ ɐ# also has only one case: mɐ > mu 
+	$ a# has many cases that go to e#, but also many go further to i. DiaSim's context autopsy gets a phi score of 0.56 for +nas as a prior feature and it seems that there's 6 cases there and on exceptions. So I am implementing that as a rule below. 
 {o;a;e;ɐ} > {u;e;i;u} / __ #
 
 $vowel changes before engma. Distinguishes long and short a; must be before final engma deletion
-{o;a;i} > {u;o;ɐ} / __ ŋ 
+$ Earlier version : {o;a;i} > {u;o;ɐ} / __ ŋ 
+$ in mid early Feb (8-11) 2024, this is modified so that o is excluded and a dis not affected in aa sequences (which evidently are still around at this time.). Since /a/ otherwise ,and /i/ always, comes after a consonant in the relevant words, this is expressed as a prior context requisite of [+cons].
+{a;i} > {o;ɐ} / [+cons] __ ŋ
 
-$engma deletion after a:, o, u, e. Of course short a has just become o in this position. So this can be formulated in terms of context as [-hi,+tense,+syl]. Comes before e and o get raised before coda. Described as before V V > V but this seems unnecessary since it would have been before a if all aŋ sequences were disturbed by the previous rule. 
+$engma deletion after a:, o, u, e. Of course short a has just become o in this position. So this can be formulated in terms of context as [-hi,+tense,+syl]. Comes before e and o get raised before coda. Described as before V V > V but this seems unnecessary since it would have been before a if all aŋ sequences were disturbed by the previous rule. Many examples, one exception ʃoŋ > ... > sɐŋ.
 ŋ > ∅ / {[+tense,+syl,-hi];u} __ #
 
-$word-final r effacement moved here, per Rebecca's sub-bullet point in vowel-final changes rules. TODO check this with her. 
-r > ∅ / __ #
+$ A rule I (Clayton) inserted here -- comment  out to be faithful to the original: aa and aː, including aː from /a/ in N __ #, become /i/ when final. a: (one exceptionː caːŋ > tsa. Can be handled by making /aː/ only do so after   continuants but based on a single exception this seems unwarranted.) 
+a a > aː
+aː > i / __ #
 
-$TODO insert j-deletion here, per Rebecca's sub-bullet point in the following rule noting that j-deletion precedes word final vowel changes. 
+$word-final r effacement moved here. Sole exception is t͡ser > t͡sɐr. 
+r > ∅ / __ #
 
 $cluster simplification rules.
 $ w effacement -- but this is before h-effacement 

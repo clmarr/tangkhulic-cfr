@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :20:
 #tʰi# >>> #tʰik# ( GOLD : #tik#) :
 tʰ i 
-#tʰik# | 9 : ∅ > k / [+hi,+syl] __ #
+#tʰik# | 11 : ∅ > k / [+hi,+syl] __ #
 Final form : #tʰik#

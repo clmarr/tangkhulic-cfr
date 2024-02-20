@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :114:
 #ni# >>> #nik# ( GOLD : #nik#) :
 n i 
-#nik# | 9 : ∅ > k / [+hi,+syl] __ #
+#nik# | 11 : ∅ > k / [+hi,+syl] __ #
 Final form : #nik#

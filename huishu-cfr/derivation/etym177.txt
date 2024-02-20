@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :177:
-#kʰop# >>> #kʰoʔ# ( GOLD : #kʰɐp#) :
+#kʰop# >>> #kʰɐp# ( GOLD : #kʰɐp#) :
 kʰ o p 
-#kʰoʔ# | 7 : [-cont] > ʔ / __ #
-Final form : #kʰoʔ#
+#kʰɐp# | 3 : [+syl,+round,+back] > ɐ / __ p
+Final form : #kʰɐp#
