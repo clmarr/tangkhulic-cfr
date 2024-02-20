@@ -1,6 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :141:
-#rwo# >>> #ru# ( GOLD : #ju#) :
+#rwo# >>> #ju# ( GOLD : #ju#) :
 r w o 
 #rwu# | 15 : {o;a;e;ɐ} > {u;e;i;u} / __ #
-#ru# | 22 : w > ∅ / [-syl] __ 
-Final form : #ru#
+#jwu# | 22 : r > j / __ w
+#ju# | 23 : w > ∅ / [-syl] __ u
+Final form : #ju#

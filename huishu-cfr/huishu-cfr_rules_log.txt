@@ -20,7 +20,8 @@ a > aː / [+nas] __ #
 a a > aː 
 aː > i / __ #
 r > ∅ / __ #
-w > ∅ / [-syl] __ 
+r > j / __ w
+w > ∅ / [-syl] __ u
 d > ∅ / __ [-syl]
 h > ∅ / __ [-syl]
 [+son,+cons,+cor] > ∅ / [-syl] __ 

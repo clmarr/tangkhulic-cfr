@@ -4,5 +4,5 @@ h r i t
 #hret# | 1 : {u;a;i;ɐ} > {e;e;e;e} / __ t
 #hrejt# | 6 : ∅ > j / e __ t #
 #hrejʔ# | 8 : [-cont,-lab] > ʔ / __ #
-#rejʔ# | 24 : h > ∅ / __ [-syl]
+#rejʔ# | 25 : h > ∅ / __ [-syl]
 Final form : #rejʔ#

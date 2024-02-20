@@ -74,12 +74,19 @@ $ A rule I (Clayton) inserted here -- comment  out to be faithful to the origina
 a a > aː
 aː > i / __ #
 
-$word-final r effacement moved here. Sole exception is t͡ser > t͡sɐr. 
+$word-final r effacement. Sole exception is t͡ser > t͡sɐr. 
 r > ∅ / __ #
+
+$Clayton-inserted rule: rw > jw. Suppress if need to be faithful to current version. Two examples. 
+r > j / __ w
+
+$Clayton-inserted rule: Cw > C before u. Five examples. Fed by rw > jw. 
+w > ∅ / [-syl] __ u
 
 $cluster simplification rules.
 $ w effacement -- but this is before h-effacement 
-w > ∅ / [-syl] __
+$ Currently suppressed in favor of rule above. Desuppress if need to be faithful to current version. 
+$w > ∅ / [-syl] __
 
 $ d effacement. Before l-deletion. 
 d > ∅ / __ [-syl] 
