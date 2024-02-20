@@ -4,5 +4,5 @@ t a t
 #tet# | 1 : {u;a;i;ɐ} > {e;e;e;e} / __ t
 #tejt# | 6 : ∅ > j / e __ t #
 #tejʔ# | 8 : [-cont,-lab] > ʔ / __ #
-#kejʔ# | 38 : t > k / # __ 
+#kejʔ# | 37 : t > k / # __ 
 Final form : #kejʔ#

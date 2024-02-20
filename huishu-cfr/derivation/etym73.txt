@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :73:
 #kal# >>> #kel# ( GOLD : #kej#) :
 k a l 
-#kel# | 30 : {ɐ;a;aː;i;u;o} > {e;e;e;ɐ;ɐ;ɐ} / __ [+cor,+son]
+#kel# | 29 : {ɐ;a;aː;i;u;o} > {e;e;e;ɐ;ɐ;ɐ} / __ [+cor,+son]
 Final form : #kel#

@@ -3,6 +3,6 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :8:
 r w o k 
 #rwuk# | 7 : {o;i;a} > {u;o;o} / __ k
 #rwuʔ# | 8 : [-cont,-lab] > ʔ / __ #
-#jwuʔ# | 22 : r > j / __ w
-#juʔ# | 23 : w > ∅ / [-syl] __ u
+#jwuʔ# | 21 : r > j / __ w
+#juʔ# | 22 : w > ∅ / [-syl] __ u
 Final form : #juʔ#

@@ -2,5 +2,5 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :199:
 #kar# >>> #ko# ( GOLD : #ko#) :
 k a r 
 #kor# | 13 : {o;i;a;ɐ;e} > {u;u;o;o;ɐ} / __ r
-#ko# | 21 : r > ∅ / __ #
+#ko# | 20 : r > ∅ / __ #
 Final form : #ko#

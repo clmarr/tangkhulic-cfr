@@ -68,7 +68,8 @@ $ in mid early Feb (8-11) 2024, this is modified so that o is excluded and a dis
 {a;i} > {o;ɐ} / [+cons] __ ŋ
 
 $engma deletion after a:, o, u, e. Of course short a has just become o in this position. So this can be formulated in terms of context as [-hi,+tense,+syl]. Comes before e and o get raised before coda. Described as before V V > V but this seems unnecessary since it would have been before a if all aŋ sequences were disturbed by the previous rule. Many examples, one exception ʃoŋ > ... > sɐŋ.
-ŋ > ∅ / {[+tense,+syl,-hi];u} __ #
+$ correct by rebecca to exclude u, rightly, in mid early feb. 
+ŋ > ∅ / [+tense,+syl,-hi] __ #
 
 $ A rule I (Clayton) inserted here -- comment  out to be faithful to the original: aa and aː, including aː from /a/ in N __ #, become /i/ when final. a: (one exceptionː caːŋ > tsa. Can be handled by making /aː/ only do so after   continuants but based on a single exception this seems unwarranted.) 
 a a > aː

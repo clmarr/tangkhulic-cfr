@@ -56,7 +56,7 @@ etID  | Input | Output {GOLD}
 54     | #reŋ# | #re# {GOLD: #re#}
 55     | #hwa# | #we# {GOLD: #se#}
 56     | #ri# | #rik# {GOLD: #lik#}
-57     | #luŋ# | #lu# {GOLD: #luŋ#}
+57     | #luŋ# | #luŋ# {GOLD: #luŋ#}
 58     | #ril# | #rɐŋ# {GOLD: #rɐŋ#}
 59     | #ra# | #re# {GOLD: #re#}
 60     | #nɨ# | #nuk# {GOLD: #nuk#}
@@ -104,8 +104,8 @@ etID  | Input | Output {GOLD}
 102    | #met# | #mejʔ# {GOLD: #mejʔ#}
 103    | #dɨ# | #ruk# {GOLD: #ruk#}
 104    | #lej# | #lu# {GOLD: #lu#}
-105    | #pʰuŋ# | #pʰu# {GOLD: #pʰuŋ#}
-106    | #luŋ# | #lu# {GOLD: #luŋ#}
+105    | #pʰuŋ# | #pʰuŋ# {GOLD: #pʰuŋ#}
+106    | #luŋ# | #luŋ# {GOLD: #luŋ#}
 107    | #t͡si# | #t͡sik# {GOLD: #t͡sik#}
 108    | #ri# | #rik# {GOLD: #ri#}
 109    | #ni# | #nik# {GOLD: #nik#}
@@ -129,7 +129,7 @@ etID  | Input | Output {GOLD}
 127    | #maŋ# | #mo# {GOLD: #mo#}
 128    | #miŋ# | #mɐŋ# {GOLD: #mɐŋ#}
 129    | #na# | #ni# {GOLD: #ni#}
-130    | #juŋ# | #ju# {GOLD: #juŋ#}
+130    | #juŋ# | #juŋ# {GOLD: #juŋ#}
 131    | #kaːp# | #kaʔ# {GOLD: #kaʔ#}
 132    | #tʰiŋ# | #tʰɐŋ# {GOLD: #tʰɐŋ#}
 133    | #pʰaaŋ# | #pʰi# {GOLD: #pʰi#}
@@ -223,7 +223,7 @@ etID  | Input | Output {GOLD}
 221    | #kʰow# | #kʰow# {GOLD: #kʰow#}
 222    | #tʰuk# | #tʰuʔ# {GOLD: #tuʔ#}
 223    | #paj# | #pej# {GOLD: #pej#}
-224    | #ʃuŋ# | #su# {GOLD: #suŋ#}
+224    | #ʃuŋ# | #suŋ# {GOLD: #suŋ#}
 225    | #jon# | #jɐŋ# {GOLD: #jɐŋ#}
 226    | #nem# | #nem# {GOLD: #nem#}
 227    | #lum# | #lɐm# {GOLD: #lɐm#}

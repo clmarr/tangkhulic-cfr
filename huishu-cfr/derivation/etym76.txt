@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :76:
 #bʷɐm# >>> #vɐm# ( GOLD : #vɐm#) :
 bʷ ɐ m 
-#vɐm# | 36 : [-cont,+voi,+lab] > v / # __ 
+#vɐm# | 35 : [-cont,+voi,+lab] > v / # __ 
 Final form : #vɐm#

@@ -3,5 +3,5 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :3:
 h w o k 
 #hwuk# | 7 : {o;i;a} > {u;o;o} / __ k
 #hwuʔ# | 8 : [-cont,-lab] > ʔ / __ #
-#huʔ# | 23 : w > ∅ / [-syl] __ u
+#huʔ# | 22 : w > ∅ / [-syl] __ u
 Final form : #huʔ#
