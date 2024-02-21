@@ -1,7 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :269:
 #bʷon# >>> #vɐŋ# ( GOLD : #vɐŋ#) :
 bʷ o n 
-#bʷɐn# | 29 : {ɐ;a;aː;i;u;o} > {e;e;e;ɐ;ɐ;ɐ} / __ [+cor,+son]
-#bʷɐŋ# | 34 : {l;n} > {ŋ;ŋ} / ɐ __ #
-#vɐŋ# | 35 : [-cont,+voi,+lab] > v / # __ 
+#bʷɐn# | 30 : {ɐ;a;aː;i;u;o} > {e;e;e;ɐ;ɐ;ɐ} / __ [+cor,+son]
+#bʷɐŋ# | 35 : {l;n} > {ŋ;ŋ} / ɐ __ #
+#vɐŋ# | 36 : [-cont,+voi,+lab] > v / # __ 
 Final form : #vɐŋ#

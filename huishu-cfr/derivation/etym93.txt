@@ -1,6 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :93:
-#ʃoŋ# >>> #so# ( GOLD : #sɐŋ#) :
+#ʃoŋ# >>> #su# ( GOLD : #sɐŋ#) :
 ʃ o ŋ 
-#ʃo# | 17 : ŋ > ∅ / [+tense,+syl,-hi] __ #
-#so# | 27 : ʃ > s / # __ 
-Final form : #so#
+#ʃo# | 14 : ŋ > ∅ / o __ #
+#ʃu# | 16 : {o;a;e;ɐ} > {u;e;i;u} / __ #
+#su# | 28 : ʃ > s / # __ 
+Final form : #su#

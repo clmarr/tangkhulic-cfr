@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :178:
 #ʃaːm# >>> #sam# ( GOLD : #sam#) :
 ʃ aː m 
-#saːm# | 27 : ʃ > s / # __ 
-#sam# | 38 : [+syl] > [-long,-splng] 
+#saːm# | 28 : ʃ > s / # __ 
+#sam# | 39 : [+syl] > [-long,-splng] 
 Final form : #sam#

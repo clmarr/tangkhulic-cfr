@@ -6,7 +6,7 @@ etID  | Input | Output {GOLD}
 4      | #ar# | #o# {GOLD: #ho#}
 5      | #hwɨ# | #huk# {GOLD: #huk#}
 6      | #caw# | #t͡sow# {GOLD: #t͡sow#}
-7      | #joŋ# | #jo# {GOLD: #ju#}
+7      | #joŋ# | #ju# {GOLD: #ju#}
 8      | #rwok# | #juʔ# {GOLD: #juʔ#}
 9      | #lej# | #lu# {GOLD: #lu#}
 10     | #ram# | #ram# {GOLD: #ram#}
@@ -92,7 +92,7 @@ etID  | Input | Output {GOLD}
 90     | #nam# | #nam# {GOLD: #nam#}
 91     | #kʰɐm# | #kʰɐm# {GOLD: #kʰɐm#}
 92     | #t͡sej# | #t͡su# {GOLD: #t͡su#}
-93     | #ʃoŋ# | #so# {GOLD: #sɐŋ#}
+93     | #ʃoŋ# | #su# {GOLD: #sɐŋ#}
 94     | #ʃɐŋ# | #sɐŋ# {GOLD: #sɐŋ#}
 95     | #ca# | #t͡se# {GOLD: #ce#}
 96     | #ri# | #rik# {GOLD: #rik#}
@@ -237,7 +237,7 @@ etID  | Input | Output {GOLD}
 235    | #saːŋ# | #si# {GOLD: #si#}
 236    | #kɐn# | #kej# {GOLD: #kej#}
 237    | #joj# | #ju# {GOLD: #vue#}
-238    | #kʰoŋ# | #kʰo# {GOLD: #kʰu#}
+238    | #kʰoŋ# | #kʰu# {GOLD: #kʰu#}
 239    | #min# | #mɐŋ# {GOLD: #mɐŋ#}
 240    | #soj# | #su# {GOLD: #su#}
 241    | #mow# | #mow# {GOLD: #mow#}

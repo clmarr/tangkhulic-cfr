@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :54:
 #reŋ# >>> #re# ( GOLD : #re#) :
 r e ŋ 
-#re# | 17 : ŋ > ∅ / [+tense,+syl,-hi] __ #
+#re# | 18 : ŋ > ∅ / [+tense,+syl,-hi] __ #
 Final form : #re#

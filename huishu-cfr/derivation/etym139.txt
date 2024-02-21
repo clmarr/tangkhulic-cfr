@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :139:
 #naŋ# >>> #no# ( GOLD : #no#) :
 n a ŋ 
-#noŋ# | 16 : {a;i} > {o;ɐ} / [+cons] __ ŋ
-#no# | 17 : ŋ > ∅ / [+tense,+syl,-hi] __ #
+#noŋ# | 17 : {a;i} > {o;ɐ} / [+cons] __ ŋ
+#no# | 18 : ŋ > ∅ / [+tense,+syl,-hi] __ #
 Final form : #no#

@@ -1,7 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :53:
 #baːn# >>> #vej# ( GOLD : #vej#) :
 b aː n 
-#ben# | 29 : {ɐ;a;aː;i;u;o} > {e;e;e;ɐ;ɐ;ɐ} / __ [+cor,+son]
-#bej# | 30 : n > j / e __ #
-#vej# | 35 : [-cont,+voi,+lab] > v / # __ 
+#ben# | 30 : {ɐ;a;aː;i;u;o} > {e;e;e;ɐ;ɐ;ɐ} / __ [+cor,+son]
+#bej# | 31 : n > j / e __ #
+#vej# | 36 : [-cont,+voi,+lab] > v / # __ 
 Final form : #vej#

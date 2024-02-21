@@ -52,6 +52,9 @@ $vowel changes before r, generally involving backing and rounding. Must happen b
 	 $ 3 cases for /ar/, 3 for /or/, 1 each  for /ir/ /ɐr/ /er/. Current writeup has this excluded for a after another /a/ but there don't seem to be any instances of this. The cases of waːr and saːr are rightfully excluded though. 
 {o;i;a;ɐ;e} > {u;u;o;o;ɐ} / __ r
 
+$ engma deletion after o . Per Hannah Feb 21. 
+ŋ > ∅ / o __ #
+
 $ rule I (Clayton) inserted on Feb 19 -- instead of becoming /e/ like it does elsewhere at the coda, /a/ becomes /aː/ in N __ #, which will soon become /i/.
 a > [+long] / [+nas] __ #
 

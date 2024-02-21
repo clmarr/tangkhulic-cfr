@@ -2,6 +2,6 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :111:
 #tli# >>> #kik# ( GOLD : #kik#) :
 t l i 
 #tlik# | 11 : ∅ > k / [+hi,+syl] __ #
-#tik# | 25 : [+son,+cons,+cor] > ∅ / [-syl] __ 
-#kik# | 37 : t > k / # __ 
+#tik# | 26 : [+son,+cons,+cor] > ∅ / [-syl] __ 
+#kik# | 38 : t > k / # __ 
 Final form : #kik#
