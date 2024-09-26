@@ -1,7 +1,7 @@
 $Rebecca's rules for Huishu
 
-c > t͡s / # __
-$ ^ 8 etyma curr effected.
+c > t͡s 
+$ ^ 8 etyma curr effected. Sept 26 removed redundant #. 
 
 $vowels go to e before t, which Rebecca seems to note feeds j epenthesis for ʃut, tʰat, hrit, ʃat, thus coming before it. Affects 9 etyma: 2 for u > e, 3 for ɐ > e, 3 for a > e, 1 for i > e. 
 {u;a;i;ɐ} > {e;e;e;e} / __ t
@@ -24,8 +24,8 @@ $the following before a > e / __ j, before j-deletion and before j-epenthesis (h
 [+syl,-hi,-lo] > u / __ j
 
 $j-epenthesis, before final t-glottalization (ʃɐt > tsejʔ).
-	$Many etyma affected. 
-∅ > j / e __ t #
+	$Many etyma affected. Sept 26 redundant # removed. 
+∅ > j / e __ t 
 
 
 $ vowel changes before k, which must happen before final k-insertion. Does not impact long /aː/. 4+ etyma affected for each. 
@@ -35,8 +35,8 @@ $ final stop glottalization. Rebecca notes it comes before i > o (apparentlly co
 $ as of Feb 8, this only happens to p after a though, which is correct except that it seems to also happen after /aː/. 
 $ simpler form from before then: [-cont] > ʔ / __ #
 [-cont,-lab] > ʔ / __ # 
-p > ʔ / [+lo,+tense] __ # 
-	$ currently, using corrected version where it affects long /a:/ too is above. To be faithful to hte current version, can use this rule instead of the above: p > ʔ / a __ # 
+p > ʔ / [+lo,+tense] __
+	$ currently, using corrected version where it affects long /a:/ too is above. To be faithful to hte current version, can use this rule instead of the above: p > ʔ / a __ # . Sept 26: redundant # rmeoved. 
 
 $ tense nonhigh (e, a) vowels to o before w. There are many examples for /a/ but only one for /e/. 
 [+tense,-hi,-long] > o / __ w
@@ -46,14 +46,15 @@ $ final k insertion after u and i. Must come before o and ɐ secondarily become 
 
 $ uj to u, after e > u / __ j and after final k insertion.
 $ many affected items, looks good.  
-j > ∅ / u __ #
+# Sept 26: redundant # removed. 
+j > ∅ / u __
 
 $vowel changes before r, generally involving backing and rounding. Must happen before final r effacement. Distinguishes short and long a.
 	 $ 3 cases for /ar/, 3 for /or/, 1 each  for /ir/ /ɐr/ /er/. Current writeup has this excluded for a after another /a/ but there don't seem to be any instances of this. The cases of waːr and saːr are rightfully excluded though. 
 {o;i;a;ɐ;e} > {u;u;o;o;ɐ} / __ r
 
-$ engma deletion after o . Per Hannah Feb 21. 
-ŋ > ∅ / o __ #
+$ engma deletion after o . Per Hannah Feb 21. Redundant # removed Sept 26. 
+ŋ > ∅ / o __
 
 $ rule I (Clayton) inserted on Feb 19 -- instead of becoming /e/ like it does elsewhere at the coda, /a/ becomes /aː/ in N __ #, which will soon become /i/.
 a > [+long] / [+nas] __ #
@@ -72,7 +73,8 @@ $ in mid early Feb (8-11) 2024, this is modified so that o is excluded and a dis
 
 $engma deletion after a:, o, u, e. Of course short a has just become o in this position. So this can be formulated in terms of context as [-hi,+tense,+syl]. Comes before e and o get raised before coda. Described as before V V > V but this seems unnecessary since it would have been before a if all aŋ sequences were disturbed by the previous rule. Many examples, one exception ʃoŋ > ... > sɐŋ.
 $ correct by rebecca to exclude u, rightly, in mid early feb. 
-ŋ > ∅ / [+tense,+syl,-hi] __ #
+$ Sept 26: redundant # removed. 
+ŋ > ∅ / [+tense,+syl,-hi] __
 
 $ A rule I (Clayton) inserted here -- comment  out to be faithful to the original: aa and aː, including aː from /a/ in N __ #, become /i/ when final. a: (one exceptionː caːŋ > tsa. Can be handled by making /aː/ only do so after   continuants but based on a single exception this seems unwarranted.) 
 a a > aː
@@ -103,11 +105,11 @@ h > ∅ / __ [-syl] [-hi]
 $ l effacement and r effacement. 
 [+son,+cons,+cor] > ∅ / [-syl] __ 
 
-$ d-rhotation word initially, prevocalic. 7 examples. 
-d > r / # __ [+syl] 
+$ d-rhotation word initially, prevocalic. 7 examples. Sept 26: redundant # removed. 
+d > r / __ [+syl] 
  
-$ ʃ-fronting initially. There are 4 cases where you instead get t͡s, with mysterious conditioning.
-ʃ > s / # __ 
+$ ʃ-fronting initially. There are 4 cases where you instead get t͡s, with mysterious conditioning. Sept 26: redundant # removed. 
+ʃ > s 
 
 $ Rebecca has a rule "VOWEL VOWEL > VOWEL" here. I'll interpret this as a modified a-hiatus-deletion rule, given the changes I made to the handling of /aa/ sequences above. Original rule would be : a a > a. Institute that if need to be faithful. The relevant cases are two: thaow > tow and thuu > thu. 
 [+syl] > ∅ / __ [+syl]
@@ -125,7 +127,7 @@ $ pre-j vowel changes.
 $ now just of a > e; e > u now much earlier. Before j-deletion, before n > j, after j-insertion. Well instantiated, one odd case : khaj > khu. 
 a > e / __ j
 
-$ CM-inserted rule: final ej > e after non-nasal coronals
+$ CM-inserted rule: final ej > e after non-nasal coronals. # not redundant here, many are followed by glottal stop. 
 j > ∅ / [+cor,-nas] e __ #
 
 $ pre-m vowel changes. 10 cases. The one exception is otherwise unexpected in its coda too: sum > suŋ
@@ -135,17 +137,17 @@ $  l and n > ŋ ŋ. Distinct treatment of long and short vowels maintains.
 $ CM-FIX SUPPRESSED: just merge this with the pre-N phenomena.
 $ {u;o;i} > {ɐ;ɐ;ɐ} / __ l
 
-$ l and n become engma finally after ɐ. After u and o become ɐ, and ɐ > e phenomena. 
-{l;n} > {ŋ;ŋ} / ɐ __ #
+$ l and n become engma finally after ɐ. After u and o become ɐ, and ɐ > e phenomena. Sept 26: redundant # removed. 
+{l;n} > {ŋ;ŋ} / ɐ __ 
 
-$ b bʰ bʷ become v. Later, remaining rounded consonants pass to w. 7 cases. 
-[-cont,+voi,+lab] > v / # __
+$ b bʰ bʷ become v. Later, remaining rounded consonants pass to w. 7 cases. Sept 26: redundant # removed. 
+[-cont,+voi,+lab] > v 
 
-$remaining rounded consonants pass to w.
-[-syl,+lab,+round] > w / # __
+$remaining rounded consonants pass to w. Sept 26: redundant # removed, and [-syl] made more specific to [+cons] 
+[+cons,+lab,+round] > w
 
-$initial t- to k- 
-t > k / # __ 
+$initial t- to k-. Sept 26: redundant # removed. 
+t > k
 
 $ inserted.
 $ loss of any vowel length
