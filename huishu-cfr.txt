@@ -46,7 +46,7 @@ $ final k insertion after u and i. Must come before o and ɐ secondarily become 
 
 $ uj to u, after e > u / __ j and after final k insertion.
 $ many affected items, looks good.  
-# Sept 26: redundant # removed. 
+$ Sept 26: redundant # removed. 
 j > ∅ / u __
 
 $vowel changes before r, generally involving backing and rounding. Must happen before final r effacement. Distinguishes short and long a.
