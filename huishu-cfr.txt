@@ -7,10 +7,12 @@ $vowels go to e before t, which Rebecca seems to note feeds j epenthesis for ʃu
 {u;a;i;ɐ} > {e;e;e;e} / __ t
 
 $vowel changes before p: 
-[+syl,-round,-lo] > e / __ p 
+$[+syl,-round,-lo] > e / __ p 
 	$  ɐ, i  > e / __ p
-	$ there don't seem to be any examples of initial ɨp# so this can be roped in. ap# cannot though. ip# has only one example. 
+	$ there don't seem to be any examples of etymological ɨp# so this can be roped in. ap# cannot though. ip# has only one example. 
 	$ Just one word effected : jip > jep. 
+	$ Nov 2024 -- removed. /ɐ/ is low ironically anyways, but this is entirely spurious. There is, separately, hri > ... > re and mi > .... > me (but ri >... > re) so there may be something separate going on with i > e here. 
+
 [+syl,+round,+back] > ɐ / __ p
 	$ u, o > ɐ / __ p
 	$ just 2 words affected as Feb 16, one each for u and o: kup, khop > kɐp, khɐp.

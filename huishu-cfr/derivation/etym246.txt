@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :246:
 #si# >>> #sik# ( GOLD : #sik#) :
 s i 
-#sik# | 11 : ∅ > k / [+hi,+syl] __ #
+#sik# | 10 : ∅ > k / [+hi,+syl] __ #
 Final form : #sik#

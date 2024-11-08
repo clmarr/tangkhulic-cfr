@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :233:
 #poj# >>> #pu# ( GOLD : #pu#) :
 p o j 
-#puj# | 5 : [+syl,-hi,-lo] > u / __ j
-#pu# | 12 : j > ∅ / u __ 
+#puj# | 4 : [+syl,-hi,-lo] > u / __ j
+#pu# | 11 : j > ∅ / u __ 
 Final form : #pu#

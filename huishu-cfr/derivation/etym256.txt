@@ -1,7 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :256:
 #bet# >>> #vejʔ# ( GOLD : #vejʔ#) :
 b e t 
-#bejt# | 6 : ∅ > j / e __ t
-#bejʔ# | 8 : [-cont,-lab] > ʔ / __ #
-#vejʔ# | 36 : [-cont,+voi,+lab] > v 
+#bejt# | 5 : ∅ > j / e __ t
+#bejʔ# | 7 : [-cont,-lab] > ʔ / __ #
+#vejʔ# | 35 : [-cont,+voi,+lab] > v 
 Final form : #vejʔ#

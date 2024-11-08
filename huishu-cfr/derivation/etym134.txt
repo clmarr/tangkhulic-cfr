@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :134:
 #mot# >>> #moʔ# ( GOLD : #moʔ#) :
 m o t 
-#moʔ# | 8 : [-cont,-lab] > ʔ / __ #
+#moʔ# | 7 : [-cont,-lab] > ʔ / __ #
 Final form : #moʔ#

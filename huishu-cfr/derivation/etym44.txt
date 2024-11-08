@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :44:
 #saŋ# >>> #so# ( GOLD : #so#) :
 s a ŋ 
-#soŋ# | 17 : {a;i} > {o;ɐ} / [+cons] __ ŋ
-#so# | 18 : ŋ > ∅ / [+tense,+syl,-hi] __ 
+#soŋ# | 16 : {a;i} > {o;ɐ} / [+cons] __ ŋ
+#so# | 17 : ŋ > ∅ / [+tense,+syl,-hi] __ 
 Final form : #so#

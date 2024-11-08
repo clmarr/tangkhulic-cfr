@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :230:
 #bʷeŋ# >>> #ve# ( GOLD : #vi#) :
 bʷ e ŋ 
-#bʷe# | 18 : ŋ > ∅ / [+tense,+syl,-hi] __ 
-#ve# | 36 : [-cont,+voi,+lab] > v 
+#bʷe# | 17 : ŋ > ∅ / [+tense,+syl,-hi] __ 
+#ve# | 35 : [-cont,+voi,+lab] > v 
 Final form : #ve#

@@ -2,5 +2,5 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :6:
 #caw# >>> #t͡sow# ( GOLD : #t͡sow#) :
 c a w 
 #t͡saw# | 0 : c > t͡s 
-#t͡sow# | 10 : [+tense,-hi,-long] > o / __ w
+#t͡sow# | 9 : [+tense,-hi,-long] > o / __ w
 Final form : #t͡sow#

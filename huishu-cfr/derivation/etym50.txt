@@ -1,6 +1,6 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :50:
 #pʷuk# >>> #wuʔ# ( GOLD : #wuʔ#) :
 pʷ u k 
-#pʷuʔ# | 8 : [-cont,-lab] > ʔ / __ #
-#wuʔ# | 37 : [+cons,+lab,+round] > w 
+#pʷuʔ# | 7 : [-cont,-lab] > ʔ / __ #
+#wuʔ# | 36 : [+cons,+lab,+round] > w 
 Final form : #wuʔ#

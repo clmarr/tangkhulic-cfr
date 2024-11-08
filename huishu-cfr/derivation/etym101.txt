@@ -2,6 +2,6 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :101:
 #kʰut# >>> #kʰejʔ# ( GOLD : #kʰuʔ#) :
 kʰ u t 
 #kʰet# | 1 : {u;a;i;ɐ} > {e;e;e;e} / __ t
-#kʰejt# | 6 : ∅ > j / e __ t
-#kʰejʔ# | 8 : [-cont,-lab] > ʔ / __ #
+#kʰejt# | 5 : ∅ > j / e __ t
+#kʰejʔ# | 7 : [-cont,-lab] > ʔ / __ #
 Final form : #kʰejʔ#

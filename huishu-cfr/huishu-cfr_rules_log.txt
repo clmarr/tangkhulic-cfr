@@ -1,6 +1,5 @@
 c > t͡s 
 {u;a;i;ɐ} > {e;e;e;e} / __ t
-[+syl,-round,-lo] > e / __ p
 [+syl,+round,+back] > ɐ / __ p
 ɨ > u 
 [+syl,-hi,-lo] > u / __ j

@@ -2,6 +2,6 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :217:
 #wɐt# >>> #wejʔ# ( GOLD : #vejʔ#) :
 w ɐ t 
 #wet# | 1 : {u;a;i;ɐ} > {e;e;e;e} / __ t
-#wejt# | 6 : ∅ > j / e __ t
-#wejʔ# | 8 : [-cont,-lab] > ʔ / __ #
+#wejt# | 5 : ∅ > j / e __ t
+#wejʔ# | 7 : [-cont,-lab] > ʔ / __ #
 Final form : #wejʔ#

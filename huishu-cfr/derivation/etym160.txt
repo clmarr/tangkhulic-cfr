@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :160:
 #mi# >>> #mik# ( GOLD : #me#) :
 m i 
-#mik# | 11 : ∅ > k / [+hi,+syl] __ #
+#mik# | 10 : ∅ > k / [+hi,+syl] __ #
 Final form : #mik#
