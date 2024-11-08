@@ -2,5 +2,5 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :139:
 #naŋ# >>> #no# ( GOLD : #no#) :
 n a ŋ 
 #noŋ# | 17 : {a;i} > {o;ɐ} / [+cons] __ ŋ
-#no# | 18 : ŋ > ∅ / [+tense,+syl,-hi] __ #
+#no# | 18 : ŋ > ∅ / [+tense,+syl,-hi] __ 
 Final form : #no#

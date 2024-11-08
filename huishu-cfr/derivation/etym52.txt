@@ -2,5 +2,5 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :52:
 #mej# >>> #mu# ( GOLD : #mu#) :
 m e j 
 #muj# | 5 : [+syl,-hi,-lo] > u / __ j
-#mu# | 12 : j > ∅ / u __ #
+#mu# | 12 : j > ∅ / u __ 
 Final form : #mu#

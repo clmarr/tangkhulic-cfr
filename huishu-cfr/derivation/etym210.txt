@@ -2,5 +2,5 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :210:
 #ʃa# >>> #se# ( GOLD : #se#) :
 ʃ a 
 #ʃe# | 16 : {o;a;e;ɐ} > {u;e;i;u} / __ #
-#se# | 28 : ʃ > s / # __ 
+#se# | 28 : ʃ > s 
 Final form : #se#

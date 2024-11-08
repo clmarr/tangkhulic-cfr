@@ -2,6 +2,6 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :162:
 #tʰat# >>> #tʰejʔ# ( GOLD : #tʰejʔ#) :
 tʰ a t 
 #tʰet# | 1 : {u;a;i;ɐ} > {e;e;e;e} / __ t
-#tʰejt# | 6 : ∅ > j / e __ t #
+#tʰejt# | 6 : ∅ > j / e __ t
 #tʰejʔ# | 8 : [-cont,-lab] > ʔ / __ #
 Final form : #tʰejʔ#

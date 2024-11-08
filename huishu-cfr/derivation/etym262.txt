@@ -2,7 +2,7 @@ Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :262:
 #ʃat# >>> #sejʔ# ( GOLD : #ʃe#) :
 ʃ a t 
 #ʃet# | 1 : {u;a;i;ɐ} > {e;e;e;e} / __ t
-#ʃejt# | 6 : ∅ > j / e __ t #
+#ʃejt# | 6 : ∅ > j / e __ t
 #ʃejʔ# | 8 : [-cont,-lab] > ʔ / __ #
-#sejʔ# | 28 : ʃ > s / # __ 
+#sejʔ# | 28 : ʃ > s 
 Final form : #sejʔ#

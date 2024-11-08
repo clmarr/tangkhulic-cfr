@@ -38,7 +38,7 @@ $ simpler form from before then: [-cont] > ʔ / __ #
 p > ʔ / [+lo,+tense] __
 	$ currently, using corrected version where it affects long /a:/ too is above. To be faithful to hte current version, can use this rule instead of the above: p > ʔ / a __ # . Sept 26: redundant # rmeoved. 
 
-$ tense nonhigh (e, a) vowels to o before w. There are many examples for /a/ but only one for /e/. 
+$ tense nonhigh (e, a) vowels to o before w. There are many examples for /a/ but only one for /e/. Apparently does not effect long /aː/. 
 [+tense,-hi,-long] > o / __ w
 
 $ final k insertion after u and i. Must come before o and ɐ secondarily become u in final positions. After a > i but before i > e. Many etyma affected, four apparent exceptions. The exceptions all after [+son] [+front,+syl,-lo] (li,me,hri > re,ri) but there are counterexceptions to thiese (ri > lik, 3 cases of ni > nik).
@@ -105,7 +105,7 @@ h > ∅ / __ [-syl] [-hi]
 $ l effacement and r effacement. 
 [+son,+cons,+cor] > ∅ / [-syl] __ 
 
-$ d-rhotation word initially, prevocalic. 7 examples. Sept 26: redundant # removed. 
+$ d-rhotation, prevocalic. 7 examples. Sept 26: redundant # removed. 
 d > r / __ [+syl] 
  
 $ ʃ-fronting initially. There are 4 cases where you instead get t͡s, with mysterious conditioning. Sept 26: redundant # removed. 
@@ -137,7 +137,7 @@ $  l and n > ŋ ŋ. Distinct treatment of long and short vowels maintains.
 $ CM-FIX SUPPRESSED: just merge this with the pre-N phenomena.
 $ {u;o;i} > {ɐ;ɐ;ɐ} / __ l
 
-$ l and n become engma finally after ɐ. After u and o become ɐ, and ɐ > e phenomena. Sept 26: redundant # removed. 
+$ l and n become engma after ɐ. After u and o become ɐ, and ɐ > e phenomena. Sept 26: redundant # removed. 
 {l;n} > {ŋ;ŋ} / ɐ __ 
 
 $ b bʰ bʷ become v. Later, remaining rounded consonants pass to w. 7 cases. Sept 26: redundant # removed. 

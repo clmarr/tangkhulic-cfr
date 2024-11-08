@@ -1,22 +1,22 @@
-c > t͡s / # __ 
+c > t͡s 
 {u;a;i;ɐ} > {e;e;e;e} / __ t
 [+syl,-round,-lo] > e / __ p
 [+syl,+round,+back] > ɐ / __ p
 ɨ > u 
 [+syl,-hi,-lo] > u / __ j
-∅ > j / e __ t #
+∅ > j / e __ t
 {o;i;a} > {u;o;o} / __ k
 [-cont,-lab] > ʔ / __ #
-p > ʔ / [+lo,+tense] __ #
+p > ʔ / [+lo,+tense] __ 
 [+tense,-hi,-long] > o / __ w
 ∅ > k / [+hi,+syl] __ #
-j > ∅ / u __ #
+j > ∅ / u __ 
 {o;i;a;ɐ;e} > {u;u;o;o;ɐ} / __ r
-ŋ > ∅ / o __ #
+ŋ > ∅ / o __ 
 a > aː / [+nas] __ #
 {o;a;e;ɐ} > {u;e;i;u} / __ #
 {a;i} > {o;ɐ} / [+cons] __ ŋ
-ŋ > ∅ / [+tense,+syl,-hi] __ #
+ŋ > ∅ / [+tense,+syl,-hi] __ 
 a a > aː 
 aː > i / __ #
 r > ∅ / __ #
@@ -25,16 +25,16 @@ w > ∅ / [-syl] __ u
 d > ∅ / __ [-syl]
 h > ∅ / __ [-syl] [-hi]
 [+son,+cons,+cor] > ∅ / [-syl] __ 
-d > r / # __ [+syl]
-ʃ > s / # __ 
+d > r / __ [+syl]
+ʃ > s 
 [+syl] > ∅ / __ [+syl]
 {ɐ;a;aː;i;u;o} > {e;e;e;ɐ;ɐ;ɐ} / __ [+cor,+son]
 n > j / e __ #
 a > e / __ j
 j > ∅ / [+cor,-nas] e __ #
 {i;u} > {ɐ;ɐ} / __ m
-{l;n} > {ŋ;ŋ} / ɐ __ #
-[-cont,+voi,+lab] > v / # __ 
-[-syl,+lab,+round] > w / # __ 
-t > k / # __ 
+{l;n} > {ŋ;ŋ} / ɐ __ 
+[-cont,+voi,+lab] > v 
+[+cons,+lab,+round] > w 
+t > k 
 [+syl] > [-long,-splng] 

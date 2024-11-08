@@ -1,5 +1,5 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :180:
 #nap# >>> #naʔ# ( GOLD : #naʔ#) :
 n a p 
-#naʔ# | 9 : p > ʔ / [+lo,+tense] __ #
+#naʔ# | 9 : p > ʔ / [+lo,+tense] __ 
 Final form : #naʔ#

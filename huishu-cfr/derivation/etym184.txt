@@ -1,7 +1,7 @@
 Derivation file for run '../tangkhulic-cfr/huishu-cfr'; etymon number :184:
 #kʰaaŋ# >>> #kʰi# ( GOLD : #kʰi#) :
 kʰ a a ŋ 
-#kʰaa# | 18 : ŋ > ∅ / [+tense,+syl,-hi] __ #
+#kʰaa# | 18 : ŋ > ∅ / [+tense,+syl,-hi] __ 
 #kʰaː# | 19 : a a > aː 
 #kʰi# | 20 : aː > i / __ #
 Final form : #kʰi#
